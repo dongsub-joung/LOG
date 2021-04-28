@@ -1,0 +1,1125 @@
+Apr 10 00:40:56 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.AddressBookLegacy" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air syslogd[272]: Configuration Notice:
+	ASL Module "com.apple.clouddocs" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Apr 10 00:40:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 00:40:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 00:40:58 DSs-Air syncdefaultsd[45905]: objc[45905]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 00:40:58 DSs-Air syncdefaultsd[45905]: objc[45905]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 01:23:34 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 02:05:27 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 02:23:33 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 02:41:24 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 03:41:56 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 03:41:56 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.system): Service "com.apple.emond.aslmanager" tried to register for endpoint "com.apple.aslmanager" already registered by owner: com.apple.aslmanager
+Apr 10 03:41:56 DSs-Air com.apple.xpc.launchd[1] (com.apple.bsd.dirhelper[45922]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.bsd.dirhelper
+Apr 10 03:42:13 DSs-Air com.apple.xpc.launchd[1] (com.apple.mediaanalysisd): Service only ran for 5 seconds. Pushing respawn out by 5 seconds.
+Apr 10 03:42:14 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 03:42:15 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 04:28:18 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 04:28:18 DSs-Air spctl[45953]: objc[45953]: Class SPExecutionPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45953]: objc[45953]: Class AppWrapper is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45953]: objc[45953]: Class AppWrapperPolicyResult is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45953]: objc[45953]: Class AppWrapperPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45953]: objc[45953]: Class SPLog is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45953]: objc[45953]: Class MIS is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45953]: objc[45953]: Class SPExecutionHistoryItem is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45953]: objc[45953]: Class SPExecutionPolicyItem is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45953]: objc[45953]: Class SPDeveloperPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45953]: objc[45953]: Class GKScanResult is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45954]: objc[45954]: Class SPExecutionPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45954]: objc[45954]: Class AppWrapper is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45954]: objc[45954]: Class AppWrapperPolicyResult is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45954]: objc[45954]: Class AppWrapperPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45954]: objc[45954]: Class SPLog is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45954]: objc[45954]: Class MIS is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45954]: objc[45954]: Class SPExecutionHistoryItem is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45954]: objc[45954]: Class SPExecutionPolicyItem is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45954]: objc[45954]: Class SPDeveloperPolicy is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:28:18 DSs-Air spctl[45954]: objc[45954]: Class GKScanResult is implemented in both /System/Library/PrivateFrameworks/SystemPolicy.framework/Versions/A/SystemPolicy and /usr/sbin/spctl. One of the two will be used. Which one is undefined.
+Apr 10 04:46:38 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 04:46:54 DSs-Air syncdefaultsd[45961]: objc[45961]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 04:46:54 DSs-Air syncdefaultsd[45961]: objc[45961]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 05:05:52 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 05:23:32 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 05:39:16 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 05:55:23 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 06:12:23 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 06:23:31 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 06:28:12 DSs-Air remindd[45973]: objc[45973]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 06:28:13 DSs-Air remindd[45973]: objc[45973]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x1010b3700). One of the two will be used. Which one is undefined.
+Apr 10 06:28:31 DSs-Air pfd[45975]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 06:28:33 DSs-Air timed[314]: settimeofday({0x6070c701,0x3eec5}) == 0
+Apr 10 06:28:34 DSs-Air syncdefaultsd[45980]: objc[45980]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 06:28:34 DSs-Air syncdefaultsd[45980]: objc[45980]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 06:31:01 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 06:31:01 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 06:33:45 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 06:41:01 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 06:41:01 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 06:43:43 DSs-Air timed[314]: settimeofday({0x6070ca8f,0x2fcb0}) == 0
+Apr 10 06:43:43 DSs-Air remindd[45989]: objc[45989]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 06:43:43 DSs-Air remindd[45989]: objc[45989]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x102e9b700). One of the two will be used. Which one is undefined.
+Apr 10 06:43:43 DSs-Air com.apple.siri-distributed-evaluation[45990]: sandbox initialization failed: <internal init prelude>:456:12: unable to open common.sb: not found
+		(apply error x)
+Apr 10 06:43:43 DSs-Air com.apple.xpc.launchd[1] (com.apple.siri-distributed-evaluation[45990]): Service exited with abnormal code: 1
+Apr 10 06:48:43 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 06:50:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 06:50:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 07:00:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 07:00:59 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 07:00:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 07:10:17 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systempreferences.1152921500311955792.1152921500311955797(501)> [5761]
+Apr 10 07:10:17 DSs-Air AccountProfileRemoteViewService[46008]: objc[46008]: Class AOSUISpyglassAccountChangeHelper is implemented in both /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/AOSUI and /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/XPCServices/AccountProfileRemoteViewService.xpc/Contents/MacOS/AccountProfileRemoteViewService. One of the two will be used. Which one is undefined.
+Apr 10 07:10:21 DSs-Air com.apple.xpc.launchd[1] (com.apple.preference.notifications.remoteservice[46016]): Service exited due to SIGKILL | sent by com.apple.preference.notificatio[46016]
+Apr 10 07:10:34 DSs-Air fud[46018]: objc[46018]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 07:10:34 DSs-Air fud[46018]: objc[46018]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 07:10:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 07:10:59 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 07:10:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 07:14:39 DSs-Air com.apple.WebKit.WebContent[46030]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 07:20:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 07:20:59 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 07:20:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 07:24:46 DSs-Air com.apple.WebKit.WebContent[46032]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 07:29:30 DSs-Air com.apple.WebKit.WebContent[46046]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 07:30:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 07:30:59 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 07:30:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 07:38:44 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.org.wireshark.Wireshark.4692341.4692485(501)> [1459]
+Apr 10 07:40:04 DSs-Air com.apple.WebKit.WebContent[46112]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 07:40:21 DSs-Air com.apple.WebKit.WebContent[46110]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 07:40:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 07:40:59 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 07:40:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 07:50:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 07:50:59 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 07:50:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 07:56:21 DSs-Air com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0B000000-0200-0000-0000-000000000000[46128]): Service exited due to SIGKILL | sent by mds[299]
+Apr 10 07:56:40 DSs-Air com.apple.xpc.launchd[1] (com.apple.mdworker.shared.0A000000-0300-0000-0000-000000000000[46131]): Service exited due to SIGKILL | sent by mds[299]
+Apr 10 07:57:02 DSs-Air com.apple.xpc.launchd[1] (com.apple.mdworker.shared.10000000-0300-0000-0000-000000000000[46135]): Service exited due to SIGKILL | sent by mds[299]
+Apr 10 07:57:56 DSs-Air com.apple.WebKit.WebContent[46113]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 07:58:23 DSs-Air com.apple.WebKit.WebContent[46190]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 08:00:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 08:00:59 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 08:00:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 08:10:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 08:10:59 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 08:10:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 08:16:27 DSs-Air timed[314]: settimeofday({0x6070e04b,0x53826}) == 0
+Apr 10 08:20:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 08:20:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 08:27:39 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 08:30:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 08:30:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 08:32:28 DSs-Air timed[314]: settimeofday({0x6070e40c,0x57481}) == 0
+Apr 10 08:32:28 DSs-Air remindd[46213]: objc[46213]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 08:32:28 DSs-Air remindd[46213]: objc[46213]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x1055f7700). One of the two will be used. Which one is undefined.
+Apr 10 08:32:28 DSs-Air com.apple.siri-distributed-evaluation[46214]: sandbox initialization failed: <internal init prelude>:456:12: unable to open common.sb: not found
+		(apply error x)
+Apr 10 08:32:28 DSs-Air com.apple.xpc.launchd[1] (com.apple.siri-distributed-evaluation[46214]): Service exited with abnormal code: 1
+Apr 10 08:39:11 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 08:40:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 08:40:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 08:50:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 08:50:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 08:50:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 09:00:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 09:00:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 09:00:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 09:10:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 09:10:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 09:10:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 09:13:38 DSs-Air login[46267]: USER_PROCESS: 46267 ttys007
+Apr 10 09:20:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 09:20:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 09:20:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 09:30:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 09:30:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 09:30:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 09:40:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 09:40:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 09:44:48 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 09:44:48 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.activateSettings.8491FF3F-236C-4B8C-B0FA-C576EE1B5599(501)> [660]
+Apr 10 09:50:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 09:50:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 09:55:04 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 10:00:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 10:00:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 10:05:27 DSs-Air timed[314]: settimeofday({0x6070f9d7,0x20798}) == 0
+Apr 10 10:05:27 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 10:10:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 10:10:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 10:18:42 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 10:20:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 10:20:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 10:27:00 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systempreferences.1152921500311955792.1152921500311955797(501)> [5761]
+Apr 10 10:27:00 DSs-Air AccountProfileRemoteViewService[46692]: objc[46692]: Class AOSUISpyglassAccountChangeHelper is implemented in both /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/AOSUI and /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/XPCServices/AccountProfileRemoteViewService.xpc/Contents/MacOS/AccountProfileRemoteViewService. One of the two will be used. Which one is undefined.
+Apr 10 10:27:06 DSs-Air powerlogHelperd[46701]: assertion failed: 20D91: PowerlogCore + 769284 [25472DCA-6393-30A3-9C8C-E6788763BF00]: 0x2
+Apr 10 10:27:40 DSs-Air com.apple.xpc.launchd[1] (com.apple.AccountProfileRemoteViewService[46692]): Service exited due to SIGKILL | sent by AccountProfileRemoteViewService[46692]
+Apr 10 10:28:52 DSs-Air com.apple.WebKit.WebContent[46705]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 10:28:52 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 10:30:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 10:30:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 10:30:59 DSs-Air com.apple.WebKit.WebContent[46712]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 10:31:44 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.AppStore.1152921500311879705.1152921500311879710(501)> [8888]
+Apr 10 10:31:50 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.App Store.46715): Path not allowed in target domain: type = pid, path = /System/Library/CoreServices/SetupAssistantPlugins/AMPAccounts.icdplugin/Contents/XPCServices/AMPAccountPluginHelper.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Applications/App Store.app
+Apr 10 10:32:00 DSs-Air remindd[46719]: objc[46719]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 10:32:01 DSs-Air remindd[46719]: objc[46719]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x10784b700). One of the two will be used. Which one is undefined.
+Apr 10 10:32:01 DSs-Air com.apple.siri-distributed-evaluation[46720]: sandbox initialization failed: <internal init prelude>:456:12: unable to open common.sb: not found
+		(apply error x)
+Apr 10 10:32:01 DSs-Air com.apple.xpc.launchd[1] (com.apple.siri-distributed-evaluation[46720]): Service exited with abnormal code: 1
+Apr 10 10:32:02 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:02 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:02 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:02 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:02 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:02 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:07 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:07 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:07 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:07 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:08 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:08 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:13 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:13 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:13 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:13 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:47 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:47 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:47 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:47 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:47 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:47 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:47 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:47 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:47 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:47 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:51 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:51 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:51 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:32:51 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:33:14 DSs-Air AKAuthorizationRemoteViewService[46723]: objc[46723]: Class AKCredentialRequestContext is implemented in both /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/AuthKit and /System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/XPCServices/AKAuthorizationRemoteViewService.xpc/Contents/MacOS/AKAuthorizationRemoteViewService. One of the two will be used. Which one is undefined.
+Apr 10 10:35:36 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.bitgapp.eqmac.1197775.4545986(501)> [881]
+Apr 10 10:35:58 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.unmanaged.loginwindow.345" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.TextInputMenuAgent
+Apr 10 10:36:01 --- last message repeated 1 time ---
+Apr 10 10:36:01 DSs-Air timed[314]: settimeofday({0x60710101,0x717f0}) == 0
+Apr 10 10:36:08 DSs-Air remindd[46744]: objc[46744]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 10:36:08 DSs-Air remindd[46744]: objc[46744]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x1034eb700). One of the two will be used. Which one is undefined.
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:36:11 DSs-Air VTDecoderXPCService[46721]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:19 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.AppStore.1152921500311879705.1152921500311879710(501)> [8888]
+Apr 10 10:37:20 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:20 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:20 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:20 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:20 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:20 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:20 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:20 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:20 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:20 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:21 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:21 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:21 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:21 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:21 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:21 DSs-Air VTDecoderXPCService[46750]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:37:21 DSs-Air App Store[46748]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 10:37:22 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.App Store.46748): Path not allowed in target domain: type = pid, path = /System/Library/CoreServices/SetupAssistantPlugins/AMPAccounts.icdplugin/Contents/XPCServices/AMPAccountPluginHelper.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Applications/App Store.app
+Apr 10 10:37:31 DSs-Air com.apple.WebKit.WebContent[46751]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 10:40:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 10:40:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 10:40:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 10:47:32 DSs-Air com.apple.WebKit.WebContent[46761]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 10:48:26 DSs-Air com.apple.WebKit.WebContent[46769]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 10:49:37 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.AppStore.1152921500311879705.1152921500311879710(501)> [8888]
+Apr 10 10:49:40 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:40 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:40 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:40 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:41 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:41 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:41 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:41 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:41 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:41 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:41 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:41 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:41 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:41 DSs-Air VTDecoderXPCService[46782]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 10:49:47 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.App Store.46779): Path not allowed in target domain: type = pid, path = /System/Library/CoreServices/SetupAssistantPlugins/AMPAccounts.icdplugin/Contents/XPCServices/AMPAccountPluginHelper.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Applications/App Store.app
+Apr 10 10:50:14 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.docker.docker.4293724.4294099(501)> [885]
+Apr 10 10:50:31 DSs-Air syncdefaultsd[46799]: objc[46799]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 10:50:31 DSs-Air syncdefaultsd[46799]: objc[46799]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 10:50:48 DSs-Air fud[46800]: objc[46800]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 10:50:48 DSs-Air fud[46800]: objc[46800]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 10:50:55 DSs-Air com.apple.WebKit.WebContent[46778]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 10:50:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 10:50:59 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 10:50:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 10:51:03 DSs-Air timed[314]: settimeofday({0x60710487,0xb3b1a}) == 0
+Apr 10 10:53:29 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.ProblemReporter.1152921500312183635.1152921500312183640(501)> [1297]
+Apr 10 10:54:11 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.Photos.1152921500311928199.1152921500311932008(501)> [2929]
+Apr 10 10:54:59 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): entering bootstrap mode
+Apr 10 10:54:59 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): exiting bootstrap mode
+Apr 10 10:55:38 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.unmanaged.loginwindow.345" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.TextInputMenuAgent
+Apr 10 10:55:46 --- last message repeated 1 time ---
+Apr 10 10:55:46 DSs-Air remindd[46877]: objc[46877]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 10:55:46 DSs-Air remindd[46877]: objc[46877]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x1057ab700). One of the two will be used. Which one is undefined.
+Apr 10 10:56:47 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.unmanaged.loginwindow.345" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.TextInputMenuAgent
+Apr 10 11:08:47 --- last message repeated 1 time ---
+Apr 10 11:08:47 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 11:08:49 DSs-Air pfd[46896]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 11:09:01 DSs-Air com.apple.xpc.launchd[1] (com.apple.NetworkExtension.IKEv2Provider[45978]): Service exited due to SIGKILL | sent by nesessionmanager[453]
+Apr 10 11:12:50 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 11:12:50 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 11:22:50 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 11:22:50 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 11:22:50 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 11:30:08 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.unmanaged.loginwindow.345" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.TextInputMenuAgent
+Apr 10 12:03:20 --- last message repeated 1 time ---
+Apr 10 12:03:20 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 12:03:22 DSs-Air pfd[47242]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 12:05:49 DSs-Air com.apple.xpc.launchd[1] (com.apple.AddressBook.abd): Service only ran for 2 seconds. Pushing respawn out by 8 seconds.
+Apr 10 12:05:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 12:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 12:05:58 DSs-Air com.apple.xpc.launchd[1] (com.apple.AddressBook.abd): Service only ran for 0 seconds. Pushing respawn out by 10 seconds.
+Apr 10 12:08:03 DSs-Air login[46267]: DEAD_PROCESS: 46267 ttys007
+Apr 10 12:13:43 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 12:14:12 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.DiskImageMounter.1152921500312152639.1152921500312152644(501)> [10898]
+Apr 10 12:15:01 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.jetbrains.intellij.3665227.4017572(501)> [3003]
+Apr 10 12:15:07 DSs-Air com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 0 seconds. Pushing respawn out by 60 seconds.
+Apr 10 12:15:07 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): entering bootstrap mode
+Apr 10 12:15:07 DSs-Air com.apple.xpc.launchd[1] (com.valvesoftware.steam.ipctool): This service is defined to be constantly running and is inherently inefficient.
+Apr 10 12:15:07 DSs-Air com.apple.xpc.launchd[1] (com.valvesoftware.steam.ipctool): This key does not do anything: OnDemand
+Apr 10 12:15:07 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): exiting bootstrap mode
+Apr 10 12:15:07 DSs-Air ipcserver[47548]: Valve Steam ipcserver started: 1.04
+Apr 10 12:15:07 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): entering bootstrap mode
+Apr 10 12:15:07 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): com.valvesoftware.steamclean (lint): Unknown key for array: SteamContentPaths
+Apr 10 12:15:07 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): exiting bootstrap mode
+Apr 10 12:15:07 DSs-Air com.apple.xpc.launchd[1] (application.com.valvesoftware.steam.4821870.4821946[47543]): Service exited with abnormal code: 42
+Apr 10 12:15:08 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.cx.c3.theunarchiver.1437253.1437411(501)> [4897]
+Apr 10 12:15:09 DSs-Air com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 1 seconds. Pushing respawn out by 59 seconds.
+Apr 10 12:15:09 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): entering bootstrap mode
+Apr 10 12:15:09 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): com.valvesoftware.steamclean (lint): Unknown key for array: SteamContentPaths
+Apr 10 12:15:09 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): exiting bootstrap mode
+Apr 10 12:15:10 DSs-Air steam_osx[47562]: objc[47562]: Class GURLHelper is implemented in both /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx (0x100dc1200) and /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steamui.dylib (0x1104bf218). One of the two will be used. Which one is undefined.
+Apr 10 12:15:10 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): entering bootstrap mode
+Apr 10 12:15:10 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): exiting bootstrap mode
+Apr 10 12:15:10 DSs-Air com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 1 seconds. Pushing respawn out by 59 seconds.
+Apr 10 12:15:10 DSs-Air steam_osx[47562]: objc[47562]: Class GURLHelper is implemented in both /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx (0x100dc1200) and /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/vgui2_s.dylib (0x116ddf408). One of the two will be used. Which one is undefined.
+Apr 10 12:15:10 DSs-Air steam_osx[47562]: objc[47562]: Class GURLHelper is implemented in both /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx (0x100dc1200) and /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/chromehtml.dylib (0x117070fc8). One of the two will be used. Which one is undefined.
+Apr 10 12:15:12 DSs-Air Steam Helper[47582]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 12:15:12 DSs-Air steam_osx[47562]: objc[47562]: Class GURLHelper is implemented in both /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx (0x100dc1200) and /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steamclient.dylib (0x1205b95f0). One of the two will be used. Which one is undefined.
+Apr 10 12:15:12 DSs-Air VTEncoderXPCService[47584]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 12:15:12 DSs-Air VTEncoderXPCService[47584]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 12:15:28 DSs-Air steam_osx[47562]: BUG in libdispatch client: read, monitored resource vanished before the source cancel handler was invoked { 0x7fc248c0e740[source], ident: 106 / 0x6a, handler: 0x11fc3bf8c }
+Apr 10 12:15:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 12:15:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 12:16:37 DSs-Air com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 27 seconds. Pushing respawn out by 33 seconds.
+Apr 10 12:17:16 DSs-Air syncdefaultsd[47619]: objc[47619]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 12:17:16 DSs-Air syncdefaultsd[47619]: objc[47619]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 12:22:49 DSs-Air ipcserver[47692]: Valve Steam ipcserver started: 1.04
+Apr 10 12:22:49 DSs-Air com.apple.xpc.launchd[1] (application.com.valvesoftware.steam.4821870.4821946.BD947AEE-0788-4FC6-A1AF-A67EB087728E[47562]): Service exited with abnormal code: 42
+Apr 10 12:22:50 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.TV.1152921500311956395.1152921500311956400(501)> [6477]
+Apr 10 12:22:50 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): entering bootstrap mode
+Apr 10 12:22:50 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): exiting bootstrap mode
+Apr 10 12:22:51 DSs-Air com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 0 seconds. Pushing respawn out by 60 seconds.
+Apr 10 12:22:55 DSs-Air com.apple.xpc.launchd[1] (application.com.valvesoftware.steam.4821870.4821946.CCB4762D-FCE4-4E22-B926-F4CD162CE782[47697]): Service exited with abnormal code: 42
+Apr 10 12:22:56 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.Preview.1152921500311942901.1152921500311942906(501)> [1959]
+Apr 10 12:22:59 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): entering bootstrap mode
+Apr 10 12:22:59 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): exiting bootstrap mode
+Apr 10 12:23:11 DSs-Air com.apple.xpc.launchd[1] (application.com.valvesoftware.steam.4821870.4821946.CBA5A3D3-88C7-4B5C-989C-2FA6F8718DA4[47707]): Service exited with abnormal code: 42
+Apr 10 12:23:12 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.me.ialaddin.noisytyper.3026471.3026481(501)> [6584]
+Apr 10 12:23:15 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): entering bootstrap mode
+Apr 10 12:23:15 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): exiting bootstrap mode
+Apr 10 12:23:16 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): entering bootstrap mode
+Apr 10 12:23:16 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): com.valvesoftware.steamclean (lint): Unknown key for array: SteamContentPaths
+Apr 10 12:23:16 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): exiting bootstrap mode
+Apr 10 12:23:16 DSs-Air com.apple.xpc.launchd[1] (application.com.valvesoftware.steam.4821870.4821946.F03BD51F-E3AB-402E-9602-F0C9397660AB[47721]): Service exited with abnormal code: 42
+Apr 10 12:23:16 DSs-Air com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 0 seconds. Pushing respawn out by 60 seconds.
+Apr 10 12:23:17 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.bootcampassistant.1152921500311969675.1152921500311969680(501)> [7387]
+Apr 10 12:23:19 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): entering bootstrap mode
+Apr 10 12:23:19 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): com.valvesoftware.steamclean (lint): Unknown key for array: SteamContentPaths
+Apr 10 12:23:19 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.user.domain.501.100023.Aqua): exiting bootstrap mode
+Apr 10 12:23:35 DSs-Air steam_osx[47742]: objc[47742]: Class GURLHelper is implemented in both /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx (0x10090e570) and /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steamui.dylib (0x110330500). One of the two will be used. Which one is undefined.
+Apr 10 12:23:35 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): entering bootstrap mode
+Apr 10 12:23:35 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): exiting bootstrap mode
+Apr 10 12:23:35 DSs-Air com.apple.xpc.launchd[1] (com.valvesoftware.steamclean): Service only ran for 15 seconds. Pushing respawn out by 45 seconds.
+Apr 10 12:23:38 DSs-Air steam_osx[47742]: objc[47742]: Class GURLHelper is implemented in both /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx (0x10090e570) and /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/vgui2_s.dylib (0x116bf0448). One of the two will be used. Which one is undefined.
+Apr 10 12:23:40 DSs-Air steam_osx[47742]: objc[47742]: Class GURLHelper is implemented in both /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx (0x10090e570) and /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/chromehtml.dylib (0x116e81fd8). One of the two will be used. Which one is undefined.
+Apr 10 12:23:43 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 12:23:44 DSs-Air steam_osx[47742]: objc[47742]: Class GURLHelper is implemented in both /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx (0x10090e570) and /Users/dongsub/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steamclient.dylib (0x120485690). One of the two will be used. Which one is undefined.
+Apr 10 12:23:51 DSs-Air Steam Helper[47793]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 12:23:52 DSs-Air VTEncoderXPCService[47797]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 12:23:52 DSs-Air VTEncoderXPCService[47797]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 12:25:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 12:25:56 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 12:33:43 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 12:33:57 DSs-Air timed[314]: settimeofday({0x60711ca5,0x2f5c2}) == 0
+Apr 10 12:33:58 DSs-Air syncdefaultsd[47933]: objc[47933]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 12:33:58 DSs-Air syncdefaultsd[47933]: objc[47933]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 12:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 12:35:59 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 12:44:45 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 12:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 12:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 12:50:40 DSs-Air com.apple.WebKit.WebContent[48134]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 12:52:37 DSs-Air steam_osx[47742]: BUG in libdispatch client: read, monitored resource vanished before the source cancel handler was invoked { 0x7fe4eb631250[source], ident: 120 / 0x78, handler: 0x11faf23ec }
+Apr 10 12:55:45 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 12:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 12:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 13:05:45 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 13:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 13:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 13:06:26 DSs-Air com.apple.xpc.launchd[1] (com.apple.AddressBook.abd): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+Apr 10 13:15:12 DSs-Air VTDecoderXPCService[1290]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 13:15:12 DSs-Air VTDecoderXPCService[1290]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 13:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 13:15:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 13:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 13:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 13:25:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 13:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 13:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 13:35:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 13:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 13:37:01 DSs-Air syncdefaultsd[48735]: objc[48735]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 13:37:01 DSs-Air syncdefaultsd[48735]: objc[48735]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 13:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 13:45:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 13:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 13:50:42 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.FontBook.1152921500311903645.1152921500311903650(501)> [7391]
+Apr 10 13:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 13:55:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 13:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 14:00:09 DSs-Air syncdefaultsd[49022]: objc[49022]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 14:00:09 DSs-Air syncdefaultsd[49022]: objc[49022]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 14:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 14:05:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 14:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 14:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 14:15:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 14:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 14:16:36 DSs-Air fud[49382]: objc[49382]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 14:16:36 DSs-Air fud[49382]: objc[49382]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 14:25:32 DSs-Air Steam Helper[47779]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 14:25:33 DSs-Air efilogin-helper[49551]: objc[49551]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Apr 10 14:25:33 DSs-Air efilogin-helper[49551]: objc[49551]: Class EFILWLogging is implemented in both ?? (0x1f71c0c20) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x10291eb58). One of the two will be used. Which one is undefined.
+Apr 10 14:25:33 DSs-Air com.apple.xpc.launchd[1] (com.apple.efilogin-helper): Service only ran for 0 seconds. Pushing respawn out by 1 seconds.
+Apr 10 14:25:34 DSs-Air efilogin-helper[49553]: objc[49553]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Apr 10 14:25:34 DSs-Air efilogin-helper[49553]: objc[49553]: Class EFILWLogging is implemented in both ?? (0x1f71c0c20) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x1008aeb58). One of the two will be used. Which one is undefined.
+Apr 10 14:25:35 DSs-Air com.apple.xpc.launchd[1] (com.apple.efilogin-helper): Service only ran for 0 seconds. Pushing respawn out by 1 seconds.
+Apr 10 14:25:36 DSs-Air efilogin-helper[49554]: objc[49554]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Apr 10 14:25:36 DSs-Air efilogin-helper[49554]: objc[49554]: Class EFILWLogging is implemented in both ?? (0x1f71c0c20) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x1001deb58). One of the two will be used. Which one is undefined.
+Apr 10 14:25:36 DSs-Air VTDecoderXPCService[49555]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:25:36 DSs-Air VTDecoderXPCService[49555]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:25:36 DSs-Air VTDecoderXPCService[49555]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:25:36 DSs-Air VTDecoderXPCService[49555]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 14:25:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 14:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 14:29:27 DSs-Air pfd[49603]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:29:35 DSs-Air remindd[49653]: objc[49653]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 14:29:35 DSs-Air remindd[49653]: objc[49653]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x104fe3700). One of the two will be used. Which one is undefined.
+Apr 10 14:30:00 DSs-Air login[45536]: DEAD_PROCESS: 45536 ttys006
+Apr 10 14:30:47 DSs-Air pfd[49672]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 14:35:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 14:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 14:39:33 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systempreferences.1152921500311955792.1152921500311955797(501)> [5761]
+Apr 10 14:39:33 DSs-Air AccountProfileRemoteViewService[50013]: objc[50013]: Class AOSUISpyglassAccountChangeHelper is implemented in both /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/AOSUI and /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/XPCServices/AccountProfileRemoteViewService.xpc/Contents/MacOS/AccountProfileRemoteViewService. One of the two will be used. Which one is undefined.
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:34 DSs-Air VTDecoderXPCService[50020]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:40 DSs-Air com.apple.xpc.launchd[1] (com.apple.preference.desktopscreeneffect.desktop.remoteservice[50019]): Service exited due to SIGKILL | sent by com.apple.preference.desktopscre[50019]
+Apr 10 14:39:43 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systempreferences.1152921500311955792.1152921500311955797(501)> [5761]
+Apr 10 14:39:43 DSs-Air AccountProfileRemoteViewService[50032]: objc[50032]: Class AOSUISpyglassAccountChangeHelper is implemented in both /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/AOSUI and /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/XPCServices/AccountProfileRemoteViewService.xpc/Contents/MacOS/AccountProfileRemoteViewService. One of the two will be used. Which one is undefined.
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:43 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:44 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:44 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:44 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:44 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:44 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:44 DSs-Air VTDecoderXPCService[50035]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:39:52 DSs-Air com.apple.xpc.launchd[1] (com.apple.preference.desktopscreeneffect.desktop.remoteservice[50034]): Service exited due to SIGKILL | sent by com.apple.preference.desktopscre[50034]
+Apr 10 14:40:28 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 14:40:28 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 14:44:13 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systempreferences.1152921500311955792.1152921500311955797(501)> [5761]
+Apr 10 14:44:14 DSs-Air AccountProfileRemoteViewService[50094]: objc[50094]: Class AOSUISpyglassAccountChangeHelper is implemented in both /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/AOSUI and /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/XPCServices/AccountProfileRemoteViewService.xpc/Contents/MacOS/AccountProfileRemoteViewService. One of the two will be used. Which one is undefined.
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:14 DSs-Air VTDecoderXPCService[50106]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:44:28 DSs-Air com.apple.xpc.launchd[1] (com.apple.preference.desktopscreeneffect.desktop.remoteservice[50105]): Service exited due to SIGKILL | sent by com.apple.preference.desktopscre[50105]
+Apr 10 14:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 14:45:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 14:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 14:47:48 DSs-Air syncdefaultsd[50150]: objc[50150]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 14:47:48 DSs-Air syncdefaultsd[50150]: objc[50150]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 14:54:53 DSs-Air pfd[50329]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 14:55:02 DSs-Air com.apple.xpc.launchd[1] (com.apple.NetworkExtension.IKEv2Provider[50331]): Service exited due to SIGKILL | sent by nesessionmanager[453]
+Apr 10 14:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 14:55:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 14:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 15:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 15:05:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 15:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 15:14:53 DSs-Air com.apple.xpc.launchd[1] (com.apple.AddressBook.abd): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+Apr 10 15:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 15:15:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 15:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 15:18:48 DSs-Air syncdefaultsd[50678]: objc[50678]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 15:18:48 DSs-Air syncdefaultsd[50678]: objc[50678]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 15:23:53 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 15:23:53 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 15:24:07 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systempreferences.1152921500311955792.1152921500311955797(501)> [5761]
+Apr 10 15:24:07 DSs-Air AccountProfileRemoteViewService[50748]: objc[50748]: Class AOSUISpyglassAccountChangeHelper is implemented in both /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/AOSUI and /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/XPCServices/AccountProfileRemoteViewService.xpc/Contents/MacOS/AccountProfileRemoteViewService. One of the two will be used. Which one is undefined.
+Apr 10 15:24:50 DSs-Air com.apple.xpc.launchd[1] (com.apple.preference.screentime.remoteservice[50757]): Service exited due to SIGKILL | sent by com.apple.preference.screentime.[50757]
+Apr 10 15:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 15:25:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 15:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 15:26:44 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.grapher.1152921500311978047.1152921500311978052(501)> [7457]
+Apr 10 15:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 15:35:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 15:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 15:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 15:45:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 15:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 15:50:02 DSs-Air syncdefaultsd[51102]: objc[51102]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 15:50:02 DSs-Air syncdefaultsd[51102]: objc[51102]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 15:54:05 DSs-Air fud[51154]: objc[51154]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 15:54:05 DSs-Air fud[51154]: objc[51154]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 15:54:57 DSs-Air syncdefaultsd[51167]: objc[51167]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 15:54:57 DSs-Air syncdefaultsd[51167]: objc[51167]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 15:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 15:55:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 15:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 15:59:24 DSs-Air timed[314]: settimeofday({0x60714ccc,0x98a80}) == 0
+Apr 10 16:00:06 DSs-Air login[51238]: USER_PROCESS: 51238 ttys006
+Apr 10 16:04:06 DSs-Air login[51343]: USER_PROCESS: 51343 ttys007
+Apr 10 16:04:14 DSs-Air login[51343]: DEAD_PROCESS: 51343 ttys007
+Apr 10 16:04:31 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 16:04:31 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 16:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 16:05:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 16:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 16:06:50 DSs-Air login[51405]: USER_PROCESS: 51405 ttys007
+Apr 10 16:08:56 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.mail.1152921500311908095.1152921500311908100(501)> [9138]
+Apr 10 16:11:41 DSs-Air login[51405]: DEAD_PROCESS: 51405 ttys007
+Apr 10 16:14:24 DSs-Air timed[314]: settimeofday({0x60715050,0x7dd45}) == 0
+Apr 10 16:14:24 DSs-Air remindd[51540]: objc[51540]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 16:14:24 DSs-Air remindd[51540]: objc[51540]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x102e67700). One of the two will be used. Which one is undefined.
+Apr 10 16:14:25 DSs-Air com.apple.siri-distributed-evaluation[51541]: sandbox initialization failed: <internal init prelude>:456:12: unable to open common.sb: not found
+		(apply error x)
+Apr 10 16:14:25 DSs-Air com.apple.xpc.launchd[1] (com.apple.siri-distributed-evaluation[51541]): Service exited with abnormal code: 1
+Apr 10 16:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 16:15:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 16:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 16:25:29 DSs-Air com.apple.xpc.launchd[1] (com.apple.AddressBook.abd): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+Apr 10 16:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 16:25:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 16:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 16:33:40 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.FolderActionsSetup.1152921500312131297.1152921500312131302(501)> [10746]
+Apr 10 16:33:42 DSs-Air Xcode[51790]: objc[51790]: Class AMSupportURLConnectionDelegate is implemented in both ?? (0x1f7388188) and ?? (0x1235ec2b8). One of the two will be used. Which one is undefined.
+Apr 10 16:33:42 DSs-Air Xcode[51790]: objc[51790]: Class AMSupportURLSession is implemented in both ?? (0x1f73881d8) and ?? (0x1235ec308). One of the two will be used. Which one is undefined.
+Apr 10 16:34:00 DSs-Air com.apple.appkit.xpc.openAndSavePanelService[51811]: assertion failed: 20D91: libxpc.dylib + 98580 [BD0DFD42-0DC3-3F3D-9C04-5A2B3D93794D]: 0x89
+Apr 10 16:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 16:35:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 16:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 16:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 16:45:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 16:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 16:50:41 DSs-Air VTDecoderXPCService[1290]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 16:50:41 DSs-Air VTDecoderXPCService[1290]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 16:52:08 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systempreferences.1152921500311955792.1152921500311955797(501)> [5761]
+Apr 10 16:52:08 DSs-Air AccountProfileRemoteViewService[52040]: objc[52040]: Class AOSUISpyglassAccountChangeHelper is implemented in both /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/AOSUI and /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/XPCServices/AccountProfileRemoteViewService.xpc/Contents/MacOS/AccountProfileRemoteViewService. One of the two will be used. Which one is undefined.
+Apr 10 16:52:25 DSs-Air com.apple.xpc.launchd[1] (com.apple.AccountProfileRemoteViewService[52040]): Service exited due to SIGKILL | sent by AccountProfileRemoteViewService[52040]
+Apr 10 16:52:25 DSs-Air com.apple.xpc.launchd[1] (com.apple.preference.network.remoteservice[52048]): Service exited due to SIGKILL | sent by com.apple.preference.network.rem[52048]
+Apr 10 16:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 16:55:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 16:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 16:57:37 DSs-Air VTDecoderXPCService[1290]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 16:57:37 DSs-Air VTDecoderXPCService[1290]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 16:59:24 DSs-Air timed[314]: settimeofday({0x60715adc,0x68ef3}) == 0
+Apr 10 17:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 17:05:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 17:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 17:09:06 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systemevents.1152921500312199679.1152921500312199684(501)> [10788]
+Apr 10 17:09:06 DSs-Air com.apple.xpc.launchd[1] (com.apple.FolderActionsDispatcher): This service is defined to be constantly running and is inherently inefficient.
+Apr 10 17:09:06 DSs-Air login[52261]: USER_PROCESS: 52261 ttys007
+Apr 10 17:09:19 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.naver.Whale.4316098.4316657(501)> [1645]
+Apr 10 17:09:22 DSs-Air Whale Helper (GPU)[52328]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 17:09:22 DSs-Air VTDecoderXPCService[52330]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 17:09:22 DSs-Air VTDecoderXPCService[52330]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 17:09:22 DSs-Air VTDecoderXPCService[52330]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 17:09:22 DSs-Air VTDecoderXPCService[52330]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 17:09:22 DSs-Air VTDecoderXPCService[52330]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 17:09:22 DSs-Air VTDecoderXPCService[52330]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 17:09:22 DSs-Air VTDecoderXPCService[52330]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 17:09:22 DSs-Air VTDecoderXPCService[52330]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 17:10:27 DSs-Air Whale Helper[52364]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:10:27 --- last message repeated 16 times ---
+Apr 10 17:10:27 DSs-Air Whale Helper[52365]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:10:27 --- last message repeated 16 times ---
+Apr 10 17:10:27 DSs-Air Whale Helper[52366]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:10:32 --- last message repeated 16 times ---
+Apr 10 17:10:32 DSs-Air Whale Helper[52368]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:11:02 --- last message repeated 16 times ---
+Apr 10 17:11:06 DSs-Air com.apple.xpc.launchd[1] (com.apple.AddressBook.abd): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+Apr 10 17:14:24 DSs-Air timed[314]: settimeofday({0x60715e60,0x721fb}) == 0
+Apr 10 17:14:24 DSs-Air remindd[52424]: objc[52424]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 17:14:24 DSs-Air remindd[52424]: objc[52424]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x1034b7700). One of the two will be used. Which one is undefined.
+Apr 10 17:14:24 DSs-Air com.apple.siri-distributed-evaluation[52425]: sandbox initialization failed: <internal init prelude>:456:12: unable to open common.sb: not found
+		(apply error x)
+Apr 10 17:14:24 DSs-Air com.apple.xpc.launchd[1] (com.apple.siri-distributed-evaluation[52425]): Service exited with abnormal code: 1
+Apr 10 17:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 17:15:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 17:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 17:20:03 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:20:03 --- last message repeated 16 times ---
+Apr 10 17:20:03 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.Whale Helper.52500): Path not allowed in target domain: type = pid, path = /Applications/Whale.app/Contents/Frameworks/Whale Framework.framework/Versions/2.9.115.16/XPCServices/AlertNotificationService.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /Applications/Whale.app/Contents/Frameworks/Whale Framework.framework/Versions/2.9.115.16/Helpers/Whale Helper.app
+Apr 10 17:20:03 DSs-Air VTDecoderXPCService[52330]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 17:20:03 DSs-Air VTDecoderXPCService[52330]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 17:20:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:21:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:22:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:23:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:24:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:25:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 17:25:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 17:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 17:26:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:27:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:28:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:29:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:30:16 DSs-Air login[51238]: DEAD_PROCESS: 51238 ttys006
+Apr 10 17:30:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:31:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:32:06 DSs-Air syncdefaultsd[52657]: objc[52657]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 17:32:06 DSs-Air syncdefaultsd[52657]: objc[52657]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 17:32:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:33:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:34:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:35:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 17:35:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 17:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 17:36:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:37:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:37:59 DSs-Air PerfPowerServices[52733]: assertion failed: 20D91: PowerlogCore + 769284 [25472DCA-6393-30A3-9C8C-E6788763BF00]: 0x3
+Apr 10 17:38:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:39:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:40:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:41:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:42:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:43:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:44:21 DSs-Air Whale Helper[52812]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:44:36 --- last message repeated 16 times ---
+Apr 10 17:44:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:45:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 17:45:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 17:45:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 17:46:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:47:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:48:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:49:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:50:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:51:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:52:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:53:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:54:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:54:43 DSs-Air syncdefaultsd[52946]: objc[52946]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 17:54:43 DSs-Air syncdefaultsd[52946]: objc[52946]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 17:55:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 17:55:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 17:55:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 17:56:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:57:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:58:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 17:59:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:00:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:01:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:02:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:03:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:04:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:05:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:05:54 DSs-Air com.apple.xpc.launchd[1] (com.apple.AddressBook.abd): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+Apr 10 18:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 18:05:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 18:05:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 18:06:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:06:47 DSs-Air syncdefaultsd[53102]: objc[53102]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 18:06:47 DSs-Air syncdefaultsd[53102]: objc[53102]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 18:07:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:08:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:09:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:10:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:11:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:12:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:13:23 DSs-Air Whale Helper[53189]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:13:36 --- last message repeated 16 times ---
+Apr 10 18:13:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:14:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:15:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 18:15:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 18:15:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 18:16:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:16:41 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.DiskUtility.1152921500311975774.1152921500311975779(501)> [10739]
+Apr 10 18:17:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:18:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:19:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:20:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:21:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:22:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:22:59 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systempreferences.1152921500311955792.1152921500311955797(501)> [5761]
+Apr 10 18:23:00 DSs-Air AccountProfileRemoteViewService[53322]: objc[53322]: Class AOSUISpyglassAccountChangeHelper is implemented in both /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/AOSUI and /System/Library/PrivateFrameworks/AOSUI.framework/Versions/A/XPCServices/AccountProfileRemoteViewService.xpc/Contents/MacOS/AccountProfileRemoteViewService. One of the two will be used. Which one is undefined.
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:00 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:01 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:01 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:01 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:01 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:01 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:01 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:01 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:01 DSs-Air VTDecoderXPCService[53329]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:23:04 DSs-Air com.apple.xpc.launchd[1] (com.apple.preference.desktopscreeneffect.desktop.remoteservice[53328]): Service exited due to SIGKILL | sent by com.apple.preference.desktopscre[53328]
+Apr 10 18:23:17 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:24:06 --- last message repeated 1 time ---
+Apr 10 18:24:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:25:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 18:25:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 18:25:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 18:26:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:27:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:28:24 DSs-Air VTDecoderXPCService[1290]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:28:24 DSs-Air VTDecoderXPCService[1290]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:28:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:29:36 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:30:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:31:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:32:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:33:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:34:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:35:07 DSs-Air com.apple.xpc.launchd[1] (com.apple.dt.SKAgent[51804]): Service exited due to SIGKILL | sent by com.apple.dt.SKAgent[51804]
+Apr 10 18:35:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 18:35:58 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 18:35:58 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 18:35:59 DSs-Air syncdefaultsd[53499]: objc[53499]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 18:35:59 DSs-Air syncdefaultsd[53499]: objc[53499]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 18:36:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:37:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:38:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:39:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:40:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:41:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:42:24 DSs-Air com.apple.xpc.launchd[1] (com.apple.mDNSResponder.reloaded[409]): Service exited due to SIGKILL | sent by com.apple.activitymonitor.helper[53586]
+Apr 10 18:42:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:43:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:44:24 DSs-Air Whale Helper[53612]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:44:24 --- last message repeated 16 times ---
+Apr 10 18:44:24 DSs-Air timed[314]: settimeofday({0x60717378,0x51b6f}) == 0
+Apr 10 18:44:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:45:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 18:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 18:46:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:46:35 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 18:47:32 DSs-Air pfd[53651]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 18:47:32 DSs-Air com.apple.xpc.launchd[1] (com.apple.NetworkExtension.IKEv2Provider[50380]): Service exited due to SIGKILL | sent by nesessionmanager[453]
+Apr 10 18:47:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:47:44 DSs-Air com.apple.xpc.launchd[1] (com.apple.smb.preferences): Service only ran for 6 seconds. Pushing respawn out by 4 seconds.
+Apr 10 18:47:56 DSs-Air com.apple.xpc.launchd[1] (com.apple.smb.preferences): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+Apr 10 18:48:01 DSs-Air com.apple.xpc.launchd[1] (com.apple.smb.preferences): Service only ran for 3 seconds. Pushing respawn out by 7 seconds.
+Apr 10 18:48:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:49:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:50:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:51:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:52:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:53:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:54:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:55:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 18:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 18:56:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:56:35 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 18:57:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:58:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 18:59:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:00:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:01:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:02:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:03:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:04:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:05:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 19:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 19:06:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:06:35 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 19:07:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:08:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:09:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:10:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:11:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:12:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:13:32 DSs-Air Whale Helper[54097]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:13:35 --- last message repeated 16 times ---
+Apr 10 19:13:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:14:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:15:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:15:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 19:15:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 19:16:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:16:35 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 19:17:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:18:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:19:05 --- last message repeated 1 time ---
+Apr 10 19:19:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:20:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:21:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:22:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:23:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:24:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:25:31 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.unmanaged.loginwindow.345" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.TextInputMenuAgent
+Apr 10 19:25:34 --- last message repeated 1 time ---
+Apr 10 19:25:34 DSs-Air Whale[52308]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 19:25:34 DSs-Air efilogin-helper[54308]: objc[54308]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Apr 10 19:25:34 DSs-Air efilogin-helper[54308]: objc[54308]: Class EFILWLogging is implemented in both ?? (0x1f71c0c20) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x102632b58). One of the two will be used. Which one is undefined.
+Apr 10 19:25:35 DSs-Air com.apple.xpc.launchd[1] (com.apple.efilogin-helper): Service only ran for 0 seconds. Pushing respawn out by 1 seconds.
+Apr 10 19:25:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:25:36 DSs-Air efilogin-helper[54311]: objc[54311]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Apr 10 19:25:36 DSs-Air efilogin-helper[54311]: objc[54311]: Class EFILWLogging is implemented in both ?? (0x1f71c0c20) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x1046deb58). One of the two will be used. Which one is undefined.
+Apr 10 19:25:36 DSs-Air com.apple.xpc.launchd[1] (com.apple.efilogin-helper): Service only ran for 0 seconds. Pushing respawn out by 1 seconds.
+Apr 10 19:25:37 DSs-Air efilogin-helper[54316]: objc[54316]: Class EFILWLogging is implemented in both /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/EFILogin and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/efilogin-helper. One of the two will be used. Which one is undefined.
+Apr 10 19:25:37 DSs-Air efilogin-helper[54316]: objc[54316]: Class EFILWLogging is implemented in both ?? (0x1f71c0c20) and /System/Library/PrivateFrameworks/EFILogin.framework/Versions/A/Resources/EFIResourceBuilder.bundle/Contents/MacOS/EFIResourceBuilder (0x100c12b58). One of the two will be used. Which one is undefined.
+Apr 10 19:25:38 DSs-Air VTDecoderXPCService[54317]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:25:38 DSs-Air VTDecoderXPCService[54317]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:25:38 DSs-Air VTDecoderXPCService[54317]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:25:38 DSs-Air VTDecoderXPCService[54317]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:25:39 DSs-Air remindd[54318]: objc[54318]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 19:25:39 DSs-Air remindd[54318]: objc[54318]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x1012df700). One of the two will be used. Which one is undefined.
+Apr 10 19:25:40 DSs-Air com.apple.siri-distributed-evaluation[54320]: sandbox initialization failed: <internal init prelude>:456:12: unable to open common.sb: not found
+		(apply error x)
+Apr 10 19:25:40 DSs-Air com.apple.xpc.launchd[1] (com.apple.siri-distributed-evaluation[54320]): Service exited with abnormal code: 1
+Apr 10 19:25:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 19:25:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 19:26:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:26:35 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 19:27:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:28:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:29:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:30:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:31:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:32:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:33:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:34:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:35:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:35:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 19:35:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 19:36:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:36:35 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 19:37:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:38:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:39:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:40:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:41:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:42:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:43:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:44:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:44:41 DSs-Air awdd[423]: Diagnostics Report
+Apr 10 19:45:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 19:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 19:46:10 DSs-Air Whale Helper[54577]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:46:35 --- last message repeated 16 times ---
+Apr 10 19:46:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:46:35 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 19:47:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:48:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:49:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:50:17 DSs-Air fud[54633]: objc[54633]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 19:50:17 DSs-Air fud[54633]: objc[54633]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 19:50:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:51:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:52:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:52:44 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.AppStore.1152921500311879705.1152921500311879710(501)> [8888]
+Apr 10 19:53:18 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.App Store.54680): Path not allowed in target domain: type = pid, path = /System/Library/CoreServices/SetupAssistantPlugins/AMPAccounts.icdplugin/Contents/XPCServices/AMPAccountPluginHelper.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Applications/App Store.app
+Apr 10 19:53:29 DSs-Air VTDecoderXPCService[54708]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:53:29 DSs-Air VTDecoderXPCService[54708]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:53:29 DSs-Air VTDecoderXPCService[54708]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:53:29 DSs-Air VTDecoderXPCService[54708]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:53:29 DSs-Air VTDecoderXPCService[54708]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:53:29 DSs-Air VTDecoderXPCService[54708]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:53:29 DSs-Air VTDecoderXPCService[54708]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:53:29 DSs-Air VTDecoderXPCService[54708]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 19:53:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:54:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:55:35 DSs-Air Whale Helper[52500]: Libnotify: notify_register_coalesced_registration failed with code 9 on line 2835
+Apr 10 19:55:52 DSs-Air Whale[52308]: BUG in libdispatch client: mach_recv, monitored resource vanished before the source cancel handler was invoked { 0x7ffde5c174b0[source], ident: 73987 / 0x12103, handler: 0x10d7d42b0 }
+Apr 10 19:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 19:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 19:56:54 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 20:03:01 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systemevents.1152921500312199679.1152921500312199684(501)> [10788]
+Apr 10 20:03:01 DSs-Air com.apple.xpc.launchd[1] (com.apple.FolderActionsDispatcher): This service is defined to be constantly running and is inherently inefficient.
+Apr 10 20:03:01 DSs-Air login[54845]: USER_PROCESS: 54845 ttys006
+Apr 10 20:03:23 DSs-Air login[54845]: DEAD_PROCESS: 54845 ttys006
+Apr 10 20:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 20:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 20:06:55 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 20:10:13 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.apple.ScreenSaver.Engine.1152921500312189727.1152921500312189732.5B32676C-C673-4DD6-A732-95D62DADA8E7(501)> [10768]
+Apr 10 20:15:20 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.ActivityMonitor.1152921500311961303.1152921500311961308(501)> [10966]
+Apr 10 20:15:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 20:15:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 20:16:12 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.AppStore.1152921500311879705.1152921500311879710(501)> [8888]
+Apr 10 20:18:36 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 20:19:54 DSs-Air com.apple.WebKit.WebContent[53337]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 20:21:45 DSs-Air syncdefaultsd[55378]: objc[55378]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 20:21:45 DSs-Air syncdefaultsd[55378]: objc[55378]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 20:25:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 20:25:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 20:29:05 DSs-Air pfd[55468]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:29:05 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 20:29:14 DSs-Air com.apple.xpc.launchd[1] (com.apple.airport.wps): Service only ran for 7 seconds. Pushing respawn out by 3 seconds.
+Apr 10 20:29:17 DSs-Air com.apple.xpc.launchd[1] (com.apple.NetworkExtension.IKEv2Provider[53717]): Service exited due to SIGKILL | sent by nesessionmanager[453]
+Apr 10 20:30:33 DSs-Air pfd[55525]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:30:36 DSs-Air syncdefaultsd[55552]: objc[55552]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 20:30:36 DSs-Air syncdefaultsd[55552]: objc[55552]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 20:35:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 20:35:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 20:37:18 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.systemevents.1152921500312199679.1152921500312199684(501)> [10788]
+Apr 10 20:37:18 DSs-Air com.apple.xpc.launchd[1] (com.apple.FolderActionsDispatcher): This service is defined to be constantly running and is inherently inefficient.
+Apr 10 20:37:18 DSs-Air login[55653]: USER_PROCESS: 55653 ttys006
+Apr 10 20:39:24 DSs-Air com.apple.xpc.launchd[1] (com.apple.NetworkExtension.IKEv2Provider[55527]): Service exited due to SIGKILL | sent by nesessionmanager[453]
+Apr 10 20:39:24 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 20:39:24 DSs-Air pfd[55852]: DEPRECATED USE in libdispatch client: Setting timer interval to 0 requests a 1ns timer, did you mean FOREVER (a one-shot timer)?; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:39:32 DSs-Air com.apple.xpc.launchd[1] (com.apple.NetworkExtension.IKEv2Provider[55857]): Service exited due to SIGKILL | sent by nesessionmanager[453]
+Apr 10 20:39:42 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Hit: app<application.com.apple.AppStore.1152921500311879705.1152921500311879710(501)> [8888]
+Apr 10 20:39:44 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.pid.App Store.55906): Path not allowed in target domain: type = pid, path = /System/Library/CoreServices/SetupAssistantPlugins/AMPAccounts.icdplugin/Contents/XPCServices/AMPAccountPluginHelper.xpc error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Applications/App Store.app
+Apr 10 20:39:44 DSs-Air VTDecoderXPCService[55909]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:39:44 DSs-Air VTDecoderXPCService[55909]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:39:44 DSs-Air VTDecoderXPCService[55909]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:39:44 DSs-Air VTDecoderXPCService[55909]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:39:44 DSs-Air VTDecoderXPCService[55909]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:39:44 DSs-Air VTDecoderXPCService[55909]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:39:44 DSs-Air VTDecoderXPCService[55909]: DEPRECATED USE in libdispatch client: Changing the target of a source after it has been activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:39:44 DSs-Air VTDecoderXPCService[55909]: DEPRECATED USE in libdispatch client: Changing target queue hierarchy after xpc connection was activated; set a breakpoint on _dispatch_bug_deprecated to debug
+Apr 10 20:39:49 DSs-Air AKAuthorizationRemoteViewService[55912]: objc[55912]: Class AKCredentialRequestContext is implemented in both /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/AuthKit and /System/Library/PrivateFrameworks/AuthKitUI.framework/Versions/A/XPCServices/AKAuthorizationRemoteViewService.xpc/Contents/MacOS/AKAuthorizationRemoteViewService. One of the two will be used. Which one is undefined.
+Apr 10 20:40:42 DSs-Air timed[314]: settimeofday({0x60718eba,0xd3f4}) == 0
+Apr 10 20:40:43 DSs-Air syncdefaultsd[55923]: objc[55923]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 20:40:43 DSs-Air syncdefaultsd[55923]: objc[55923]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 20:42:57 DSs-Air syncdefaultsd[55950]: objc[55950]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 20:42:57 DSs-Air syncdefaultsd[55950]: objc[55950]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 20:44:58 DSs-Air syncdefaultsd[55975]: objc[55975]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 20:44:58 DSs-Air syncdefaultsd[55975]: objc[55975]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 20:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 20:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 20:52:18 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 20:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 20:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 21:02:22 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 21:02:57 DSs-Air fud[56263]: objc[56263]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 21:02:57 DSs-Air fud[56263]: objc[56263]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 21:03:22 DSs-Air syncdefaultsd[56272]: objc[56272]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 21:03:22 DSs-Air syncdefaultsd[56272]: objc[56272]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 21:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 21:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 21:06:20 DSs-Air com.apple.xpc.launchd[1] (com.apple.AddressBook.abd): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+Apr 10 21:11:20 DSs-Air syncdefaultsd[56374]: objc[56374]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 21:11:20 DSs-Air syncdefaultsd[56374]: objc[56374]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 21:12:22 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 21:15:14 DSs-Air fud[56421]: objc[56421]: Class AMSupportURLConnectionDelegate is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 21:15:14 DSs-Air fud[56421]: objc[56421]: Class AMSupportURLSession is implemented in both /usr/lib/libamsupport.dylib and /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud. One of the two will be used. Which one is undefined.
+Apr 10 21:15:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 21:15:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 21:22:22 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 21:25:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 21:25:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 21:32:22 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 21:35:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 21:35:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 21:43:22 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 21:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 21:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 21:52:35 DSs-Air com.apple.xpc.launchd[1]: Coalition Cache Evicted: app<application.com.runningwithcrayons.Alfred.4504780.4505022(501)> [871]
+Apr 10 21:52:35 DSs-Air ScreenSaverEngine[56882]: getattrlist failed for /System/Library/Frameworks/OpenGL.framework/Resources//GLRendererFloat.bundle/GLRendererFloat: #2: No such file or directory
+Apr 10 21:52:35 DSs-Air com.apple.xpc.launchd[1] (com.apple.xpc.launchd.domain.user.501): Service "com.apple.xpc.launchd.unmanaged.loginwindow.345" tried to register for endpoint "com.apple.tsm.uiserver" already registered by owner: com.apple.TextInputMenuAgent
+Apr 10 21:53:06 --- last message repeated 1 time ---
+Apr 10 21:54:22 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 21:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 21:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 22:04:22 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 22:05:50 DSs-Air com.apple.xpc.launchd[1] (com.apple.AddressBook.abd): Service only ran for 8 seconds. Pushing respawn out by 2 seconds.
+Apr 10 22:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 22:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 22:15:18 DSs-Air com.apple.xpc.launchd[1] (com.apple.WebKit.WebContent.B49AEB86-357C-4C92-98A3-1A51FD6443DF[57257]): Service exited with abnormal code: 1
+Apr 10 22:15:18 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 22:15:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 22:15:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 22:25:30 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 22:25:55 DSs-Air timed[314]: settimeofday({0x6071a763,0x722f9}) == 0
+Apr 10 22:25:55 DSs-Air remindd[57455]: objc[57455]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 22:25:55 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 22:25:55 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 22:25:55 DSs-Air remindd[57455]: objc[57455]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x108c57700). One of the two will be used. Which one is undefined.
+Apr 10 22:25:55 DSs-Air com.apple.siri-distributed-evaluation[57456]: sandbox initialization failed: <internal init prelude>:456:12: unable to open common.sb: not found
+		(apply error x)
+Apr 10 22:25:55 DSs-Air com.apple.xpc.launchd[1] (com.apple.siri-distributed-evaluation[57456]): Service exited with abnormal code: 1
+Apr 10 22:35:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 22:35:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 22:35:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 22:37:36 DSs-Air syncdefaultsd[57660]: objc[57660]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 22:37:36 DSs-Air syncdefaultsd[57660]: objc[57660]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 22:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 22:45:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 22:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 22:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 22:55:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 22:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 22:57:49 DSs-Air com.apple.xpc.launchd[1] (com.apple.WebKit.WebContent.CAFD82C5-90F1-45C9-9CD6-96507D6107BD[57988]): Service exited with abnormal code: 1
+Apr 10 23:00:57 DSs-Air syncdefaultsd[58056]: objc[58056]: Class SYDClient is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 23:00:57 DSs-Air syncdefaultsd[58056]: objc[58056]: Class SYDJournal is implemented in both /System/Library/PrivateFrameworks/SyncedDefaults.framework/Versions/A/SyncedDefaults and /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd. One of the two will be used. Which one is undefined.
+Apr 10 23:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 23:05:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 23:05:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 23:06:27 DSs-Air com.apple.xpc.launchd[1] (com.apple.AddressBook.abd): Service only ran for 9 seconds. Pushing respawn out by 1 seconds.
+Apr 10 23:11:08 DSs-Air timed[314]: settimeofday({0x6071b1fc,0xc783b}) == 0
+Apr 10 23:15:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 23:15:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 23:15:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 23:25:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 23:25:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 23:25:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 23:35:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 23:35:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 23:35:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 23:41:08 DSs-Air timed[314]: settimeofday({0x6071b904,0x91347}) == 0
+Apr 10 23:41:08 DSs-Air remindd[58750]: objc[58750]: Class REMCDChangeTrackingState is implemented in both /System/Library/PrivateFrameworks/ReminderKit.framework/Versions/A/ReminderKit and /usr/libexec/remindd. One of the two will be used. Which one is undefined.
+Apr 10 23:41:08 DSs-Air remindd[58750]: objc[58750]: Class REMDAAccountInfo is implemented in both ?? (0x1f71d5750) and /System/Library/PrivateFrameworks/CDDataAccess.framework/Frameworks/DACalDAV.framework/DADaemonCalDAV.bundle/Contents/MacOS/DADaemonCalDAV (0x10b0b7700). One of the two will be used. Which one is undefined.
+Apr 10 23:41:09 DSs-Air com.apple.siri-distributed-evaluation[58751]: sandbox initialization failed: <internal init prelude>:456:12: unable to open common.sb: not found
+		(apply error x)
+Apr 10 23:41:09 DSs-Air com.apple.xpc.launchd[1] (com.apple.siri-distributed-evaluation[58751]): Service exited with abnormal code: 1
+Apr 10 23:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 23:45:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 23:45:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+Apr 10 23:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 399948 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x0
+Apr 10 23:55:57 DSs-Air syslogd[272]: ASL Sender Statistics
+Apr 10 23:55:57 DSs-Air systemstats[280]: assertion failed: 20D91: systemstats + 602280 [146262DC-951A-39E6-88F2-E8A328A3A263]: 0x2
+
