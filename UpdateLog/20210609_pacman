@@ -1,0 +1,807 @@
+[jds@TTY bin]$ paccache -r
+-bash: paccache: command not found
+[jds@TTY bin]$ paccache -r
+-bash: paccache: command not found
+[jds@TTY bin]$ ls
+'['                                   find                           ksu                                   nmtui-hostname          systemd-dissect
+ 2to3                                 findfs                         kswitch                               nohup                   systemd-escape
+ 2to3-3.9                             findmnt                        ktutil                                nologin                 systemd-firstboot
+ aafire                               firefox                        kvno                                  notify-send             systemd-hwdb
+ aainfo                               fixqt4headers.pl               lame                                  nproc                   systemd-id128
+ aalib-config                         fixqt4headers.pl-qt5           last                                  npth-config             systemd-inhibit
+ aasavefont                           flac                           lastb                                 nroff                   systemd-machine-id-setup
+ aatest                               flex                           lastlog                               nscd                    systemd-mount
+ accessdb                             flex++                         ld                                    nsenter                 systemd-notify
+ aclocal                              flock                          ldattach                              nspr-config             systemd-nspawn
+ aclocal-1.16                         fmt                            ld.bfd                                nss-config              systemd-path
+ addftinfo                            fold                           ldconfig                              nstat                   systemd-repart
+ addgnupghome                         free                           ldd                                   numfmt                  systemd-resolve
+ addpart                              fribidi                        ld.gold                               objcopy                 systemd-run
+ addr2line                            fsck                           leafpad                               objdump                 systemd-socket-activate
+ afmtodit                             fsck.cramfs                    less                                  obs                     systemd-stdio-bridge
+ agetty                               fsck.ext2                      lessecho                              obs-ffmpeg-mux          systemd-sysext
+ alsa_delay                           fsck.ext3                      lesskey                               ocsptool                systemd-sysusers
+ alsa_in                              fsck.ext4                      lex                                   od                      systemd-tmpfiles
+ alsa_loopback                        fsck.fat                       lexgrog                               omxregister-bellagio    systemd-tty-ask-password-agent
+ alsa_out                             fsck.minix                     libassuan-config                      oomctl                  systemd-umount
+ amrnb-dec                            fsck.msdos                     libevdev-tweak-device                 openssl                 systool
+ amrnb-enc                            fsck.vfat                      libgcrypt-config                      openvt                  tabs
+ amrwb-dec                            fsfreeze                       libgtop_daemon2                       opj_compress            tac
+ aomdec                               fstrim                         libgtop_server2                       opj_decompress          taglib-config
+ aomenc                               funzip                         libinput                              opj_dump                tail
+ applygnupgdefaults                   fuser                          libpng16-config                       orc-bugreport           tar
+ apropos                              g++                            libpng-config                         orcc                    taskset
+ ar                                   galculator                     libtool                               out123                  tbl
+ argon2                               galera_new_cluster             libtoolize                            p11-kit                 tc
+ aria_chk                             galera_recovery                libwacom-list-devices                 p11tool                 tcat
+ aria_dump_log                        gapplication                   libwacom-list-local-devices           pacat                   tdbbackup
+ aria_ftdump                          gawk                           libwacom-show-stylus                  pacman                  tdbdump
+ aria_pack                            gawk-5.1.0                     libwacom-update-db                    pacman-conf             tdbrestore
+ aria_read_log                        gcc                            lightdm                               pacman-db-upgrade       tdbtool
+ aria_s3_copy                         gcc-ar                         lightdm-gtk-greeter                   pacman-key              teamd
+ arpd                                 gcc-nm                         lightdm-gtk-greeter-settings          pacmd                   teamdctl
+ arping                               gcc-ranlib                     lightdm-gtk-greeter-settings-pkexec   pactl                   teamnl
+ arptables-nft                        gcov                           link                                  padsp                   tee
+ arptables-nft-restore                gcov-tool                      linkicc                               pa-info                 test
+ arptables-nft-save                   gcr-viewer                     linux32                               pal2rgb                 test-connect-t
+ as                                   gdbm_dump                      linux64                               pam_namespace_helper    testlibraw
+ aserver                              gdbm_load                      lkbib                                 pamon                   testpkg
+ asn1Coding                           gdbmtool                       ln                                    pam_timestamp_check     texi2any
+ asn1Decoding                         gdbus                          lnstat                                panelctl                texi2dvi
+ asn1Parser                           gdbus-codegen                  loadkeys                              pango-list              texi2pdf
+ attr                                 gdiffmk                        loadunimap                            pango-view              texindex
+ audispd-zos-remote                   gdk-pixbuf-csource             locale                                paplay                  tfmtodit
+ audisp-remote                        gdk-pixbuf-pixdata             localectl                             parec                   tftpd
+ audisp-syslog                        gdk-pixbuf-query-loaders       localedef                             parecord                thunar
+ auditctl                             gdk-pixbuf-thumbnailer         locale-gen                            parole                  Thunar
+ auditd                               genbrk                         logger                                partx                   thunar-settings
+ augenrules                           gencat                         login                                 passwd                  thunar-volman
+ aulast                               genccode                       loginctl                              paste                   thunar-volman-settings
+ aulastlog                            gencfu                         logname                               pasuspender             tic
+ aureport                             gencmn                         logsave                               patch                   tiff2bw
+ ausearch                             gencnval                       look                                  pathchk                 tiff2pdf
+ ausyscall                            gendict                        lookbib                               pax11publish            tiff2ps
+ autoconf                             genl                           losetup                               pcap-config             tiff2rgba
+ autoheader                           genl-ctrl-list                 ls                                    pcprofiledump           tiffcmp
+ autom4te                             gennorm2                       lsattr                                pcre2-config            tiffcp
+ automake                             genrb                          lsblk                                 pcre2grep               tiffcrop
+ automake-1.16                        gensprep                       lscpu                                 pcre2test               tiffdither
+ autopoint                            geqn                           lsinitcpio                            pcre-config             tiffdump
+ autoreconf                           getcap                         lsipc                                 pcregrep                tiffgt
+ autoscan                             getconf                        lsirq                                 pcretest                tiffinfo
+ autoupdate                           getent                         lslocks                               pdfattach               tiffmedian
+ autrace                              getfacl                        lslogins                              pdfdetach               tiffset
+ auvirt                               getfattr                       lsmem                                 pdffonts                tiffsplit
+ avahi-autoipd                        getkeycodes                    lsmod                                 pdfimages               tificc
+ avahi-bookmarks                      getopt                         lsns                                  pdfinfo                 timedatectl
+ avahi-browse                         getpcaps                       lspci                                 pdfmom                  timelineeditor
+ avahi-browse-domains                 gettext                        lz4                                   pdfroff                 timeout
+ avahi-daemon                         gettextize                     lz4c                                  pdfseparate             tipc
+ avahi-discover                       gettext.sh                     lz4cat                                pdfsig                  tjbench
+ avahi-discover-standalone            get-versions                   lzcat                                 pdftexi2dvi             tload
+ avahi-dnsconfd                       gif2rgb                        lzcmp                                 pdftocairo              toast
+ avahi-publish                        gif2webp                       lzdiff                                pdftohtml               toe
+ avahi-publish-address                gifbuild                       lzegrep                               pdftoppm                top
+ avahi-publish-service                gifclrmp                       lzfgrep                               pdftops                 touch
+ avahi-resolve                        giffix                         lzgrep                                pdftotext               touchpad-edge-detector
+ avahi-resolve-address                giftext                        lzless                                pdfunite                tput
+ avahi-resolve-host-name              giftool                        lzma                                  peekfd                  tr
+ avahi-set-host-name                  gio                            lzmadec                               perl                    tracegen
+ awk                                  gio-querymodules               lzmainfo                              perror                  tracegen-qt5
+ b2sum                                git                            lzmore                                pfbtops                 tracepath
+ badblocks                            git-cvsserver                  m4                                    pgrep                   transicc
+ base32                               gitk                           machinectl                            pic                     trietool
+ base64                               git-receive-pack               make                                  pic2graph               trietool-0.2
+ basename                             git-shell                      makeconv                              pidof                   troff
+ basenc                               git-upload-archive             makedb                                pinentry                true
+ bash                                 git-upload-pack                makeinfo                              pinentry-curses         truncate
+ bashbug                              glib-compile-resources         makepkg                               pinentry-emacs          trust
+ bdftopcf                             glib-compile-schemas           makepkg-template                      pinentry-gnome3         ts_calibrate
+ bdftruncate                          glib-genmarshal                man                                   pinentry-gtk-2          ts_conf
+ bd_info                              glib-gettextize                mandb                                 pinentry-qt             tset
+ bd_list_titles                       glib-mkenums                   manpath                               pinentry-tty            ts_finddev
+ bd_splice                            glilypond                      man-recode                            ping                    ts_harvest
+ bison                                gnutls-cli                     mapscrn                               pinky                   tsort
+ blkdeactivate                        gnutls-cli-debug               mariabackup                           pivot_root              ts_print
+ blkdiscard                           gnutls-serv                    mariadb                               pk12util                ts_print_mt
+ blkid                                gobject-query                  mariadb-access                        pkaction                ts_print_raw
+ blkzone                              google-chrome-stable           mariadb-admin                         pkcheck                 ts_test
+ blockdev                             gpasswd                        mariadb-backup                        pkcs1-conv              ts_test_mt
+ bond2team                            gperl                          mariadb-binlog                        pk-example-frobnicate   ts_uinput
+ bootctl                              gpg                            mariadb-check                         pkexec                  ts_verify
+ boxdumper                            gpg2                           mariadb-client-test                   pkgconf                 tty
+ bridge                               gpg-agent                      mariadb-client-test-embedded          pkg-config              tune2fs
+ broadwayd                            gpgconf                        mariadb-config                        pkgdata                 twolame
+ brotli                               gpg-connect-agent              mariadb_config                        pkill                   tzselect
+ bsdcat                               gpg-error                      mariadb-conv                          pkttyagent              uconv
+ bsdcpio                              gpg-error-config               mariadb-convert-table-format          pldd                    ucs2any
+ bsdtar                               gpgme-config                   mariadbd                              plistutil               udevadm
+ bshell                               gpgme-json                     mariadbd-multi                        plugctl                 uic
+ bssh                                 gpgme-tool                     mariadbd-safe                         pluginviewer            uic-qt5
+ bunzip2                              gpgparsemail                   mariadbd-safe-helper                  plugreport              ul
+ busctl                               gpgrt-config                   mariadb-dump                          pmap                    umount
+ bvnc                                 gpgscm                         mariadb-dumpslow                      png2pnm                 uname
+ bzcat                                gpgsm                          mariadb-embedded                      pngfix                  uname26
+ bzdiff                               gpgsplit                       mariadb-find-rows                     png-fix-itxt            uncompress
+ bzgrep                               gpgtar                         mariadb-fix-extensions                pnm2png                 unexpand
+ bzip2                                gpgv                           mariadb-hotcopy                       pod2texi                unicode_start
+ bzip2recover                         gpgv2                          mariadb-import                        portablectl             unicode_stop
+ bzmore                               gpg-wks-server                 mariadb-install-db                    post-grohtml            uniq
+ c++                                  gpinyin                        mariadb-ldb                           poweroff                unix_chkpwd
+ c89                                  gpm                            mariadb-plugin                        ppm2tiff                unix_update
+ c99                                  gpm-root                       mariadb-secure-installation           pr                      unlink
+ cacaclock                            gprof                          mariadb-service-convert               preconv                 unlz4
+ caca-config                          gr2fonttest                    mariadb-setpermission                 pre-grohtml             unlzma
+ cacademo                             grap2graph                     mariadb-show                          printenv                unshare
+ cacafire                             grep                           mariadb-slap                          printf                  untoast
+ cacaplay                             gresource                      mariadb-test                          prlimit                 unxz
+ cacaserver                           grn                            mariadb-test-embedded                 proxy                   unzip
+ cacaview                             grodvi                         mariadb-tzinfo-to-sql                 prtstat                 unzipsfx
+ cairo-sphinx                         groff                          mariadb-upgrade                       ps                      unzstd
+ cairo-trace                          groffer                        mariadb-waitpid                       pscap                   update-ca-trust
+ cal                                  grog                           mbedtls_aescrypt2                     psfaddtable             update-desktop-database
+ canberra-boot                        grolbp                         mbedtls_benchmark                     psfgettable             update-mime-database
+ canberra-gtk-play                    grolj4                         mbedtls_cert_app                      psfstriptable           update-pciids
+ capsh                                gropdf                         mbedtls_cert_req                      psfxtable               upower
+ captest                              grops                          mbedtls_cert_write                    psicc                   uptime
+ captoinfo                            grotty                         mbedtls_crl_app                       psktool                 usbmuxd
+ cat                                  groupadd                       mbedtls_crypt_and_hash                psl                     useradd
+ catchsegv                            groupdel                       mbedtls_crypto_examples               pslog                   userdbctl
+ catman                               groupmems                      mbedtls_dh_client                     pstree                  userdel
+ cc                                   groupmod                       mbedtls_dh_genprime                   pstree.x11              usermod
+ ccache                               groups                         mbedtls_dh_server                     ptx                     users
+ cd-create-profile                    grpck                          mbedtls_dtls_client                   pulseaudio              utmpdump
+ cd-fix-profile                       grpconv                        mbedtls_dtls_server                   pwait                   uuclient
+ cd-iccdump                           grpunconv                      mbedtls_ecdh_curve25519               pwck                    uuidd
+ cd-it8                               gsettings                      mbedtls_ecdsa                         pwconv                  uuidgen
+ cdparanoia                           gss-client                     mbedtls_gen_entropy                   pwd                     uuidparse
+ cec-compliance                       gss-server                     mbedtls_generic_sum                   pwdx                    uuserver
+ cec-ctl                              gst-device-monitor-1.0         mbedtls_gen_key                       pwhistory_helper        v4l2-compliance
+ cec-follower                         gst-discoverer-1.0             mbedtls_gen_random_ctr_drbg           pwmconfig               v4l2-ctl
+ certtool                             gst-inspect-1.0                mbedtls_gen_random_havege             pwunconv                v4l2-dbg
+ certutil                             gst-launch-1.0                 mbedtls_hello                         pydoc                   v4l2-sysfs-path
+ cfdisk                               gst-play-1.0                   mbedtls_key_app                       pydoc3                  vdir
+ c++filt                              gst-stats-1.0                  mbedtls_key_app_writer                pydoc3.9                vdpa
+ chacl                                gst-tester-1.0                 mbedtls_key_ladder_demo               python                  vendor_perl
+ chage                                gst-typefind-1.0               mbedtls_key_ladder_demo.sh            python3                 vercmp
+ chattr                               gtbl                           mbedtls_mini_client                   python3.9               veritysetup
+ chcon                                gtester                        mbedtls_mpi_demo                      python3.9-config        vigr
+ chcpu                                gtester-report                 mbedtls_pem2der                       python3-config          vim
+ chem                                 gtf                            mbedtls_pk_decrypt                    python-config           vimdiff
+ chfn                                 gtk4-update-icon-cache         mbedtls_pk_encrypt                    pzstd                   vimtutor
+ chgpasswd                            gtk-builder-convert            mbedtls_pk_sign                       qdbuscpp2xml            vipw
+ chgrp                                gtk-builder-tool               mbedtls_pk_verify                     qdbuscpp2xml-qt5        visudo
+ chmem                                gtk-demo                       mbedtls_psa_constant_names            qdbusxml2cpp            vlock
+ chmod                                gtk-encode-symbolic-svg        mbedtls_query_compile_time_config     qdbusxml2cpp-qt5        vmaf_feature
+ choom                                gtk-launch                     mbedtls_req_app                       qlalr                   vmafossexec
+ chown                                gtk-query-immodules-2.0        mbedtls_rsa_decrypt                   qlalr-qt5               vmaf_rc
+ chpasswd                             gtk-query-immodules-3.0        mbedtls_rsa_encrypt                   qmake                   vmstat
+ chroot                               gtk-query-settings             mbedtls_rsa_genkey                    qmake-qt5               vpxdec
+ chrt                                 gtk-update-icon-cache          mbedtls_rsa_sign                      qt-faststart            vpxenc
+ chsh                                 guild                          mbedtls_rsa_sign_pss                  qv4l2                   vte-2.91
+ chvt                                 guile                          mbedtls_rsa_verify                    qvidcap                 vwebp
+ cjpeg                                guile-config                   mbedtls_rsa_verify_pss                qvkgen                  w
+ cksum                                guile-snarf                    mbedtls_selftest                      qvkgen-qt5              wall
+ clear                                guile-tools                    mbedtls_ssl_client1                   ranlib                  watch
+ clockdiff                            gunzip                         mbedtls_ssl_client2                   rarpd                   watchgnupg
+ cmp                                  gusbcmd                        mbedtls_ssl_context_info              rav1e                   wavpack
+ cmsutil                              gxditview                      mbedtls_ssl_fork_server               raw                     wayland-scanner
+ col                                  gzexe                          mbedtls_ssl_mail_client               raw2tiff                wc
+ colcrt                               gzip                           mbedtls_ssl_pthread_server            rcc                     wdctl
+ colormgr                             halt                           mbedtls_ssl_server                    rcc-qt5                 webpinfo
+ colrm                                hangul                         mbedtls_ssl_server2                   rdisc                   webpmux
+ column                               hb-ot-shape-closure            mbedtls_strerror                      rdjpgcom                whatis
+ comm                                 hb-shape                       mbedtls_udp_proxy                     rdma                    whereis
+ compile_et                           hb-subset                      mbedtls_zeroize                       rds-ctl                 which
+ conplay                              hb-view                        mbstream                              readelf                 whiptail
+ convert-mans                         head                           mcookie                               readlink                who
+ coredumpctl                          healthd                        md2html                               readprofile             whoami
+ core_perl                            hexdump                        md5sum                                realpath                wipefs
+ cp                                   hltest                         media-ctl                             reboot                  wnckprop
+ cpp                                  hmac256                        memusage                              recode-sr-latin         wnck-urgency-monitor
+ c_rehash                             homectl                        memusagestat                          refer                   wpa_cli
+ crlutil                              hostid                         mesg                                  remuxer                 wpa_passphrase
+ croco-0.6-config                     hostnamectl                    metaflac                              rename                  wpa_supplicant
+ cryptsetup                           hpftodit                       mev                                   renice                  write
+ cryptsetup-reencrypt                 hwclock                        mk_cmds                               replace                 wrjpgcom
+ csplit                               i386                           mkdir                                 repo-add                wsrep_sst_common
+ csslint-0.6                          i686-pc-linux-gnu-pkg-config   mkdosfs                               repo-elephant           wsrep_sst_mariabackup
+ ctrlaltdel                           ibus                           mke2fs                                repo-remove             wsrep_sst_mysqldump
+ ctstat                               ibus-daemon                    mkfifo                                request-key             wsrep_sst_rsync
+ cups-config                          ibus-setup                     mkfontdir                             reset                   wsrep_sst_rsync_wan
+ curl                                 ibus-setup-hangul              mkfontscale                           resize2fs               wvgain
+ curl-config                          iceauth                        mkfs                                  resizecons              wvtag
+ curve_keygen                         iconv                          mkfs.bfs                              resizepart              wvunpack
+ cut                                  iconvconfig                    mkfs.cramfs                           resolvectl              X
+ cvt                                  icu-config                     mkfs.ext2                             resolveip               x11perf
+ cvtsudoers                           icuinfo                        mkfs.ext3                             resolve_stack_dump      x11perfcomp
+ cwebp                                icupkg                         mkfs.ext4                             rev                     x264
+ cx18-ctl                             id                             mkfs.fat                              rfkill                  x265
+ cxpm                                 idevicebackup                  mkfs.minix                            ristretto               x86_64
+ date                                 idevicebackup2                 mkfs.msdos                            rm                      x86_64-pc-linux-gnu-c++
+ dav1d                                idevicecrashreport             mkfs.vfat                             rmdir                   x86_64-pc-linux-gnu-g++
+ db_archive                           idevicedate                    mkhomedir_helper                      rmmod                   x86_64-pc-linux-gnu-gcc
+ db_checkpoint                        idevicedebug                   mkinitcpio                            roff2dvi                x86_64-pc-linux-gnu-gcc-10.2.0
+ db_deadlock                          idevicedebugserverproxy        mklost+found                          roff2html               x86_64-pc-linux-gnu-gcc-ar
+ db_dump                              idevicediagnostics             mknod                                 roff2pdf                x86_64-pc-linux-gnu-gcc-nm
+ db_hotbackup                         ideviceenterrecovery           mkrfc2734                             roff2ps                 x86_64-pc-linux-gnu-gcc-ranlib
+ db_load                              idevice_id                     mkswap                                roff2text               x86_64-pc-linux-gnu-pkg-config
+ db_log_verify                        ideviceimagemounter            mktemp                                roff2x                  xargs
+ db_printlog                          ideviceinfo                    mmroff                                routef                  xauth
+ db_recover                           idevicename                    moc                                   routel                  xbacklight
+ db_replicate                         idevicenotificationproxy       moc-qt5                               rsvg-convert            xcmsdb
+ db_stat                              idevicepair                    modinfo                               rtacct                  xcursorgen
+ db_tuner                             ideviceprovision               modprobe                              rtcwake                 xdg-desktop-icon
+ db_upgrade                           idevicescreenshot              modutil                               rtkitctl                xdg-desktop-menu
+ dbus-binding-tool                    idevicesetlocation             more                                  rtmon                   xdg-email
+ dbus-cleanup-sockets                 idevicesyslog                  mount                                 rtpr                    xdg-icon-resource
+ dbus-daemon                          idiag-socket-details           mountpoint                            rtstat                  xdg-mime
+ dbus-launch                          idle                           mouse-dpi-tool                        runcon                  xdg-open
+ dbus-monitor                         idle3                          mouse-test                            runuser                 xdg-screensaver
+ dbus-run-session                     idle3.9                        mpg123                                rview                   xdg-settings
+ dbus-send                            idn2                           mpg123-id3dump                        rvim                    xdg-user-dir
+ dbus-test-tool                       ifcfg                          mpg123-strip                          sasldblistusers2        xdg-user-dirs-gtk-update
+ dbus-update-activation-environment   ifnames                        mpicalc                               saslpasswd2             xdg-user-dirs-update
+ dbus-uuidgen                         ifstat                         msgattrib                             sclient                 xdpr
+ db_verify                            img2txt                        msgcat                                scmp_sys_resolver       xdpyinfo
+ dcb                                  img2webp                       msgcmp                                script                  xdriinfo
+ dconf                                imlib2_bumpmap                 msgcomm                               scriptlive              Xephyr
+ dd                                   imlib2_colorspace              msgconv                               scriptreplay            xev
+ deallocvt                            imlib2-config                  msgen                                 sdiff                   xfce4-about
+ debugfs                              imlib2_conv                    msgexec                               sdl2-config             xfce4-accessibility-settings
+ debuginfod                           imlib2_grab                    msgfilter                             secret-tool             xfce4-appearance-settings
+ debuginfod-find                      imlib2_load                    msgfmt                                sed                     xfce4-appfinder
+ decode_tm6000                        imlib2_poly                    msggrep                               sendiso                 xfce4-color-settings
+ delpart                              imlib2_show                    msginit                               sensord                 xfce4-display-settings
+ depmod                               imlib2_test                    msgmerge                              sensors                 xfce4-find-cursor
+ derb                                 imlib2_view                    msgunfmt                              sensors-conf-convert    xfce4-keyboard-settings
+ desktop-file-edit                    indxbib                        msguniq                               sensors-detect          xfce4-kiosk-query
+ desktop-file-install                 inetcat                        msql2mysql                            seq                     xfce4-mime-helper
+ desktop-file-validate                info                           mtdev-test                            sessreg                 xfce4-mime-settings
+ devlink                              infocmp                        mtrace                                setarch                 xfce4-mouse-settings
+ df                                   infotocap                      muxer                                 setcap                  xfce4-notifyd-config
+ diff                                 init                           mv                                    setfacl                 xfce4-panel
+ diff3                                innochecksum                   myisamchk                             setfattr                xfce4-pm-helper
+ dir                                  insmod                         myisam_ftdump                         setfont                 xfce4-popup-applicationsmenu
+ dircolors                            install                        myisamlog                             setkeycodes             xfce4-popup-directorymenu
+ dirmngr                              install-info                   myisampack                            setleds                 xfce4-popup-whiskermenu
+ dirmngr-client                       integritysetup                 my_print_defaults                     setmetamode             xfce4-popup-windowmenu
+ dirname                              ionice                         myrocks_hotbackup                     setpci                  xfce4-power-manager
+ disable-paste                        ip                             mysql                                 setpriv                 xfce4-power-manager-settings
+ display-buttons                      ip6tables                      mysqlaccess                           setsid                  xfce4-screensaver
+ display-coords                       ip6tables-apply                mysqladmin                            setterm                 xfce4-screensaver-command
+ djpeg                                ip6tables-legacy               mysqlbinlog                           setvtrgb                xfce4-screensaver-configure
+ dmesg                                ip6tables-legacy-restore       mysqlcheck                            setxkbmap               xfce4-screensaver-preferences
+ dmeventd                             ip6tables-legacy-save          mysql_client_test                     sexp-conv               xfce4-session
+ dmsetup                              ip6tables-nft                  mysql_client_test_embedded            sfdisk                  xfce4-session-logout
+ dmstats                              ip6tables-nft-restore          mysql_config                          sg                      xfce4-session-settings
+ dm-tool                              ip6tables-nft-save             mysql_convert_table_format            sh                      xfce4-settings-editor
+ dosfsck                              ip6tables-restore              mysqld                                sha1sum                 xfce4-settings-manager
+ dosfslabel                           ip6tables-restore-translate    mysqld_multi                          sha224sum               xfce4-taskmanager
+ du                                   ip6tables-save                 mysqld_safe                           sha256sum               xfce4-terminal
+ dubdv                                ip6tables-translate            mysqld_safe_helper                    sha384sum               xfconf-query
+ dumpe2fs                             ipcmk                          mysqldump                             sha512sum               xfdesktop
+ dumpiso                              ipcrm                          mysqldumpslow                         shlibsign               xfdesktop-settings
+ dumpkeys                             ipcs                           mysql_embedded                        shout                   xflock4
+ dumpsexp                             iproxy                         mysql_find_rows                       showconsolefont         xfpm-power-backlight-helper
+ dvb-fe-tool                          iptables                       mysql_fix_extensions                  showdb                  xfrun4
+ dvb-format-convert                   iptables-apply                 mysqlhotcopy                          showjournal             xfsettingsd
+ dvbv5-daemon                         iptables-legacy                mysqlimport                           showkey                 xfwm4
+ dvbv5-scan                           iptables-legacy-restore        mysql_install_db                      showstat4               xfwm4-settings
+ dvbv5-zap                            iptables-legacy-save           mysql_ldb                             showwal                 xfwm4-tweaks-settings
+ dvconnect                            iptables-nft                   mysql_plugin                          shred                   xfwm4-workspace-settings
+ dvcont                               iptables-nft-restore           mysql_secure_installation             shuf                    xgamma
+ dwebp                                iptables-nft-save              mysql_setpermission                   shutdown                xgettext
+ dwp                                  iptables-restore               mysqlshow                             signtool                xhost
+ e2freefrag                           iptables-restore-translate     mysqlslap                             signver                 xinit
+ e2fsck                               iptables-save                  mysqltest                             sim_client              xinput
+ e2image                              iptables-translate             mysqltest_embedded                    sim_server              xkbbell
+ e2label                              iptables-xml                   mysql_tzinfo_to_sql                   site_perl               xkbcli
+ e2mmpstatus                          ir-ctl                         mysql_upgrade                         size                    xkbcomp
+ e2scrub                              ir-keytable                    mysql_waitpid                         slabtop                 xkbevd
+ e2scrub_all                          irqtop                         namei                                 sleep                   xkbvleds
+ e2undo                               isadump                        ncursesw6-config                      sln                     xkbwatch
+ e4crypt                              isaset                         ndptool                               slsh                    xkill
+ e4defrag                             isosize                        neqn                                  smproxy                 xlsatoms
+ eapol_test                           jack_alias                     netcap                                sndfile-cmp             xlsclients
+ ebtables-nft                         jack_bufsize                   nettle-hash                           sndfile-concat          xml2-config
+ ebtables-nft-restore                 jack_connect                   nettle-lfib-stream                    sndfile-convert         xmlcatalog
+ ebtables-nft-save                    jackd                          nettle-pbkdf2                         sndfile-deinterleave    xmllint
+ echo                                 jack_disconnect                networkctl                            sndfile-info            xmlwf
+ egrep                                jack_evmon                     NetworkManager                        sndfile-interleave      xmodmap
+ eject                                jack_freewheel                 newgidmap                             sndfile-metadata-get    Xnest
+ elfedit                              jack_impulse_grabber           newgrp                                sndfile-metadata-set    Xorg
+ encodedv                             jack_iodelay                   newuidmap                             sndfile-play            xpr
+ env                                  jack_latent_client             newusers                              sndfile-salvage         xprop
+ envsubst                             jack_load                      nfbpf_compile                         soelim                  xrandr
+ epdfview                             jack_load_test                 nf-ct-add                             sort                    xrdb
+ eqn                                  jack_lsp                       nf-ct-events                          sotruss                 xrefresh
+ eqn2graph                            jack_metro                     nf-ct-list                            speexdec                xset
+ escapesrc                            jack_midi_dump                 nf-exp-add                            speexenc                xsetroot
+ eu-addr2line                         jack_midiseq                   nf-exp-delete                         split                   xtables-legacy-multi
+ eu-ar                                jack_midisine                  nf-exp-list                           sprof                   xtables-monitor
+ eu-elfclassify                       jack_monitor_client            nf-log                                sqldiff                 xtables-nft-multi
+ eu-elfcmp                            jack_netsource                 nf-monitor                            sqlite3                 xtotroff
+ eu-elfcompress                       jack_property                  nfnl_osf                              srptool                 xtrace
+ eu-elflint                           jack_rec                       nf-queue                              srt-ffplay              Xvfb
+ eu-findtextrel                       jack_samplerate                ngettext                              srt-file-transmit       xvfb-run
+ eu-make-debug-archive                jack_server_control            nice                                  srt-live-transmit       xvinfo
+ eu-nm                                jack_session_notify            ninfod                                srt-test-file           Xwayland
+ eu-objdump                           jack_showtime                  nl                                    srt-test-live           xwd
+ eu-ranlib                            jack_simple_client             nl-addr-add                           srt-test-multiplex      xwininfo
+ eu-readelf                           jack_simple_session_client     nl-addr-delete                        srt-test-relay          xwud
+ eu-size                              jack_transport                 nl-addr-list                          srt-tunnel              xxd
+ eu-stack                             jack_transport_client          nl-class-add                          ss                      xz
+ eu-strings                           jack_unload                    nl-class-delete                       sserver                 xzcat
+ eu-strip                             jack_wait                      nl-classid-lookup                     ssltap                  xzcmp
+ eu-unstrip                           jemalloc-config                nl-class-list                         sst_dump                xzdec
+ exo-desktop-item-edit                jemalloc.sh                    nl-cls-add                            start-pulseaudio-x11    xzdiff
+ exo-open                             jeprof                         nl-cls-delete                         startx                  xzegrep
+ expand                               join                           nl-cls-list                           startxfce4              xzfgrep
+ expiry                               journalctl                     nl-fib-lookup                         stat                    xzgrep
+ expr                                 jpegtran                       nl-link-enslave                       stdbuf                  xzless
+ factor                               jpgicc                         nl-link-ifindex2name                  strings                 xzmore
+ faillock                             js78                           nl-link-list                          strip                   yacc
+ faillog                              js78-config                    nl-link-name2ifindex                  stty                    yat2m
+ faked                                json-glib-format               nl-link-release                       su                      yes
+ fakeroot                             json-glib-validate             nl-link-set                           sudo                    zcat
+ fallocate                            k5srvutil                      nl-link-stats                         sudoedit                zcmp
+ false                                kadmin                         nl-list-caches                        sudo_logsrvd            zdiff
+ fancontrol                           kadmind                        nl-list-sockets                       sudoreplay              zdump
+ fatlabel                             kadmin.local                   nl-monitor                            sudo_sendlog            zegrep
+ fax2ps                               kbdinfo                        nl-neigh-add                          sulogin                 zfgrep
+ fax2tiff                             kbd_mode                       nl-neigh-delete                       sum                     zforce
+ fc-cache                             kbdrate                        nl-neigh-list                         SvtAv1DecApp            zgrep
+ fc-cat                               kbxutil                        nl-neightbl-list                      SvtAv1EncApp            zic
+ fc-conflist                          kdb5_ldap_util                 nl-pktloc-lookup                      swaplabel               zip
+ fc-list                              kdb5_util                      nl-qdisc-add                          swapoff                 zipcloak
+ fc-match                             kdestroy                       nl-qdisc-delete                       swapon                  zipgrep
+ fc-pattern                           kernel-install                 nl-qdisc-list                         switch_root             zipinfo
+ fc-query                             keyctl                         nl-route-add                          sxpm                    zipnote
+ fc-scan                              key.dns_resolver               nl-route-delete                       symkeyutil              zipsplit
+ fc-validate                          kill                           nl-route-get                          sync                    zless
+ fdformat                             killall                        nl-route-list                         syncqt.pl               zmore
+ fdisk                                kinit                          nl-rule-list                          syncqt.pl-qt5           znew
+ ffmpeg                               klist                          nl-tctree-list                        sysctl                  zramctl
+ ffplay                               kmod                           nl-util-addr                          systemctl               zresample
+ ffprobe                              kpasswd                        nm                                    systemd-analyze         zretune
+ fgconsole                            kprop                          nm-applet                             systemd-ask-password    zsoelim
+ fgrep                                kpropd                         nmcli                                 systemd-cat             zstd
+ file                                 kproplog                       nm-connection-editor                  systemd-cgls            zstdcat
+ filecap                              krb5-config                    nm-online                             systemd-cgtop           zstdgrep
+ filefrag                             krb5kdc                        nmtui                                 systemd-cryptenroll     zstdless
+ file-roller                          krb5-send-pr                   nmtui-connect                         systemd-delta           zstdmt
+ fincore                              ksba-config                    nmtui-edit                            systemd-detect-virt
+[jds@TTY bin]$ cd /
+[jds@TTY /]$ ls
+backup.tar.gz  bin  boot  dev  etc  home  lib  lib64  lost+found  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var
+[jds@TTY /]$ pacmac update firefox
+-bash: pacmac: command not found
+[jds@TTY /]$ su
+Password: 
+[root@TTY /]# ls
+backup.tar.gz  bin  boot  dev  etc  home  lib  lib64  lost+found  mnt  opt  proc  root	run  sbin  srv	sys  tmp  usr  var
+[root@TTY /]# pacman --sync --refresh
+:: Synchronizing package databases...
+ core                                                                                  134.8 KiB   130 KiB/s 00:01 [####################################################################] 100%
+ extra                                                                                1562.6 KiB  1354 KiB/s 00:01 [####################################################################] 100%
+ community                                                                               5.6 MiB  5.18 MiB/s 00:01 [####################################################################] 100%
+[root@TTY /]# pacman --sync --needed archlinux-keyring
+warning: archlinux-keyring-20210110-1 is up to date -- skipping
+ there is nothing to do
+[root@TTY /]# pacman --sync --refresh --sysupgrade
+:: Synchronizing package databases...
+ core is up to date
+ extra is up to date
+ community is up to date
+:: Starting full system upgrade...
+resolving dependencies...
+looking for conflicting packages...
+
+Package (103)                  Old Version            New Version            Net Change  Download Size
+
+extra/alsa-card-profiles                              1:0.3.29-2               0.17 MiB       0.03 MiB
+extra/alsa-lib                 1.2.4-3                1.2.5-2                  0.04 MiB       0.46 MiB
+extra/alsa-topology-conf       1.2.4-2                1.2.5-1                  0.00 MiB       0.01 MiB
+extra/alsa-ucm-conf            1.2.4-2                1.2.5-1                  0.03 MiB       0.04 MiB
+extra/at-spi2-core             2.40.1-1               2.40.2-1                 0.00 MiB       0.25 MiB
+core/binutils                  2.36.1-2               2.36.1-3                -0.10 MiB       6.24 MiB
+core/ca-certificates           20181109-4             20210529-1               0.00 MiB       0.00 MiB
+core/ca-certificates-mozilla   3.64-1                 3.66-1                   0.01 MiB       0.32 MiB
+core/ca-certificates-utils     20181109-4             20210529-1               0.00 MiB       0.01 MiB
+extra/colord                   1.4.5-1                1.4.5-4                 -1.20 MiB       1.68 MiB
+core/cryptsetup                2.3.5-4                2.3.6-1                  0.00 MiB       0.60 MiB
+core/curl                      7.76.1-1               7.77.0-1                 0.02 MiB       1.06 MiB
+extra/dav1d                    0.8.2-1                0.9.0-1                  0.13 MiB       0.43 MiB
+core/elfutils                  0.184-1                0.185-1                 -0.21 MiB       0.54 MiB
+core/expat                     2.3.0-1                2.4.1-1                  0.02 MiB       0.11 MiB
+core/file                      5.40-3                 5.40-5                   0.00 MiB       0.34 MiB
+core/filesystem                2021.01.19-1           2021.05.31-1             0.00 MiB       0.03 MiB
+extra/firefox                  88.0.1-1               89.0-1                   0.05 MiB      60.37 MiB
+core/gcc                       10.2.0-6               11.1.0-1                 4.20 MiB      33.96 MiB
+core/gcc-libs                  10.2.0-6               11.1.0-1               -26.50 MiB      30.48 MiB
+extra/git                      2.31.1-1               2.32.0-1                 0.75 MiB       5.86 MiB
+core/glibc                     2.33-4                 2.33-5                  -0.04 MiB       9.83 MiB
+core/gnutls                    3.7.1-1                3.7.2-1                  0.01 MiB       2.85 MiB
+extra/gtk-update-icon-cache    1:4.2.1-1              1:4.2.1-2                0.00 MiB       0.02 MiB
+extra/gtk3                     1:3.24.29-1            1:3.24.29-2             -0.01 MiB       7.50 MiB
+extra/js78                     78.10.1-1              78.11.0-1                0.01 MiB      10.53 MiB
+core/kmod                      28-1                   29-1                     0.00 MiB       0.10 MiB
+extra/libcaca                  0.99.beta19-4          0.99.beta19-5            0.00 MiB       0.25 MiB
+extra/libcanberra              0.30+2+gc0620e4-3      0.30+2+gc0620e4-4        0.03 MiB       0.09 MiB
+core/libcap                    2.49-1                 2.50-1                  -0.03 MiB       0.06 MiB
+extra/libcolord                                       1.4.5-4                  1.21 MiB       0.17 MiB
+extra/libdrm                   2.4.105-1              2.4.106-1                0.00 MiB       0.26 MiB
+core/libedit                   20210419_3.1-1         20210522_3.1-1           0.00 MiB       0.11 MiB
+core/libelf                    0.184-1                0.185-1                  0.05 MiB       0.46 MiB
+extra/libepoxy                 1.5.7-1                1.5.8-1                  0.00 MiB       0.43 MiB
+community/libfdk-aac                                  2.0.2-1                  1.49 MiB       0.69 MiB
+extra/libgusb                  0.3.6-1                0.3.7-1                  0.00 MiB       0.06 MiB
+core/libidn2                   2.3.0-1                2.3.1-1                  0.02 MiB       0.14 MiB
+extra/libinput                 1.17.2-2               1.18.0-1                 0.01 MiB       0.28 MiB
+extra/libldac                                         2.0.2.3-1                0.09 MiB       0.03 MiB
+core/libldap                   2.4.58-2               2.4.58-3                 0.00 MiB       0.30 MiB
+community/libmfx               20.5.1-1               21.1.3-2                 0.01 MiB       0.05 MiB
+extra/libmm-glib               1.16.4-1               1.16.6-1                 0.00 MiB       0.43 MiB
+extra/libndp                   1.7-2                  1.8-1                    0.00 MiB       0.02 MiB
+core/libnftnl                  1.1.9-1                1.2.0-1                  0.00 MiB       0.07 MiB
+core/libnl                     3.5.0-2                3.5.0-3                  0.01 MiB       0.39 MiB
+extra/libogg                   1.3.4-2                1.3.5-1                  0.00 MiB       0.19 MiB
+extra/libopenaptx                                     0.2.0-1                  0.06 MiB       0.02 MiB
+extra/libproxy                 0.4.17-1               0.4.17-2                 0.00 MiB       0.08 MiB
+extra/librsvg                  2:2.50.5-1             2:2.50.7-1               0.00 MiB       2.44 MiB
+core/libtasn1                  4.16.0-1               4.17.0-1                 0.18 MiB       0.13 MiB
+core/libtirpc                  1.3.1-1                1.3.2-1                  0.00 MiB       0.17 MiB
+core/libtool                   2.4.6+42+gb88cebd5-15  2.4.6+42+gb88cebd5-16    0.00 MiB       0.40 MiB
+extra/libx11                   1.7.0-4                1.7.2-1                  0.00 MiB       2.05 MiB
+core/libxcrypt                 4.4.20-1               4.4.22-4                 0.00 MiB       0.09 MiB
+extra/libxfixes                5.0.3-4                6.0.0-1                  0.00 MiB       0.01 MiB
+core/linux                     5.12.3.arch1-1         5.12.9.arch1-1          -0.05 MiB      94.91 MiB
+core/linux-api-headers         5.10.13-1              5.12.3-1                 0.12 MiB       1.10 MiB
+core/linux-firmware            20210426.fa0efef-1     20210511.7685cf4-1       4.18 MiB     167.69 MiB
+extra/llvm-libs                11.1.0-1               12.0.0-1                 8.19 MiB      24.43 MiB
+core/lz4                       1:1.9.3-1              1:1.9.3-2                0.00 MiB       0.12 MiB
+extra/mesa                     21.1.0-1               21.1.2-1                -3.54 MiB      17.53 MiB
+extra/mpg123                   1.27.2-1               1.28.0-1                 0.00 MiB       0.42 MiB
+core/nettle                    3.7.2-1                3.7.3-1                 -0.01 MiB       0.41 MiB
+core/nspr                      4.30-1                 4.31-1                   0.00 MiB       0.19 MiB
+core/nss                       3.64-1                 3.66-1                   0.05 MiB       1.53 MiB
+community/obs-studio           26.1.2-2               27.0.0-2                 0.95 MiB       4.68 MiB
+core/pacman                    5.2.2-3                6.0.0-2                  0.18 MiB       0.87 MiB
+core/pambase                   20200721.1-2           20210605-2               0.00 MiB       0.00 MiB
+extra/pango                    1:1.48.4-1             1:1.48.5-1               0.00 MiB       0.35 MiB
+core/pcre2                     10.36-1                10.37-1                  0.02 MiB       1.09 MiB
+core/perl                      5.32.1-1               5.34.0-1                 1.22 MiB      15.36 MiB
+extra/perl-error               0.17029-2              0.17029-3                0.00 MiB       0.02 MiB
+extra/perl-mailtools           2.21-4                 2.21-5                   0.00 MiB       0.06 MiB
+extra/perl-timedate            2.33-2                 2.33-3                   0.00 MiB       0.03 MiB
+extra/pipewire                                        1:0.3.29-2               6.65 MiB       1.35 MiB
+extra/polkit                   0.118-1                0.119-1                  0.01 MiB       0.39 MiB
+extra/poppler                  21.05.0-1              21.06.1-1                0.01 MiB       1.30 MiB
+extra/poppler-glib             21.05.0-1              21.06.1-1                0.00 MiB       0.25 MiB
+extra/python                   3.9.5-2                3.9.5-3                 -3.32 MiB      28.03 MiB
+extra/qt5-base                 5.15.2+kde+r192-1      5.15.2+kde+r196-1        0.80 MiB      13.00 MiB
+extra/sbc                                             1.5-2                    0.23 MiB       0.04 MiB
+core/systemd                   248.2-2                248.3-2                 -0.04 MiB       6.32 MiB
+core/systemd-libs              248.2-2                248.3-2                 -0.01 MiB       0.55 MiB
+core/systemd-sysvcompat        248.2-2                248.3-2                  0.00 MiB       0.01 MiB
+extra/tumbler                  4.16.0-2               4.16.0-3                 0.00 MiB       0.17 MiB
+core/util-linux                2.36.2-1               2.37-3                  -0.22 MiB       2.52 MiB
+core/util-linux-libs           2.36.2-1               2.37-3                   0.04 MiB       0.40 MiB
+extra/vim                      8.2.2845-1             8.2.2891-1              -0.01 MiB       1.76 MiB
+extra/vim-runtime              8.2.2845-1             8.2.2891-1               0.01 MiB       6.37 MiB
+extra/vte-common               0.64.1-1               0.64.2-2                 0.00 MiB       0.01 MiB
+extra/vte3                     0.64.1-1               0.64.2-2                 0.00 MiB       0.35 MiB
+extra/webrtc-audio-processing  0.3.1-2                0.3.1-3                  0.00 MiB       0.30 MiB
+extra/xfce4-appfinder          4.16.1-1               4.16.1-2                 0.00 MiB       0.15 MiB
+extra/xfce4-panel              4.16.3-1               4.16.3-2                 0.01 MiB       0.74 MiB
+extra/xfce4-power-manager      4.16.0-2               4.16.0-3                 0.00 MiB       0.53 MiB
+extra/xfce4-session            4.16.0-1               4.16.0-2                 0.00 MiB       0.32 MiB
+extra/xfce4-settings           4.16.1-1               4.16.2-1                 0.01 MiB       0.85 MiB
+extra/xfce4-terminal           0.8.10-1               0.8.10-2                 0.00 MiB       0.41 MiB
+extra/xfconf                   4.16.0-1               4.16.0-2                 0.00 MiB       0.18 MiB
+extra/xfdesktop                4.16.0-1               4.16.0-2                 0.00 MiB       1.27 MiB
+extra/xfwm4                    4.16.1-1               4.16.1-2                 0.00 MiB       0.48 MiB
+core/zstd                      1.4.9-1                1.5.0-1                  0.82 MiB       0.90 MiB
+
+Total Download Size:    583.28 MiB
+Total Installed Size:  2149.76 MiB
+Net Upgrade Size:        -3.20 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ linux-api-headers-5.12.3-1-any                                                       1130.4 KiB   577 KiB/s 00:02 [####################################################################] 100%
+ filesystem-2021.05.31-1-x86_64                                                         30.0 KiB  7.33 MiB/s 00:00 [####################################################################] 100%
+ glibc-2.33-5-x86_64                                                                     9.8 MiB  4.32 MiB/s 00:02 [####################################################################] 100%
+ libxcrypt-4.4.22-4-x86_64                                                              88.5 KiB  14.4 MiB/s 00:00 [####################################################################] 100%
+ util-linux-libs-2.37-3-x86_64                                                         411.3 KiB  10.0 MiB/s 00:00 [####################################################################] 100%
+ gcc-libs-11.1.0-1-x86_64                                                               30.5 MiB  4.88 MiB/s 00:06 [####################################################################] 100%
+ libldap-2.4.58-3-x86_64                                                               304.0 KiB  4.95 MiB/s 00:00 [####################################################################] 100%
+ libtirpc-1.3.2-1-x86_64                                                               176.8 KiB  13.3 MiB/s 00:00 [####################################################################] 100%
+ pambase-20210605-2-any                                                                  3.0 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ libcap-2.50-1-x86_64                                                                   59.7 KiB  19.4 MiB/s 00:00 [####################################################################] 100%
+ lz4-1:1.9.3-2-x86_64                                                                  120.2 KiB  11.7 MiB/s 00:00 [####################################################################] 100%
+ zstd-1.5.0-1-x86_64                                                                   924.3 KiB  5.64 MiB/s 00:00 [####################################################################] 100%
+ libtasn1-4.17.0-1-x86_64                                                              133.1 KiB  10.0 MiB/s 00:00 [####################################################################] 100%
+ systemd-libs-248.3-2-x86_64                                                           559.2 KiB  6.07 MiB/s 00:00 [####################################################################] 100%
+ expat-2.4.1-1-x86_64                                                                  114.5 KiB  11.2 MiB/s 00:00 [####################################################################] 100%
+ ca-certificates-utils-20210529-1-any                                                    7.9 KiB  2.57 MiB/s 00:00 [####################################################################] 100%
+ ca-certificates-mozilla-3.66-1-x86_64                                                 325.8 KiB   526 KiB/s 00:01 [####################################################################] 100%
+ ca-certificates-20210529-1-any                                                       2009.0   B  0.00   B/s 00:00 [####################################################################] 100%
+ libidn2-2.3.1-1-x86_64                                                                140.3 KiB   439 KiB/s 00:00 [####################################################################] 100%
+ curl-7.77.0-1-x86_64                                                                 1090.3 KiB   446 KiB/s 00:02 [####################################################################] 100%
+ libelf-0.185-1-x86_64                                                                 470.1 KiB   573 KiB/s 00:01 [####################################################################] 100%
+ elfutils-0.185-1-x86_64                                                               552.6 KiB   628 KiB/s 00:01 [####################################################################] 100%
+ binutils-2.36.1-3-x86_64                                                                6.2 MiB   986 KiB/s 00:06 [####################################################################] 100%
+ cryptsetup-2.3.6-1-x86_64                                                             610.2 KiB  1525 KiB/s 00:00 [####################################################################] 100%
+ kmod-29-1-x86_64                                                                      105.8 KiB   396 KiB/s 00:00 [####################################################################] 100%
+ file-5.40-5-x86_64                                                                    344.9 KiB   231 KiB/s 00:01 [####################################################################] 100%
+ util-linux-2.37-3-x86_64                                                                2.5 MiB  1560 KiB/s 00:02 [####################################################################] 100%
+ pcre2-10.37-1-x86_64                                                                 1116.2 KiB  1641 KiB/s 00:01 [####################################################################] 100%
+ libnftnl-1.2.0-1-x86_64                                                                69.5 KiB   257 KiB/s 00:00 [####################################################################] 100%
+ libnl-3.5.0-3-x86_64                                                                  395.0 KiB  1013 KiB/s 00:00 [####################################################################] 100%
+ systemd-248.3-2-x86_64                                                                  6.3 MiB  1882 KiB/s 00:03 [####################################################################] 100%
+ libedit-20210522_3.1-1-x86_64                                                         109.1 KiB  2.96 MiB/s 00:00 [####################################################################] 100%
+ libtool-2.4.6+42+gb88cebd5-16-x86_64                                                  409.6 KiB  2.40 MiB/s 00:00 [####################################################################] 100%
+ nettle-3.7.3-1-x86_64                                                                 424.7 KiB  2.38 MiB/s 00:00 [####################################################################] 100%
+ gnutls-3.7.2-1-x86_64                                                                   2.8 MiB  2.16 MiB/s 00:01 [####################################################################] 100%
+ nspr-4.31-1-x86_64                                                                    197.8 KiB  2.76 MiB/s 00:00 [####################################################################] 100%
+ nss-3.66-1-x86_64                                                                    1571.1 KiB  2.32 MiB/s 00:01 [####################################################################] 100%
+ gcc-11.1.0-1-x86_64                                                                    34.0 MiB  3.56 MiB/s 00:10 [####################################################################] 100%
+ perl-5.34.0-1-x86_64                                                                   15.4 MiB  4.61 MiB/s 00:03 [####################################################################] 100%
+ linux-5.12.9.arch1-1-x86_64                                                            94.9 MiB  5.40 MiB/s 00:18 [####################################################################] 100%
+ linux-firmware-20210511.7685cf4-1-any                                                 167.7 MiB  5.98 MiB/s 00:28 [####################################################################] 100%
+ pacman-6.0.0-2-x86_64                                                                 892.8 KiB  1727 KiB/s 00:01 [####################################################################] 100%
+ systemd-sysvcompat-248.3-2-x86_64                                                       5.8 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ alsa-topology-conf-1.2.5-1-any                                                         13.5 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ alsa-ucm-conf-1.2.5-1-any                                                              45.0 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ alsa-lib-1.2.5-2-x86_64                                                               471.8 KiB  10.7 MiB/s 00:00 [####################################################################] 100%
+ libx11-1.7.2-1-x86_64                                                                   2.1 MiB  11.0 MiB/s 00:00 [####################################################################] 100%
+ libxfixes-6.0.0-1-x86_64                                                               13.7 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ at-spi2-core-2.40.2-1-x86_64                                                          260.0 KiB  1028 KiB/s 00:00 [####################################################################] 100%
+ libgusb-0.3.7-1-x86_64                                                                 65.1 KiB  3.74 MiB/s 00:00 [####################################################################] 100%
+ js78-78.11.0-1-x86_64                                                                  10.5 MiB  2.91 MiB/s 00:04 [####################################################################] 100%
+ polkit-0.119-1-x86_64                                                                 400.7 KiB  3.56 MiB/s 00:00 [####################################################################] 100%
+ libcolord-1.4.5-4-x86_64                                                              171.3 KiB  3.56 MiB/s 00:00 [####################################################################] 100%
+ colord-1.4.5-4-x86_64                                                                1723.4 KiB  2.37 MiB/s 00:01 [####################################################################] 100%
+ dav1d-0.9.0-1-x86_64                                                                  444.5 KiB  31.0 MiB/s 00:00 [####################################################################] 100%
+ libepoxy-1.5.8-1-x86_64                                                               435.9 KiB  3.87 MiB/s 00:00 [####################################################################] 100%
+ pango-1:1.48.5-1-x86_64                                                               355.3 KiB  3.99 MiB/s 00:00 [####################################################################] 100%
+ librsvg-2:2.50.7-1-x86_64                                                               2.4 MiB  3.93 MiB/s 00:01 [####################################################################] 100%
+ libdrm-2.4.106-1-x86_64                                                               267.7 KiB  4.36 MiB/s 00:00 [####################################################################] 100%
+ llvm-libs-12.0.0-1-x86_64                                                              24.4 MiB  4.45 MiB/s 00:05 [####################################################################] 100%
+ mesa-21.1.2-1-x86_64                                                                   17.5 MiB  4.11 MiB/s 00:04 [####################################################################] 100%
+ libogg-1.3.5-1-x86_64                                                                 199.2 KiB  8.46 MiB/s 00:00 [####################################################################] 100%
+ libcanberra-0.30+2+gc0620e4-4-x86_64                                                   91.5 KiB  12.8 MiB/s 00:00 [####################################################################] 100%
+ gtk-update-icon-cache-1:4.2.1-2-x86_64                                                 17.1 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ libproxy-0.4.17-2-x86_64                                                               78.4 KiB  7.65 MiB/s 00:00 [####################################################################] 100%
+ gtk3-1:3.24.29-2-x86_64                                                                 7.5 MiB  6.54 MiB/s 00:01 [####################################################################] 100%
+ firefox-89.0-1-x86_64                                                                  60.4 MiB  5.80 MiB/s 00:10 [####################################################################] 100%
+ perl-error-0.17029-3-any                                                               21.8 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ perl-timedate-2.33-3-any                                                               35.8 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ perl-mailtools-2.21-5-any                                                              62.2 KiB  15.2 MiB/s 00:00 [####################################################################] 100%
+ git-2.32.0-1-x86_64                                                                     5.9 MiB  7.82 MiB/s 00:01 [####################################################################] 100%
+ libcaca-0.99.beta19-5-x86_64                                                          259.0 KiB   115 KiB/s 00:02 [####################################################################] 100%
+ libinput-1.18.0-1-x86_64                                                              284.7 KiB  11.6 MiB/s 00:00 [####################################################################] 100%
+ libmm-glib-1.16.6-1-x86_64                                                            436.5 KiB  10.7 MiB/s 00:00 [####################################################################] 100%
+ libndp-1.8-1-x86_64                                                                    19.2 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ mpg123-1.28.0-1-x86_64                                                                432.7 KiB  10.6 MiB/s 00:00 [####################################################################] 100%
+ alsa-card-profiles-1:0.3.29-2-x86_64                                                   26.5 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ sbc-1.5-2-x86_64                                                                       43.5 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ libldac-2.0.2.3-1-x86_64                                                               34.1 KiB  8.33 MiB/s 00:00 [####################################################################] 100%
+ libopenaptx-0.2.0-1-x86_64                                                             18.7 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ webrtc-audio-processing-0.3.1-3-x86_64                                                309.3 KiB  11.6 MiB/s 00:00 [####################################################################] 100%
+ pipewire-1:0.3.29-2-x86_64                                                           1383.2 KiB  3.97 MiB/s 00:00 [####################################################################] 100%
+ qt5-base-5.15.2+kde+r196-1-x86_64                                                      13.0 MiB  4.35 MiB/s 00:03 [####################################################################] 100%
+ poppler-21.06.1-1-x86_64                                                             1333.8 KiB  4.82 MiB/s 00:00 [####################################################################] 100%
+ poppler-glib-21.06.1-1-x86_64                                                         255.8 KiB  4.71 MiB/s 00:00 [####################################################################] 100%
+ python-3.9.5-3-x86_64                                                                  28.0 MiB  5.24 MiB/s 00:05 [####################################################################] 100%
+ tumbler-4.16.0-3-x86_64                                                               170.2 KiB  7.23 MiB/s 00:00 [####################################################################] 100%
+ vim-runtime-8.2.2891-1-x86_64                                                           6.4 MiB  5.56 MiB/s 00:01 [####################################################################] 100%
+ vim-8.2.2891-1-x86_64                                                                1801.4 KiB  3.85 MiB/s 00:00 [####################################################################] 100%
+ vte-common-0.64.2-2-x86_64                                                              6.9 KiB  0.00   B/s 00:00 [####################################################################] 100%
+ vte3-0.64.2-2-x86_64                                                                  359.1 KiB  1360 KiB/s 00:00 [####################################################################] 100%
+ xfconf-4.16.0-2-x86_64                                                                184.4 KiB  7.83 MiB/s 00:00 [####################################################################] 100%
+ xfce4-appfinder-4.16.1-2-x86_64                                                       155.2 KiB  8.91 MiB/s 00:00 [####################################################################] 100%
+ xfce4-panel-4.16.3-2-x86_64                                                           761.6 KiB  1263 KiB/s 00:01 [####################################################################] 100%
+ xfce4-power-manager-4.16.0-3-x86_64                                                   543.3 KiB  1682 KiB/s 00:00 [####################################################################] 100%
+ xfce4-session-4.16.0-2-x86_64                                                         329.5 KiB   990 KiB/s 00:00 [####################################################################] 100%
+ xfce4-settings-4.16.2-1-x86_64                                                        866.9 KiB   953 KiB/s 00:01 [####################################################################] 100%
+ xfce4-terminal-0.8.10-2-x86_64                                                        415.0 KiB   737 KiB/s 00:01 [####################################################################] 100%
+ xfdesktop-4.16.0-2-x86_64                                                            1305.4 KiB   991 KiB/s 00:01 [####################################################################] 100%
+ xfwm4-4.16.1-2-x86_64                                                                 487.9 KiB   623 KiB/s 00:01 [####################################################################] 100%
+ libmfx-21.1.3-2-x86_64                                                                 53.4 KiB  1336 KiB/s 00:00 [####################################################################] 100%
+ libfdk-aac-2.0.2-1-x86_64                                                             709.9 KiB   791 KiB/s 00:01 [####################################################################] 100%
+ obs-studio-27.0.0-2-x86_64                                                              4.7 MiB  1034 KiB/s 00:05 [####################################################################] 100%
+(103/103) checking keys in keyring                                                                                 [####################################################################] 100%
+(103/103) checking package integrity                                                                               [####################################################################] 100%
+(103/103) loading package files                                                                                    [####################################################################] 100%
+(103/103) checking for file conflicts                                                                              [####################################################################] 100%
+(103/103) checking available disk space                                                                            [####################################################################] 100%
+:: Running pre-transaction hooks...
+(1/1) Removing linux initcpios...
+:: Processing package changes...
+(  1/103) upgrading linux-api-headers                                                                              [####################################################################] 100%
+(  2/103) upgrading filesystem                                                                                     [####################################################################] 100%
+(  3/103) upgrading glibc                                                                                          [####################################################################] 100%
+Generating locales...
+  en_US.UTF-8... done
+Generation complete.
+(  4/103) upgrading alsa-topology-conf                                                                             [####################################################################] 100%
+(  5/103) upgrading alsa-ucm-conf                                                                                  [####################################################################] 100%
+(  6/103) upgrading alsa-lib                                                                                       [####################################################################] 100%
+WARNING: Non-backwards compatible changes to ALSA require restarting of audio engines (e.g. pulseaudio or pipewire) using it.
+(  7/103) upgrading libxcrypt                                                                                      [####################################################################] 100%
+ > Starting with 'libxcrypt' 4.4.21, weak password hashes (such as MD5 and SHA1)
+ > are no longer accepted for new passwords. Users that still have their
+ > passwords stored with a weak hash will be asked to update their password on
+ > their next login.
+ > If the login just fails (for example from display manager) switch to a
+ > virtual terminal ('Ctrl-Alt-F2') and log in there once.
+(  8/103) upgrading util-linux-libs                                                                                [####################################################################] 100%
+(  9/103) upgrading gcc-libs                                                                                       [####################################################################] 100%
+( 10/103) upgrading libldap                                                                                        [####################################################################] 100%
+( 11/103) upgrading libtirpc                                                                                       [####################################################################] 100%
+( 12/103) upgrading pambase                                                                                        [####################################################################] 100%
+( 13/103) upgrading libcap                                                                                         [####################################################################] 100%
+( 14/103) upgrading lz4                                                                                            [####################################################################] 100%
+( 15/103) upgrading zstd                                                                                           [####################################################################] 100%
+( 16/103) upgrading libtasn1                                                                                       [####################################################################] 100%
+( 17/103) upgrading systemd-libs                                                                                   [####################################################################] 100%
+( 18/103) upgrading expat                                                                                          [####################################################################] 100%
+( 19/103) upgrading libx11                                                                                         [####################################################################] 100%
+( 20/103) upgrading libxfixes                                                                                      [####################################################################] 100%
+( 21/103) upgrading at-spi2-core                                                                                   [####################################################################] 100%
+( 22/103) upgrading ca-certificates-utils                                                                          [####################################################################] 100%
+( 23/103) upgrading ca-certificates-mozilla                                                                        [####################################################################] 100%
+( 24/103) upgrading ca-certificates                                                                                [####################################################################] 100%
+( 25/103) upgrading libidn2                                                                                        [####################################################################] 100%
+( 26/103) upgrading curl                                                                                           [####################################################################] 100%
+( 27/103) upgrading libelf                                                                                         [####################################################################] 100%
+( 28/103) upgrading elfutils                                                                                       [####################################################################] 100%
+( 29/103) upgrading binutils                                                                                       [####################################################################] 100%
+( 30/103) upgrading libgusb                                                                                        [####################################################################] 100%
+( 31/103) upgrading cryptsetup                                                                                     [####################################################################] 100%
+( 32/103) upgrading kmod                                                                                           [####################################################################] 100%
+( 33/103) upgrading file                                                                                           [####################################################################] 100%
+( 34/103) upgrading util-linux                                                                                     [####################################################################] 100%
+( 35/103) upgrading pcre2                                                                                          [####################################################################] 100%
+( 36/103) upgrading libnftnl                                                                                       [####################################################################] 100%
+( 37/103) upgrading libnl                                                                                          [####################################################################] 100%
+( 38/103) upgrading systemd                                                                                        [####################################################################] 100%
+( 39/103) upgrading js78                                                                                           [####################################################################] 100%
+( 40/103) upgrading polkit                                                                                         [####################################################################] 100%
+( 41/103) installing libcolord                                                                                     [####################################################################] 100%
+( 42/103) upgrading colord                                                                                         [####################################################################] 100%
+( 43/103) upgrading dav1d                                                                                          [####################################################################] 100%
+( 44/103) upgrading libepoxy                                                                                       [####################################################################] 100%
+( 45/103) upgrading pango                                                                                          [####################################################################] 100%
+( 46/103) upgrading librsvg                                                                                        [####################################################################] 100%
+( 47/103) upgrading libdrm                                                                                         [####################################################################] 100%
+( 48/103) upgrading libedit                                                                                        [####################################################################] 100%
+( 49/103) upgrading llvm-libs                                                                                      [####################################################################] 100%
+( 50/103) upgrading mesa                                                                                           [####################################################################] 100%
+( 51/103) upgrading libtool                                                                                        [####################################################################] 100%
+( 52/103) upgrading libogg                                                                                         [####################################################################] 100%
+( 53/103) upgrading libcanberra                                                                                    [####################################################################] 100%
+( 54/103) upgrading gtk-update-icon-cache                                                                          [####################################################################] 100%
+( 55/103) upgrading nettle                                                                                         [####################################################################] 100%
+( 56/103) upgrading gnutls                                                                                         [####################################################################] 100%
+( 57/103) upgrading libproxy                                                                                       [####################################################################] 100%
+( 58/103) upgrading gtk3                                                                                           [####################################################################] 100%
+( 59/103) upgrading nspr                                                                                           [####################################################################] 100%
+( 60/103) upgrading nss                                                                                            [####################################################################] 100%
+( 61/103) upgrading libmfx                                                                                         [####################################################################] 100%
+( 62/103) upgrading firefox                                                                                        [####################################################################] 100%
+New optional dependencies for firefox
+    xdg-desktop-portal: Screensharing with Wayland
+( 63/103) upgrading gcc                                                                                            [####################################################################] 100%
+( 64/103) upgrading perl                                                                                           [####################################################################] 100%
+( 65/103) upgrading perl-error                                                                                     [####################################################################] 100%
+( 66/103) upgrading perl-timedate                                                                                  [####################################################################] 100%
+( 67/103) upgrading perl-mailtools                                                                                 [####################################################################] 100%
+( 68/103) upgrading git                                                                                            [####################################################################] 100%
+New optional dependencies for git
+    perl-io-socket-ssl: git send-email TLS support
+( 69/103) upgrading libcaca                                                                                        [####################################################################] 100%
+( 70/103) upgrading libinput                                                                                       [####################################################################] 100%
+( 71/103) upgrading libmm-glib                                                                                     [####################################################################] 100%
+( 72/103) upgrading libndp                                                                                         [####################################################################] 100%
+( 73/103) upgrading linux                                                                                          [####################################################################] 100%
+( 74/103) upgrading linux-firmware                                                                                 [####################################################################] 100%
+( 75/103) upgrading mpg123                                                                                         [####################################################################] 100%
+( 76/103) installing alsa-card-profiles                                                                            [####################################################################] 100%
+( 77/103) installing sbc                                                                                           [####################################################################] 100%
+( 78/103) installing libldac                                                                                       [####################################################################] 100%
+( 79/103) installing libopenaptx                                                                                   [####################################################################] 100%
+( 80/103) installing libfdk-aac                                                                                    [####################################################################] 100%
+( 81/103) upgrading webrtc-audio-processing                                                                        [####################################################################] 100%
+( 82/103) installing pipewire                                                                                      [####################################################################] 100%
+Created symlink /etc/systemd/user/sockets.target.wants/pipewire.socket → /usr/lib/systemd/user/pipewire.socket.
+Optional dependencies for pipewire
+    pipewire-docs: Documentation
+    pipewire-media-session: Default session manager
+    pipewire-alsa: ALSA configuration
+    pipewire-jack: JACK support
+    pipewire-pulse: PulseAudio replacement
+    gst-plugin-pipewire: GStreamer support
+    pipewire-zeroconf: Zeroconf support
+( 83/103) upgrading qt5-base                                                                                       [####################################################################] 100%
+( 84/103) upgrading obs-studio                                                                                     [####################################################################] 100%
+New optional dependencies for obs-studio
+    sndio: Sndio input client
+    v4l2loopback-dkms: virtual camera support
+( 85/103) upgrading pacman                                                                                         [####################################################################] 100%
+warning: /etc/makepkg.conf installed as /etc/makepkg.conf.pacnew
+warning: /etc/pacman.conf installed as /etc/pacman.conf.pacnew
+( 86/103) upgrading poppler                                                                                        [####################################################################] 100%
+( 87/103) upgrading poppler-glib                                                                                   [####################################################################] 100%
+( 88/103) upgrading python                                                                                         [####################################################################] 100%
+( 89/103) upgrading systemd-sysvcompat                                                                             [####################################################################] 100%
+( 90/103) upgrading tumbler                                                                                        [####################################################################] 100%
+( 91/103) upgrading vim-runtime                                                                                    [####################################################################] 100%
+( 92/103) upgrading vim                                                                                            [####################################################################] 100%
+( 93/103) upgrading vte-common                                                                                     [####################################################################] 100%
+( 94/103) upgrading vte3                                                                                           [####################################################################] 100%
+( 95/103) upgrading xfconf                                                                                         [####################################################################] 100%
+( 96/103) upgrading xfce4-appfinder                                                                                [####################################################################] 100%
+( 97/103) upgrading xfce4-panel                                                                                    [####################################################################] 100%
+( 98/103) upgrading xfce4-power-manager                                                                            [####################################################################] 100%
+( 99/103) upgrading xfce4-session                                                                                  [####################################################################] 100%
+(100/103) upgrading xfce4-settings                                                                                 [####################################################################] 100%
+(101/103) upgrading xfce4-terminal                                                                                 [####################################################################] 100%
+(102/103) upgrading xfdesktop                                                                                      [####################################################################] 100%
+(103/103) upgrading xfwm4                                                                                          [####################################################################] 100%
+:: Running post-transaction hooks...
+( 1/20) Creating system user accounts...
+( 2/20) Updating journal message catalog...
+( 3/20) Reloading system manager configuration...
+( 4/20) Updating udev hardware database...
+( 5/20) Applying kernel sysctl settings...
+( 6/20) Creating temporary files...
+( 7/20) Reloading device manager configuration...
+( 8/20) Arming ConditionNeedsUpdate...
+( 9/20) Rebuilding certificate stores...
+(10/20) Updating module dependencies...
+(11/20) Updating linux initcpios...
+==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'default'
+  -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux.img
+==> Starting build: 5.12.9-arch1-1
+  -> Running build hook: [base]
+  -> Running build hook: [udev]
+  -> Running build hook: [autodetect]
+  -> Running build hook: [modconf]
+  -> Running build hook: [block]
+==> WARNING: Possibly missing firmware for module: xhci_pci
+  -> Running build hook: [filesystems]
+  -> Running build hook: [keyboard]
+  -> Running build hook: [fsck]
+==> Generating module dependencies
+==> Creating zstd-compressed initcpio image: /boot/initramfs-linux.img
+==> Image generation successful
+==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'fallback'
+  -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux-fallback.img -S autodetect
+==> Starting build: 5.12.9-arch1-1
+  -> Running build hook: [base]
+  -> Running build hook: [udev]
+  -> Running build hook: [modconf]
+  -> Running build hook: [block]
+==> WARNING: Possibly missing firmware for module: wd719x
+==> WARNING: Possibly missing firmware for module: aic94xx
+==> WARNING: Possibly missing firmware for module: xhci_pci
+  -> Running build hook: [filesystems]
+  -> Running build hook: [keyboard]
+  -> Running build hook: [fsck]
+==> Generating module dependencies
+==> Creating zstd-compressed initcpio image: /boot/initramfs-linux-fallback.img
+==> Image generation successful
+(12/20) Reloading system bus configuration...
+(13/20) Warn about old perl modules
+(14/20) Probing GDK-Pixbuf loader modules...
+(15/20) Updating GIO module cache...
+(16/20) Compiling GSettings XML schema files...
+(17/20) Probing GTK3 input method modules...
+(18/20) Updating icon theme caches...
+(19/20) Updating the info directory file...
+(20/20) Updating the desktop file MIME type cache...
+[root@TTY /]# 

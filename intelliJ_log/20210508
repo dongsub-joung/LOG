@@ -1,0 +1,472 @@
+ideaIU-2021.1.1.tar.gz  idea-IU-211.7142.45/    
+[jds@TTY Downloads]$ cd idea
+ideaIU-2021.1.1.tar.gz  idea-IU-211.7142.45/    
+[jds@TTY Downloads]$ cd idea-IU-211.7142.45/
+[jds@TTY idea-IU-211.7142.45]$ ls
+bin               classpath.txt  Install-Linux-tar.txt  license            redist
+brokenPlugins.db  help           jbr                    plugins
+build.txt         icons.db       lib                    product-info.json
+[jds@TTY idea-IU-211.7142.45]$ cd bin
+[jds@TTY bin]$ ls
+appletviewer.policy  idea64.vmoptions  idea.svg        log.xml
+format.sh            idea.png          idea.vmoptions  ltedit.sh
+fsnotifier           idea.properties   inspect.sh      printenv.py
+fsnotifier64         idea.sh           libdbm64.so     restart.py
+[jds@TTY bin]$ cd ...
+-bash: cd: ...: No such file or directory
+[jds@TTY bin]$ cd ..
+[jds@TTY idea-IU-211.7142.45]$ cd ..
+[jds@TTY Downloads]$ mv 
+ideaIU-2021.1.1.tar.gz          ttf-nanum.tar.gz
+idea-IU-211.7142.45/            xfce4-pulseaudio-plugin-master/
+nordvpn-bin/                    
+[jds@TTY Downloads]$ mv idea-IU-211.7142.45/ ~/opts/
+[jds@TTY Downloads]$ ls
+ideaIU-2021.1.1.tar.gz  nordvpn-bin  ttf-nanum.tar.gz  xfce4-pulseaudio-plugin-master
+[jds@TTY Downloads]$ rm -rf ideaIU-2021.1.1.tar.gz  ttf-nanum.tar.gz 
+[jds@TTY Downloads]$ ls
+nordvpn-bin  xfce4-pulseaudio-plugin-master
+[jds@TTY Downloads]$ mv nordvpn-bin ~/opts/
+[jds@TTY Downloads]$ 
+[jds@TTY Downloads]$ cd ~/opts/idea-IU-211.7142.45/bin/
+[jds@TTY bin]$ ls
+appletviewer.policy  idea64.vmoptions  idea.svg        log.xml
+format.sh            idea.png          idea.vmoptions  ltedit.sh
+fsnotifier           idea.properties   inspect.sh      printenv.py
+fsnotifier64         idea.sh           libdbm64.so     restart.py
+[jds@TTY bin]$ ./idea.sh 
+May 08, 2021 4:44:18 AM java.util.prefs.FileSystemPreferences$1 run
+INFO: Created user preferences directory.
+May 08, 2021 4:44:18 AM java.util.prefs.FileSystemPreferences$6 run
+WARNING: Prefs file removed in background /home/jds/.java/.userPrefs/prefs.xml
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+2021-05-08 04:44:56,543 [  38641]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 5687ms, details saved to /home/jds/.cache/JetBrains/IntelliJIdea2021.1/log/threadDumps-freeze-20210508-044455-IU-211.7142.45-5sec 
+2021-05-08 04:45:28,368 [  70466]  ERROR - redentialStore.CredentialStore - org/freedesktop/dbus/errors/NoReply 
+java.lang.NoClassDefFoundError: org/freedesktop/dbus/errors/NoReply
+	at com.intellij.credentialStore.LinuxCredentialStoreFactory.create(NativeCredentialStoreWrapper.kt:152)
+	at com.intellij.ide.passwordSafe.impl.PasswordSafeImplKt.createPersistentCredentialStore(PasswordSafeImpl.kt:244)
+	at com.intellij.ide.passwordSafe.impl.PasswordSafeImplKt.computeProvider(PasswordSafeImpl.kt:221)
+	at com.intellij.ide.passwordSafe.impl.PasswordSafeImplKt.access$computeProvider(PasswordSafeImpl.kt:1)
+	at com.intellij.ide.passwordSafe.impl.BasePasswordSafe$_currentProvider$1.invoke(PasswordSafeImpl.kt:42)
+	at com.intellij.ide.passwordSafe.impl.BasePasswordSafe$_currentProvider$1.invoke(PasswordSafeImpl.kt:32)
+	at com.intellij.util.concurrency.SynchronizedClearableLazy.getValue(SynchronizedClearableLazy.kt:37)
+	at com.intellij.ide.passwordSafe.impl.BasePasswordSafe.getCurrentProvider$intellij_platform_credentialStore(PasswordSafeImpl.kt:48)
+	at com.intellij.ide.passwordSafe.impl.BasePasswordSafe.set(PasswordSafeImpl.kt:108)
+	at org.jetbrains.plugins.github.authentication.accounts.GithubAccountManager.updateAccountToken(GithubAccountManager.kt:45)
+	at org.jetbrains.plugins.github.authentication.GithubAuthenticationManager.registerAccount$intellij_vcs_github(GithubAuthenticationManager.kt:122)
+	at org.jetbrains.plugins.github.authentication.GithubAuthenticationManager.registerAccount$intellij_vcs_github(GithubAuthenticationManager.kt:117)
+	at org.jetbrains.plugins.github.ui.cloneDialog.CloneDialogLoginPanel$login$3.invoke(CloneDialogLoginPanel.kt:161)
+	at org.jetbrains.plugins.github.ui.cloneDialog.CloneDialogLoginPanel$login$3.invoke(CloneDialogLoginPanel.kt:42)
+	at org.jetbrains.plugins.github.util.GithubAsyncUtilKt$successOnEdt$1.invoke(GithubAsyncUtil.kt:113)
+	at org.jetbrains.plugins.github.util.GithubAsyncUtilKt$successOnEdt$1.invoke(GithubAsyncUtil.kt)
+	at org.jetbrains.plugins.github.util.GithubAsyncUtilKt$handleOnEdt$3.apply(GithubAsyncUtil.kt:107)
+	at org.jetbrains.plugins.github.util.GithubAsyncUtilKt$handleOnEdt$3.apply(GithubAsyncUtil.kt)
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:930)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:907)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at org.jetbrains.plugins.github.util.GithubAsyncUtilKt$getEDTExecutor$1.execute(GithubAsyncUtil.kt:155)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568)
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:920)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:907)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:910)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at org.jetbrains.plugins.github.util.GithubAsyncUtilKt$getEDTExecutor$1.execute(GithubAsyncUtil.kt:155)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568)
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:920)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:907)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:910)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at org.jetbrains.plugins.github.util.GithubAsyncUtilKt$getEDTExecutor$1.execute(GithubAsyncUtil.kt:155)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568)
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:920)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:907)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:910)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at org.jetbrains.plugins.github.util.GithubAsyncUtilKt$getEDTExecutor$1.execute(GithubAsyncUtil.kt:155)
+	at java.base/java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:568)
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:920)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:907)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:610)
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:910)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at org.jetbrains.plugins.github.util.GithubAsyncUtilKt$getEDTExecutor$1$$special$$inlined$runInEdt$1.run(actions.kt:61)
+	at com.intellij.openapi.application.TransactionGuardImpl.runWithWritingAllowed(TransactionGuardImpl.java:218)
+	at com.intellij.openapi.application.TransactionGuardImpl.access$200(TransactionGuardImpl.java:21)
+	at com.intellij.openapi.application.TransactionGuardImpl$2.run(TransactionGuardImpl.java:200)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.openapi.application.impl.ApplicationImpl.lambda$invokeLater$4(ApplicationImpl.java:319)
+	at com.intellij.openapi.application.impl.FlushQueue.doRun(FlushQueue.java:84)
+	at com.intellij.openapi.application.impl.FlushQueue.runNextEvent(FlushQueue.java:133)
+	at com.intellij.openapi.application.impl.FlushQueue.flushNow(FlushQueue.java:46)
+	at com.intellij.openapi.application.impl.FlushQueue$FlushNow.run(FlushQueue.java:189)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:776)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:746)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:839)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:496)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:117)
+	at java.desktop/java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:190)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.desktop/java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at java.desktop/java.awt.Dialog.show(Dialog.java:1063)
+	at com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$MyDialog.show(DialogWrapperPeerImpl.java:694)
+	at com.intellij.openapi.ui.impl.DialogWrapperPeerImpl.show(DialogWrapperPeerImpl.java:436)
+	at com.intellij.openapi.ui.DialogWrapper.doShow(DialogWrapper.java:1702)
+	at com.intellij.openapi.ui.DialogWrapper.show(DialogWrapper.java:1661)
+	at com.intellij.openapi.ui.DialogWrapper.showAndGet(DialogWrapper.java:1675)
+	at com.intellij.openapi.wm.impl.welcomeScreen.GetFromVersionControlAction.actionPerformed(GetFromVersionControlAction.kt:43)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.lambda$performActionDumbAware$5(ActionUtil.java:273)
+	at com.intellij.util.SlowOperations.lambda$allowSlowOperations$0(SlowOperations.java:77)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:64)
+	at com.intellij.util.SlowOperations.allowSlowOperations(SlowOperations.java:76)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:273)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAwareWithCallbacks(ActionUtil.java:267)
+	at com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenActionsUtil.performAnActionForComponent(WelcomeScreenActionsUtil.java:96)
+	at com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenActionsUtil$LargeIconWithTextWrapper.lambda$new$0(WelcomeScreenActionsUtil.java:125)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:270)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6652)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+Caused by: java.lang.ClassNotFoundException: org.freedesktop.dbus.errors.NoReply
+	at com.intellij.util.lang.PathClassLoader.findClass(PathClassLoader.java:64)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:589)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 144 more
+2021-05-08 04:45:28,399 [  70497]  ERROR - redentialStore.CredentialStore - IntelliJ IDEA 2021.1.1  Build #IU-211.7142.45 
+2021-05-08 04:45:28,418 [  70516]  ERROR - redentialStore.CredentialStore - JDK: 11.0.10; VM: Dynamic Code Evolution 64-Bit Server VM; Vendor: JetBrains s.r.o. 
+2021-05-08 04:45:28,419 [  70517]  ERROR - redentialStore.CredentialStore - OS: Linux 
+2021-05-08 04:45:28,427 [  70525]  ERROR - redentialStore.CredentialStore - Last Action: Vcs.VcsClone 
+^[[A^[[B^[[A^[[A^[[AFontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: Opening and ending tag mismatch: famil line 0 and family
+
+2021-05-08 04:46:33,293 [ 135391]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 10849ms, details saved to /home/jds/.cache/JetBrains/IntelliJIdea2021.1/log/threadDumps-freeze-20210508-044627-IU-211.7142.45-10sec 
+2021-05-08 04:47:29,033 [ 191131]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-05-08 04:47:33,857 [ 195955]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 5054ms, details saved to /home/jds/.cache/JetBrains/IntelliJIdea2021.1/log/threadDumps-freeze-20210508-044733-IU-211.7142.45-5sec 
+2021-05-08 04:47:34,008 [ 196106]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-05-08 04:52:42,200 [ 504298]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-05-08 04:52:43,695 [ 505793]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-05-08 04:52:44,365 [ 506463]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2021-05-08 04:52:44,498 [ 506596]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-05-08 04:52:45,000 [ 507098]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2021-05-08 04:52:45,099 [ 507197]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-05-08 04:52:45,699 [ 507797]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2021-05-08 04:52:46,392 [ 508490]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme IntelliJ Light - old: IntelliJ Light, new IntelliJ Light 
+2021-05-08 04:52:46,402 [ 508500]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme High contrast - old: High contrast, new High contrast 
+2021-05-08 04:52:46,510 [ 508608]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 10900ms, details saved to /home/jds/.cache/JetBrains/IntelliJIdea2021.1/log/threadDumps-freeze-20210508-045240-IU-211.7142.45-10sec 
+2021-05-08 04:52:49,993 [ 512091]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme IntelliJ Light - old: IntelliJ Light, new IntelliJ Light 
+2021-05-08 04:52:49,995 [ 512093]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme High contrast - old: High contrast, new High contrast 
+2021-05-08 04:52:53,635 [ 515733]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-05-08 04:52:53,976 [ 516074]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2021-05-08 04:52:54,143 [ 516241]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-05-08 04:52:54,678 [ 516776]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2021-05-08 04:52:54,770 [ 516868]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-05-08 04:52:55,209 [ 517307]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2021-05-08 04:52:55,334 [ 517432]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-05-08 04:52:55,762 [ 517860]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2021-05-08 04:52:55,887 [ 517985]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme IntelliJ Light - old: IntelliJ Light, new IntelliJ Light 
+2021-05-08 04:52:55,969 [ 518067]   WARN - rationStore.ComponentStoreImpl - Duplicated scheme High contrast - old: High contrast, new High contrast 
+2021-05-08 04:52:56,066 [ 518164]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+2021-05-08 04:52:56,295 [ 518393]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6241ms, details saved to /home/jds/.cache/JetBrains/IntelliJIdea2021.1/log/threadDumps-freeze-20210508-045255-IU-211.7142.45-6sec 
+2021-05-08 04:52:59,107 [ 521205]   WARN - com.intellij.util.xmlb.Binding - no accessors for com.intellij.openapi.updateSettings.impl.pluginsAdvertisement.PluginAdvertiserExtensionsStateService$State 
+2021-05-08 04:52:59,531 [ 521629]   WARN - com.intellij.util.xmlb.Binding - no accessors for org.jetbrains.idea.perforce.perforce.ConnectionId 
+2021-05-08 04:53:00,804 [ 522902]   WARN - tions.ex.ConfigurableCardPanel - auto-dispose 'Plugins' id=preferences.pluginManager 
+[jds@TTY bin]$ ./idea.sh 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+2021-05-08 05:56:31,025 [  23089]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 6564ms, details saved to /home/jds/.cache/JetBrains/IntelliJIdea2021.1/log/threadDumps-freeze-20210508-055629-IU-211.7142.45-6sec 
+2021-05-08 05:57:29,540 [  81604]   WARN - ctionSystem.impl.ActionUpdater - 1446ms to expand group child DatabaseView.AddDataSourceGroup 
+2021-05-08 05:57:29,542 [  81606]   WARN - ctionSystem.impl.ActionUpdater - 1462ms to expand group child DatabaseView.AddDataSourceGroup 
+2021-05-08 05:57:29,543 [  81607]   WARN - ctionSystem.impl.ActionUpdater - 1482ms to expand group child DatabaseView.AddActionGroup 
+2021-05-08 05:57:29,543 [  81607]   WARN - ctionSystem.impl.ActionUpdater - 1482ms to expand group child <anonymous-group-10> 
+2021-05-08 05:58:26,801 [ 138865]   WARN - com.intellij.util.xmlb.Binding - no accessors for org.jetbrains.idea.perforce.perforce.ConnectionId 
+2021-05-08 05:59:40,561 [ 212625]   WARN - rationStore.ComponentStoreImpl - Cannot read FileBasedStorage(file=/home/jds/IdeaProjects/Korea-s_Employment_program/11_Week/122_Week.iml, fileSpec=$MODULE_FILE$, isBlockSavingTheContent=BlockSaving(reason=java.io.FileNotFoundException: File /home/jds/IdeaProjects/Korea-s_Employment_program/11_Week/122_Week.iml does not exist)) 
+java.io.FileNotFoundException: File /home/jds/IdeaProjects/Korea-s_Employment_program/11_Week/122_Week.iml does not exist
+	at com.intellij.configurationStore.ModuleStateStorageManager$ModuleFileStorage.handleVirtualFileNotFound(ModuleStateStorageManager.kt:119)
+	at com.intellij.configurationStore.FileBasedStorage.loadUsingVfs(FileBasedStorage.kt:212)
+	at com.intellij.configurationStore.FileBasedStorage.loadLocalData(FileBasedStorage.kt:169)
+	at com.intellij.configurationStore.XmlElementStorage.loadElement(XmlElementStorage.kt:67)
+	at com.intellij.configurationStore.XmlElementStorage.loadElement$default(XmlElementStorage.kt:50)
+	at com.intellij.configurationStore.XmlElementStorage.loadData(XmlElementStorage.kt:48)
+	at com.intellij.configurationStore.XmlElementStorage.loadData(XmlElementStorage.kt:31)
+	at com.intellij.configurationStore.StateStorageBase.getStorageData(StateStorageBase.kt:52)
+	at com.intellij.configurationStore.StateStorageBase.getStorageData(StateStorageBase.kt:32)
+	at com.intellij.configurationStore.FileBasedStorage.preloadStorageData(FileBasedStorage.kt:161)
+	at com.intellij.configurationStore.ModuleStoreBase$setPath$1.invoke(ModuleStoreImpl.kt:97)
+	at com.intellij.configurationStore.ModuleStoreBase$setPath$1.invoke(ModuleStoreImpl.kt:65)
+	at com.intellij.configurationStore.StateStorageManagerImpl.getOrCreateStorage(StateStorageManagerImpl.kt:129)
+	at com.intellij.configurationStore.StateStorageManagerImpl.getOrCreateStorage$default(StateStorageManagerImpl.kt:120)
+	at com.intellij.configurationStore.ModuleStoreBase.setPath(ModuleStoreImpl.kt:84)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleManagerComponentBridge$createModuleInstance$1.run(ModuleManagerComponentBridge.kt:575)
+	at com.intellij.openapi.module.impl.ModuleImpl.init(ModuleImpl.java:102)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleManagerComponentBridge.createModuleInstance(ModuleManagerComponentBridge.kt:571)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleManagerComponentBridge$loadModules$$inlined$map$lambda$1.call(ModuleManagerComponentBridge.kt:350)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleManagerComponentBridge$loadModules$$inlined$map$lambda$1.call(ModuleManagerComponentBridge.kt:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:216)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$200(BoundedTaskExecutor.java:27)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.execute(BoundedTaskExecutor.java:195)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:213)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:184)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: Opening and ending tag mismatch: famil line 0 and family
+
+2021-05-08 06:03:24,541 [ 436605]   WARN - com.intellij.util.xmlb.Binding - no accessors for com.intellij.openapi.updateSettings.impl.pluginsAdvertisement.PluginAdvertiserExtensionsStateService$State 
+2021-05-08 06:10:59,443 [ 891507]   WARN - ctionSystem.impl.ActionUpdater - 1611ms to expand group child RunClass 
+2021-05-08 06:10:59,457 [ 891521]   WARN - ctionSystem.impl.ActionUpdater - 1625ms to expand group child RunContextGroupInner 
+2021-05-08 06:10:59,524 [ 891588]   WARN - ctionSystem.impl.ActionUpdater - 1692ms to expand group child RunContextGroup 
+2021-05-08 06:10:59,533 [ 891597]   WARN - ctionSystem.impl.ActionUpdater - 1701ms to expand group child RunContextPopupGroup 
+2021-05-08 06:10:59,538 [ 891602]   WARN - ctionSystem.impl.ActionUpdater - 1729ms to expand group child EditorTabPopupMenuEx 
+2021-05-08 06:10:59,598 [ 891662]   WARN - ystem.impl.ActionPopupMenuImpl - 1802ms to fill popup menu EditorTabPopup 
+2021-05-08 06:20:19,432 [1451496]   WARN - ystem.impl.ActionPopupMenuImpl - 1025ms to fill popup menu ProjectViewPopup 
+2021-05-08 06:21:56,713 [1548777]   WARN - ent.TerminalArrangementManager - Cannot list files in /home/jds/.config/JetBrains/IntelliJIdea2021.1/terminal 
+java.nio.file.NoSuchFileException: /home/jds/.config/JetBrains/IntelliJIdea2021.1/terminal
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newDirectoryStream(UnixFileSystemProvider.java:432)
+	at java.base/java.nio.file.Files.newDirectoryStream(Files.java:472)
+	at java.base/java.nio.file.Files.list(Files.java:3774)
+	at org.jetbrains.plugins.terminal.arrangement.TerminalCommandHistoryManager.deleteOldHistoryDir(TerminalCommandHistoryManager.java:114)
+	at org.jetbrains.plugins.terminal.arrangement.TerminalCommandHistoryManager.getCommandHistoryDir(TerminalCommandHistoryManager.java:89)
+	at org.jetbrains.plugins.terminal.arrangement.TerminalCommandHistoryManager.getOrCreateCommandHistoryFile(TerminalCommandHistoryManager.java:39)
+	at org.jetbrains.plugins.terminal.arrangement.TerminalArrangementManager.assignCommandHistoryFile(TerminalArrangementManager.java:90)
+	at org.jetbrains.plugins.terminal.TerminalView.createTerminalContent(TerminalView.java:241)
+	at org.jetbrains.plugins.terminal.TerminalView.createNewTab(TerminalView.java:203)
+	at org.jetbrains.plugins.terminal.TerminalView.createNewSession(TerminalView.java:178)
+	at org.jetbrains.plugins.terminal.TerminalView$2.toolWindowShown(TerminalView.java:125)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeMethod(MessageBusImpl.java:674)
+	at com.intellij.util.messages.impl.MessageBusImpl.invokeListener(MessageBusImpl.java:649)
+	at com.intellij.util.messages.impl.MessageBusImpl.deliverMessage(MessageBusImpl.java:422)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpWaitingBuses(MessageBusImpl.java:397)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:379)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$100(MessageBusImpl.java:33)
+	at com.intellij.util.messages.impl.MessageBusImpl$MessagePublisher.invoke(MessageBusImpl.java:185)
+	at com.sun.proxy.$Proxy77.toolWindowShown(Unknown Source)
+	at com.intellij.openapi.wm.impl.ToolWindowManagerImpl.fireToolWindowShown(ToolWindowManagerImpl.kt:1644)
+	at com.intellij.openapi.wm.impl.ToolWindowManagerImpl.doShowWindow(ToolWindowManagerImpl.kt:1017)
+	at com.intellij.openapi.wm.impl.ToolWindowManagerImpl.showToolWindowImpl(ToolWindowManagerImpl.kt:962)
+	at com.intellij.openapi.wm.impl.ToolWindowManagerImpl.activateToolWindow(ToolWindowManagerImpl.kt:662)
+	at com.intellij.openapi.wm.impl.ToolWindowManagerImpl.activateToolWindow$default(ToolWindowManagerImpl.kt:640)
+	at com.intellij.openapi.wm.impl.ToolWindowManagerImpl.activated$intellij_platform_ide_impl(ToolWindowManagerImpl.kt:1979)
+	at com.intellij.openapi.wm.impl.StripeButton.lambda$new$0(StripeButton.java:67)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+	at java.desktop/javax.swing.JToggleButton$ToggleButtonModel.setPressed(JToggleButton.java:401)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:270)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6652)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3345)
+	at com.intellij.openapi.wm.impl.StripeButton.processMouseEvent(StripeButton.java:315)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6417)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5027)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2784)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4859)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:778)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:727)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:751)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:749)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:748)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:969)
+	at com.intellij.ide.IdeEventQueue.dispatchMouseEvent(IdeEventQueue.java:906)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:836)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$8(IdeEventQueue.java:449)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.computePrioritized(CoreProgressManager.java:808)
+	at com.intellij.ide.IdeEventQueue.lambda$dispatchEvent$9(IdeEventQueue.java:448)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runIntendedWriteActionOnCurrentThread(ApplicationImpl.java:781)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:502)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2021-05-08 06:21:57,628 [1549692]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-05-08 06:22:03,345 [1555409]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-05-08 06:47:10,495 [3062559]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-05-08 07:41:32,795 [6324859]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[jds@TTY bin]$ ./idea.sh 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+2021-05-08 07:42:10,635 [  27323]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 8286ms, details saved to /home/jds/.cache/JetBrains/IntelliJIdea2021.1/log/threadDumps-freeze-20210508-074207-IU-211.7142.45-8sec 
+2021-05-08 07:42:13,063 [  29751]   WARN - rationStore.ComponentStoreImpl - Cannot read FileBasedStorage(file=/home/jds/IdeaProjects/Korea-s_Employment_program/11_Week/122_Week.iml, fileSpec=$MODULE_FILE$, isBlockSavingTheContent=BlockSaving(reason=java.io.FileNotFoundException: File /home/jds/IdeaProjects/Korea-s_Employment_program/11_Week/122_Week.iml does not exist)) 
+java.io.FileNotFoundException: File /home/jds/IdeaProjects/Korea-s_Employment_program/11_Week/122_Week.iml does not exist
+	at com.intellij.configurationStore.ModuleStateStorageManager$ModuleFileStorage.handleVirtualFileNotFound(ModuleStateStorageManager.kt:119)
+	at com.intellij.configurationStore.FileBasedStorage.loadUsingVfs(FileBasedStorage.kt:212)
+	at com.intellij.configurationStore.FileBasedStorage.loadLocalData(FileBasedStorage.kt:169)
+	at com.intellij.configurationStore.XmlElementStorage.loadElement(XmlElementStorage.kt:67)
+	at com.intellij.configurationStore.XmlElementStorage.loadElement$default(XmlElementStorage.kt:50)
+	at com.intellij.configurationStore.XmlElementStorage.loadData(XmlElementStorage.kt:48)
+	at com.intellij.configurationStore.XmlElementStorage.loadData(XmlElementStorage.kt:31)
+	at com.intellij.configurationStore.StateStorageBase.getStorageData(StateStorageBase.kt:52)
+	at com.intellij.configurationStore.StateStorageBase.getStorageData(StateStorageBase.kt:32)
+	at com.intellij.configurationStore.FileBasedStorage.preloadStorageData(FileBasedStorage.kt:161)
+	at com.intellij.configurationStore.ModuleStoreBase$setPath$1.invoke(ModuleStoreImpl.kt:97)
+	at com.intellij.configurationStore.ModuleStoreBase$setPath$1.invoke(ModuleStoreImpl.kt:65)
+	at com.intellij.configurationStore.StateStorageManagerImpl.getOrCreateStorage(StateStorageManagerImpl.kt:129)
+	at com.intellij.configurationStore.StateStorageManagerImpl.getOrCreateStorage$default(StateStorageManagerImpl.kt:120)
+	at com.intellij.configurationStore.ModuleStoreBase.setPath(ModuleStoreImpl.kt:84)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleManagerComponentBridge$createModuleInstance$1.run(ModuleManagerComponentBridge.kt:575)
+	at com.intellij.openapi.module.impl.ModuleImpl.init(ModuleImpl.java:102)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleManagerComponentBridge.createModuleInstance(ModuleManagerComponentBridge.kt:571)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleManagerComponentBridge$loadModules$$inlined$map$lambda$1.call(ModuleManagerComponentBridge.kt:350)
+	at com.intellij.workspaceModel.ide.impl.legacyBridge.module.ModuleManagerComponentBridge$loadModules$$inlined$map$lambda$1.call(ModuleManagerComponentBridge.kt:52)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.doRun(BoundedTaskExecutor.java:216)
+	at com.intellij.util.concurrency.BoundedTaskExecutor.access$200(BoundedTaskExecutor.java:27)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.execute(BoundedTaskExecutor.java:195)
+	at com.intellij.util.ConcurrencyUtil.runUnderThreadName(ConcurrencyUtil.java:213)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$1.run(BoundedTaskExecutor.java:184)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:668)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1$1.run(Executors.java:665)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.util.concurrent.Executors$PrivilegedThreadFactory$1.run(Executors.java:665)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2021-05-08 07:45:47,797 [ 244485]   WARN - com.intellij.util.xmlb.Binding - no accessors for com.intellij.openapi.updateSettings.impl.pluginsAdvertisement.PluginAdvertiserExtensionsStateService$State 
+2021-05-08 08:40:33,813 [3530501]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-05-08 08:40:36,505 [3533193]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-05-08 08:40:36,531 [3533219]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-05-08 08:40:39,012 [3535700]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-05-08 08:40:39,097 [3535785]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-05-08 08:40:48,222 [3544910]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-05-08 08:40:48,242 [3544930]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-05-08 08:41:24,419 [3581107]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-05-08 08:41:24,420 [3581108]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-05-08 08:41:38,951 [3595639]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-05-08 08:41:38,954 [3595642]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-05-08 08:41:51,346 [3608034]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-05-08 08:41:51,362 [3608050]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-05-08 08:41:53,990 [3610678]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+2021-05-08 08:42:11,213 [3627901]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-05-08 08:42:24,746 [3641434]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004l
+bytes read                    :ESC[ 
+[jds@TTY bin]$ 

@@ -1,0 +1,767 @@
+           shuf
+ chem                                 lkbib                                 shutdown
+ chfn                                 ln                                    signtool
+ chgpasswd                            lnstat                                signver
+ chgrp                                loadkeys                              sim_client
+ chmem                                loadunimap                            sim_server
+ chmod                                locale                                site_perl
+ choom                                localectl                             size
+ chown                                localedef                             slabtop
+ chpasswd                             locale-gen                            sleep
+ chroot                               logger                                sln
+ chrt                                 login                                 slsh
+ chsh                                 loginctl                              smproxy
+ chvt                                 logname                               sndfile-cmp
+ cjpeg                                logsave                               sndfile-concat
+ cksum                                look                                  sndfile-convert
+ clear                                lookbib                               sndfile-deinterleave
+ clockdiff                            losetup                               sndfile-info
+ cmp                                  ls                                    sndfile-interleave
+ cmsutil                              lsattr                                sndfile-metadata-get
+ col                                  lsblk                                 sndfile-metadata-set
+ colcrt                               lscpu                                 sndfile-play
+ colormgr                             lsinitcpio                            sndfile-salvage
+ colrm                                lsipc                                 soelim
+ column                               lsirq                                 sort
+ comm                                 lslocks                               sotruss
+ compile_et                           lslogins                              speexdec
+ conplay                              lsmem                                 speexenc
+ convert-mans                         lsmod                                 split
+ coredumpctl                          lsns                                  sprof
+ core_perl                            lspci                                 sqldiff
+ cp                                   lz4                                   sqlite3
+ cpp                                  lz4c                                  srptool
+ c_rehash                             lz4cat                                srt-ffplay
+ crlutil                              lzcat                                 srt-file-transmit
+ croco-0.6-config                     lzcmp                                 srt-live-transmit
+ cryptsetup                           lzdiff                                srt-test-file
+ cryptsetup-reencrypt                 lzegrep                               srt-test-live
+ csplit                               lzfgrep                               srt-test-multiplex
+ csslint-0.6                          lzgrep                                srt-test-relay
+ ctrlaltdel                           lzless                                srt-tunnel
+ ctstat                               lzma                                  ss
+ cups-config                          lzmadec                               sserver
+ curl                                 lzmainfo                              ssltap
+ curl-config                          lzmore                                sst_dump
+ curve_keygen                         m4                                    start-pulseaudio-x11
+ cut                                  machinectl                            startx
+ cvt                                  make                                  startxfce4
+ cvtsudoers                           makeconv                              stat
+ cwebp                                makedb                                stdbuf
+ cx18-ctl                             makeinfo                              strings
+ cxpm                                 makepkg                               strip
+ date                                 makepkg-template                      stty
+ dav1d                                man                                   su
+ db_archive                           mandb                                 sudo
+ db_checkpoint                        manpath                               sudoedit
+ db_deadlock                          man-recode                            sudo_logsrvd
+ db_dump                              mapscrn                               sudoreplay
+ db_hotbackup                         mariabackup                           sudo_sendlog
+ db_load                              mariadb                               sulogin
+ db_log_verify                        mariadb-access                        sum
+ db_printlog                          mariadb-admin                         SvtAv1DecApp
+ db_recover                           mariadb-backup                        SvtAv1EncApp
+ db_replicate                         mariadb-binlog                        swaplabel
+ db_stat                              mariadb-check                         swapoff
+ db_tuner                             mariadb-client-test                   swapon
+ db_upgrade                           mariadb-client-test-embedded          switch_root
+ dbus-binding-tool                    mariadb-config                        sxpm
+ dbus-cleanup-sockets                 mariadb_config                        symkeyutil
+ dbus-daemon                          mariadb-conv                          sync
+ dbus-launch                          mariadb-convert-table-format          syncqt.pl
+ dbus-monitor                         mariadbd                              syncqt.pl-qt5
+ dbus-run-session                     mariadbd-multi                        sysctl
+ dbus-send                            mariadbd-safe                         systemctl
+ dbus-test-tool                       mariadbd-safe-helper                  systemd-analyze
+ dbus-update-activation-environment   mariadb-dump                          systemd-ask-password
+ dbus-uuidgen                         mariadb-dumpslow                      systemd-cat
+ db_verify                            mariadb-embedded                      systemd-cgls
+ dcb                                  mariadb-find-rows                     systemd-cgtop
+ dconf                                mariadb-fix-extensions                systemd-cryptenroll
+ dd                                   mariadb-hotcopy                       systemd-delta
+ deallocvt                            mariadb-import                        systemd-detect-virt
+ debugfs                              mariadb-install-db                    systemd-dissect
+ debuginfod                           mariadb-ldb                           systemd-escape
+ debuginfod-find                      mariadb-plugin                        systemd-firstboot
+ decode_tm6000                        mariadb-secure-installation           systemd-hwdb
+ delpart                              mariadb-service-convert               systemd-id128
+ depmod                               mariadb-setpermission                 systemd-inhibit
+ derb                                 mariadb-show                          systemd-machine-id-setup
+ desktop-file-edit                    mariadb-slap                          systemd-mount
+ desktop-file-install                 mariadb-test                          systemd-notify
+ desktop-file-validate                mariadb-test-embedded                 systemd-nspawn
+ devlink                              mariadb-tzinfo-to-sql                 systemd-path
+ df                                   mariadb-upgrade                       systemd-repart
+ diff                                 mariadb-waitpid                       systemd-resolve
+ diff3                                mbedtls_aescrypt2                     systemd-run
+ dir                                  mbedtls_benchmark                     systemd-socket-activate
+ dircolors                            mbedtls_cert_app                      systemd-stdio-bridge
+ dirmngr                              mbedtls_cert_req                      systemd-sysext
+ dirmngr-client                       mbedtls_cert_write                    systemd-sysusers
+ dirname                              mbedtls_crl_app                       systemd-tmpfiles
+ disable-paste                        mbedtls_crypt_and_hash                systemd-tty-ask-password-agent
+ display-buttons                      mbedtls_crypto_examples               systemd-umount
+ display-coords                       mbedtls_dh_client                     systool
+ djpeg                                mbedtls_dh_genprime                   tabs
+ dmesg                                mbedtls_dh_server                     tac
+ dmeventd                             mbedtls_dtls_client                   taglib-config
+ dmsetup                              mbedtls_dtls_server                   tail
+ dmstats                              mbedtls_ecdh_curve25519               tar
+ dm-tool                              mbedtls_ecdsa                         taskset
+ dosfsck                              mbedtls_gen_entropy                   tbl
+ dosfslabel                           mbedtls_generic_sum                   tc
+ du                                   mbedtls_gen_key                       tcat
+ dubdv                                mbedtls_gen_random_ctr_drbg           tdbbackup
+ dumpe2fs                             mbedtls_gen_random_havege             tdbdump
+ dumpiso                              mbedtls_hello                         tdbrestore
+ dumpkeys                             mbedtls_key_app                       tdbtool
+ dumpsexp                             mbedtls_key_app_writer                teamd
+ dvb-fe-tool                          mbedtls_key_ladder_demo               teamdctl
+ dvb-format-convert                   mbedtls_key_ladder_demo.sh            teamnl
+ dvbv5-daemon                         mbedtls_mini_client                   tee
+ dvbv5-scan                           mbedtls_mpi_demo                      test
+ dvbv5-zap                            mbedtls_pem2der                       test-connect-t
+ dvconnect                            mbedtls_pk_decrypt                    testlibraw
+ dvcont                               mbedtls_pk_encrypt                    testpkg
+ dwebp                                mbedtls_pk_sign                       texi2any
+ dwp                                  mbedtls_pk_verify                     texi2dvi
+ e2freefrag                           mbedtls_psa_constant_names            texi2pdf
+ e2fsck                               mbedtls_query_compile_time_config     texindex
+ e2image                              mbedtls_req_app                       tfmtodit
+ e2label                              mbedtls_rsa_decrypt                   tftpd
+ e2mmpstatus                          mbedtls_rsa_encrypt                   thunar
+ e2scrub                              mbedtls_rsa_genkey                    Thunar
+ e2scrub_all                          mbedtls_rsa_sign                      thunar-settings
+ e2undo                               mbedtls_rsa_sign_pss                  thunar-volman
+ e4crypt                              mbedtls_rsa_verify                    thunar-volman-settings
+ e4defrag                             mbedtls_rsa_verify_pss                tic
+ eapol_test                           mbedtls_selftest                      tiff2bw
+ ebtables-nft                         mbedtls_ssl_client1                   tiff2pdf
+ ebtables-nft-restore                 mbedtls_ssl_client2                   tiff2ps
+ ebtables-nft-save                    mbedtls_ssl_context_info              tiff2rgba
+ echo                                 mbedtls_ssl_fork_server               tiffcmp
+ egrep                                mbedtls_ssl_mail_client               tiffcp
+ eject                                mbedtls_ssl_pthread_server            tiffcrop
+ elfedit                              mbedtls_ssl_server                    tiffdither
+ encodedv                             mbedtls_ssl_server2                   tiffdump
+ env                                  mbedtls_strerror                      tiffgt
+ envsubst                             mbedtls_udp_proxy                     tiffinfo
+ epdfview                             mbedtls_zeroize                       tiffmedian
+ eqn                                  mbstream                              tiffset
+ eqn2graph                            mcookie                               tiffsplit
+ escapesrc                            md2html                               tificc
+ eu-addr2line                         md5sum                                timedatectl
+ eu-ar                                media-ctl                             timelineeditor
+ eu-elfclassify                       memusage                              timeout
+ eu-elfcmp                            memusagestat                          tipc
+ eu-elfcompress                       mesg                                  tjbench
+ eu-elflint                           metaflac                              tload
+ eu-findtextrel                       mev                                   toast
+ eu-make-debug-archive                mk_cmds                               toe
+ eu-nm                                mkdir                                 top
+ eu-objdump                           mkdosfs                               touch
+ eu-ranlib                            mke2fs                                touchpad-edge-detector
+ eu-readelf                           mkfifo                                tput
+ eu-size                              mkfontdir                             tr
+ eu-stack                             mkfontscale                           tracegen
+ eu-strings                           mkfs                                  tracegen-qt5
+ eu-strip                             mkfs.bfs                              tracepath
+ eu-unstrip                           mkfs.cramfs                           transicc
+ exo-desktop-item-edit                mkfs.ext2                             trietool
+ exo-open                             mkfs.ext3                             trietool-0.2
+ expand                               mkfs.ext4                             troff
+ expiry                               mkfs.fat                              true
+ expr                                 mkfs.minix                            truncate
+ factor                               mkfs.msdos                            trust
+ faillock                             mkfs.vfat                             ts_calibrate
+ faillog                              mkhomedir_helper                      ts_conf
+ faked                                mkinitcpio                            tset
+ fakeroot                             mklost+found                          ts_finddev
+ fallocate                            mknod                                 ts_harvest
+ false                                mkrfc2734                             tsort
+ fancontrol                           mkswap                                ts_print
+ fatlabel                             mktemp                                ts_print_mt
+ fax2ps                               mmroff                                ts_print_raw
+ fax2tiff                             moc                                   ts_test
+ fc-cache                             moc-qt5                               ts_test_mt
+ fc-cat                               modinfo                               ts_uinput
+ fc-conflist                          modprobe                              ts_verify
+ fc-list                              modutil                               tty
+ fc-match                             more                                  tune2fs
+ fc-pattern                           mount                                 twolame
+ fc-query                             mountpoint                            tzselect
+ fc-scan                              mouse-dpi-tool                        uconv
+ fc-validate                          mouse-test                            ucs2any
+ fdformat                             mpg123                                udevadm
+ fdisk                                mpg123-id3dump                        uic
+ ffmpeg                               mpg123-strip                          uic-qt5
+ ffplay                               mpicalc                               ul
+ ffprobe                              msgattrib                             umount
+ fgconsole                            msgcat                                uname
+ fgrep                                msgcmp                                uname26
+ file                                 msgcomm                               uncompress
+ filecap                              msgconv                               unexpand
+ filefrag                             msgen                                 unicode_start
+ file-roller                          msgexec                               unicode_stop
+ fincore                              msgfilter                             uniq
+ find                                 msgfmt                                unix_chkpwd
+ findfs                               msggrep                               unix_update
+ findmnt                              msginit                               unlink
+ firefox                              msgmerge                              unlz4
+ fixqt4headers.pl                     msgunfmt                              unlzma
+ fixqt4headers.pl-qt5                 msguniq                               unshare
+ flac                                 msql2mysql                            untoast
+ flex                                 mtdev-test                            unxz
+ flex++                               mtrace                                unzip
+ flock                                muxer                                 unzipsfx
+ fmt                                  mv                                    unzstd
+ fold                                 myisamchk                             update-ca-trust
+ free                                 myisam_ftdump                         update-desktop-database
+ fribidi                              myisamlog                             update-mime-database
+ fsck                                 myisampack                            update-pciids
+ fsck.cramfs                          my_print_defaults                     upower
+ fsck.ext2                            myrocks_hotbackup                     uptime
+ fsck.ext3                            mysql                                 usbmuxd
+ fsck.ext4                            mysqlaccess                           useradd
+ fsck.fat                             mysqladmin                            userdbctl
+ fsck.minix                           mysqlbinlog                           userdel
+ fsck.msdos                           mysqlcheck                            usermod
+ fsck.vfat                            mysql_client_test                     users
+ fsfreeze                             mysql_client_test_embedded            utmpdump
+ fstrim                               mysql_config                          uuclient
+ funzip                               mysql_convert_table_format            uuidd
+ fuser                                mysqld                                uuidgen
+ g++                                  mysqld_multi                          uuidparse
+ galculator                           mysqld_safe                           uuserver
+ galera_new_cluster                   mysqld_safe_helper                    v4l2-compliance
+ galera_recovery                      mysqldump                             v4l2-ctl
+ gapplication                         mysqldumpslow                         v4l2-dbg
+ gawk                                 mysql_embedded                        v4l2-sysfs-path
+ gawk-5.1.0                           mysql_find_rows                       vdir
+ gcc                                  mysql_fix_extensions                  vdpa
+ gcc-ar                               mysqlhotcopy                          vendor_perl
+ gcc-nm                               mysqlimport                           vercmp
+ gcc-ranlib                           mysql_install_db                      veritysetup
+ gcov                                 mysql_ldb                             vigr
+ gcov-tool                            mysql_plugin                          vim
+ gcr-viewer                           mysql_secure_installation             vimdiff
+ gdbm_dump                            mysql_setpermission                   vimtutor
+ gdbm_load                            mysqlshow                             vipw
+ gdbmtool                             mysqlslap                             visudo
+ gdbus                                mysqltest                             vlock
+ gdbus-codegen                        mysqltest_embedded                    vmaf_feature
+ gdiffmk                              mysql_tzinfo_to_sql                   vmafossexec
+ gdk-pixbuf-csource                   mysql_upgrade                         vmaf_rc
+ gdk-pixbuf-pixdata                   mysql_waitpid                         vmstat
+ gdk-pixbuf-query-loaders             namei                                 vpxdec
+ gdk-pixbuf-thumbnailer               ncursesw6-config                      vpxenc
+ genbrk                               ndptool                               vte-2.91
+ gencat                               neqn                                  vwebp
+ genccode                             netcap                                w
+ gencfu                               nettle-hash                           wall
+ gencmn                               nettle-lfib-stream                    watch
+ gencnval                             nettle-pbkdf2                         watchgnupg
+ gendict                              networkctl                            wavpack
+ genl                                 NetworkManager                        wayland-scanner
+ genl-ctrl-list                       newgidmap                             wc
+ gennorm2                             newgrp                                wdctl
+ genrb                                newuidmap                             webpinfo
+ gensprep                             newusers                              webpmux
+ geqn                                 nfbpf_compile                         whatis
+ getcap                               nf-ct-add                             whereis
+ getconf                              nf-ct-events                          which
+ getent                               nf-ct-list                            whiptail
+ getfacl                              nf-exp-add                            who
+ getfattr                             nf-exp-delete                         whoami
+ getkeycodes                          nf-exp-list                           wipefs
+ getopt                               nf-log                                wnckprop
+ getpcaps                             nf-monitor                            wnck-urgency-monitor
+ gettext                              nfnl_osf                              wpa_cli
+ gettextize                           nf-queue                              wpa_passphrase
+ gettext.sh                           ngettext                              wpa_supplicant
+ get-versions                         nice                                  write
+ gif2rgb                              ninfod                                wrjpgcom
+ gif2webp                             nl                                    wsrep_sst_common
+ gifbuild                             nl-addr-add                           wsrep_sst_mariabackup
+ gifclrmp                             nl-addr-delete                        wsrep_sst_mysqldump
+ giffix                               nl-addr-list                          wsrep_sst_rsync
+ giftext                              nl-class-add                          wsrep_sst_rsync_wan
+ giftool                              nl-class-delete                       wvgain
+ gio                                  nl-classid-lookup                     wvtag
+ gio-querymodules                     nl-class-list                         wvunpack
+ git                                  nl-cls-add                            X
+ git-cvsserver                        nl-cls-delete                         x11perf
+ gitk                                 nl-cls-list                           x11perfcomp
+ git-receive-pack                     nl-fib-lookup                         x264
+ git-shell                            nl-link-enslave                       x265
+ git-upload-archive                   nl-link-ifindex2name                  x86_64
+ git-upload-pack                      nl-link-list                          x86_64-pc-linux-gnu-c++
+ glib-compile-resources               nl-link-name2ifindex                  x86_64-pc-linux-gnu-g++
+ glib-compile-schemas                 nl-link-release                       x86_64-pc-linux-gnu-gcc
+ glib-genmarshal                      nl-link-set                           x86_64-pc-linux-gnu-gcc-10.2.0
+ glib-gettextize                      nl-link-stats                         x86_64-pc-linux-gnu-gcc-ar
+ glib-mkenums                         nl-list-caches                        x86_64-pc-linux-gnu-gcc-nm
+ glilypond                            nl-list-sockets                       x86_64-pc-linux-gnu-gcc-ranlib
+ gnutls-cli                           nl-monitor                            x86_64-pc-linux-gnu-pkg-config
+ gnutls-cli-debug                     nl-neigh-add                          xargs
+ gnutls-serv                          nl-neigh-delete                       xauth
+ gobject-query                        nl-neigh-list                         xbacklight
+ gpasswd                              nl-neightbl-list                      xcmsdb
+ gperl                                nl-pktloc-lookup                      xcursorgen
+ gpg                                  nl-qdisc-add                          xdg-desktop-icon
+ gpg2                                 nl-qdisc-delete                       xdg-desktop-menu
+ gpg-agent                            nl-qdisc-list                         xdg-email
+ gpgconf                              nl-route-add                          xdg-icon-resource
+ gpg-connect-agent                    nl-route-delete                       xdg-mime
+ gpg-error                            nl-route-get                          xdg-open
+ gpg-error-config                     nl-route-list                         xdg-screensaver
+ gpgme-config                         nl-rule-list                          xdg-settings
+ gpgme-json                           nl-tctree-list                        xdg-user-dir
+ gpgme-tool                           nl-util-addr                          xdg-user-dirs-gtk-update
+ gpgparsemail                         nm                                    xdg-user-dirs-update
+ gpgrt-config                         nm-applet                             xdpr
+ gpgscm                               nmcli                                 xdpyinfo
+ gpgsm                                nm-connection-editor                  xdriinfo
+ gpgsplit                             nm-online                             Xephyr
+ gpgtar                               nmtui                                 xev
+ gpgv                                 nmtui-connect                         xfce4-about
+ gpgv2                                nmtui-edit                            xfce4-accessibility-settings
+ gpg-wks-server                       nmtui-hostname                        xfce4-appearance-settings
+ gpinyin                              nohup                                 xfce4-appfinder
+ gpm                                  nologin                               xfce4-color-settings
+ gpm-root                             notify-send                           xfce4-display-settings
+ gprof                                nproc                                 xfce4-find-cursor
+ gr2fonttest                          npth-config                           xfce4-keyboard-settings
+ grap2graph                           nroff                                 xfce4-kiosk-query
+ grep                                 nscd                                  xfce4-mime-helper
+ gresource                            nsenter                               xfce4-mime-settings
+ grn                                  nspr-config                           xfce4-mouse-settings
+ grodvi                               nss-config                            xfce4-notifyd-config
+ groff                                nstat                                 xfce4-panel
+ groffer                              numfmt                                xfce4-pm-helper
+ grog                                 objcopy                               xfce4-popup-applicationsmenu
+ grolbp                               objdump                               xfce4-popup-directorymenu
+ grolj4                               obs                                   xfce4-popup-whiskermenu
+ gropdf                               obs-ffmpeg-mux                        xfce4-popup-windowmenu
+ grops                                ocsptool                              xfce4-power-manager
+ grotty                               od                                    xfce4-power-manager-settings
+ groupadd                             omxregister-bellagio                  xfce4-screensaver
+ groupdel                             oomctl                                xfce4-screensaver-command
+ groupmems                            openssl                               xfce4-screensaver-configure
+ groupmod                             openvt                                xfce4-screensaver-preferences
+ groups                               opj_compress                          xfce4-session
+ grpck                                opj_decompress                        xfce4-session-logout
+ grpconv                              opj_dump                              xfce4-session-settings
+ grpunconv                            orc-bugreport                         xfce4-settings-editor
+ gsettings                            orcc                                  xfce4-settings-manager
+ gss-client                           out123                                xfce4-taskmanager
+ gss-server                           p11-kit                               xfce4-terminal
+ gst-device-monitor-1.0               p11tool                               xfconf-query
+ gst-discoverer-1.0                   pacat                                 xfdesktop
+ gst-inspect-1.0                      pacman                                xfdesktop-settings
+ gst-launch-1.0                       pacman-conf                           xflock4
+ gst-play-1.0                         pacman-db-upgrade                     xfpm-power-backlight-helper
+ gst-stats-1.0                        pacman-key                            xfrun4
+ gst-tester-1.0                       pacmd                                 xfsettingsd
+ gst-typefind-1.0                     pactl                                 xfwm4
+ gtbl                                 padsp                                 xfwm4-settings
+ gtester                              pa-info                               xfwm4-tweaks-settings
+ gtester-report                       pal2rgb                               xfwm4-workspace-settings
+ gtf                                  pam_namespace_helper                  xgamma
+ gtk4-update-icon-cache               pamon                                 xgettext
+ gtk-builder-convert                  pam_timestamp_check                   xhost
+ gtk-builder-tool                     panelctl                              xinit
+ gtk-demo                             pango-list                            xinput
+ gtk-encode-symbolic-svg              pango-view                            xkbbell
+ gtk-launch                           paplay                                xkbcli
+ gtk-query-immodules-2.0              parec                                 xkbcomp
+ gtk-query-immodules-3.0              parecord                              xkbevd
+ gtk-query-settings                   parole                                xkbvleds
+ gtk-update-icon-cache                partx                                 xkbwatch
+ guild                                passwd                                xkill
+ guile                                paste                                 xlsatoms
+ guile-config                         pasuspender                           xlsclients
+ guile-snarf                          patch                                 xml2-config
+ guile-tools                          pathchk                               xmlcatalog
+ gunzip                               pax11publish                          xmllint
+ gusbcmd                              pcap-config                           xmlwf
+ gxditview                            pcprofiledump                         xmodmap
+ gzexe                                pcre2-config                          Xnest
+ gzip                                 pcre2grep                             Xorg
+ halt                                 pcre2test                             xpr
+ hangul                               pcre-config                           xprop
+ hb-ot-shape-closure                  pcregrep                              xrandr
+ hb-shape                             pcretest                              xrdb
+ hb-subset                            pdfattach                             xrefresh
+ hb-view                              pdfdetach                             xset
+ head                                 pdffonts                              xsetroot
+ healthd                              pdfimages                             xtables-legacy-multi
+ hexdump                              pdfinfo                               xtables-monitor
+ hltest                               pdfmom                                xtables-nft-multi
+ hmac256                              pdfroff                               xtotroff
+ homectl                              pdfseparate                           xtrace
+ hostid                               pdfsig                                Xvfb
+ hostnamectl                          pdftexi2dvi                           xvfb-run
+ hpftodit                             pdftocairo                            xvinfo
+ hwclock                              pdftohtml                             Xwayland
+ i386                                 pdftoppm                              xwd
+ i686-pc-linux-gnu-pkg-config         pdftops                               xwininfo
+ ibus                                 pdftotext                             xwud
+ ibus-daemon                          pdfunite                              xxd
+ ibus-setup                           peekfd                                xz
+ ibus-setup-hangul                    perl                                  xzcat
+ iceauth                              perror                                xzcmp
+ iconv                                pfbtops                               xzdec
+ iconvconfig                          pgrep                                 xzdiff
+ icu-config                           pic                                   xzegrep
+ icuinfo                              pic2graph                             xzfgrep
+ icupkg                               pidof                                 xzgrep
+ id                                   pinentry                              xzless
+ idevicebackup                        pinentry-curses                       xzmore
+ idevicebackup2                       pinentry-emacs                        yacc
+ idevicecrashreport                   pinentry-gnome3                       yat2m
+ idevicedate                          pinentry-gtk-2                        yes
+ idevicedebug                         pinentry-qt                           zcat
+ idevicedebugserverproxy              pinentry-tty                          zcmp
+ idevicediagnostics                   ping                                  zdiff
+ ideviceenterrecovery                 pinky                                 zdump
+ idevice_id                           pivot_root                            zegrep
+ ideviceimagemounter                  pk12util                              zfgrep
+ ideviceinfo                          pkaction                              zforce
+ idevicename                          pkcheck                               zgrep
+ idevicenotificationproxy             pkcs1-conv                            zic
+ idevicepair                          pk-example-frobnicate                 zip
+ ideviceprovision                     pkexec                                zipcloak
+ idevicescreenshot                    pkgconf                               zipgrep
+ idevicesetlocation                   pkg-config                            zipinfo
+ idevicesyslog                        pkgdata                               zipnote
+ idiag-socket-details                 pkill                                 zipsplit
+ idle                                 pkttyagent                            zless
+ idle3                                pldd                                  zmore
+ idle3.9                              plistutil                             znew
+ idn2                                 plugctl                               zramctl
+ ifcfg                                pluginviewer                          zresample
+ ifnames                              plugreport                            zretune
+ ifstat                               pmap                                  zsoelim
+ img2txt                              png2pnm                               zstd
+ img2webp                             pngfix                                zstdcat
+ imlib2_bumpmap                       png-fix-itxt                          zstdgrep
+ imlib2_colorspace                    pnm2png                               zstdless
+ imlib2-config                        pod2texi                              zstdmt
+ imlib2_conv                          portablectl
+ imlib2_grab                          post-grohtml
+[jds@TTY bin]$ ./firefox 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+[jds@TTY bin]$ 
+[jds@TTY bin]$ ./firefox 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[jds@TTY bin]$ ./firefox 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[jds@TTY bin]$ ./firefox 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+^T
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[jds@TTY bin]$ ./firefox 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[jds@TTY bin]$ ./firefox 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+222      ^@^[^@Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[jds@TTY bin]$ 
+[jds@TTY bin]$ 222      

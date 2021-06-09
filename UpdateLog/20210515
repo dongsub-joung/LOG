@@ -1,0 +1,188 @@
+[jds@TTY ~]$ cd ~/
+[jds@TTY ~]$ ls
+Desktop  Documents  Downloads  ex.java  IdeaProjects  intelliJ_log  Music  opt  Pictures  Public  record  Templates  usr  Videos
+[jds@TTY ~]$ sudo pacman -Syu
+[sudo] password for jds: 
+jds is not in the sudoers file.  This incident will be reported.
+[jds@TTY ~]$ su
+Password: 
+[root@TTY jds]# pacman -Syu
+:: Synchronizing package databases...
+ core                                                 129.9 KiB   164 KiB/s 00:01 [##############################################] 100%
+ extra                                               1559.5 KiB  1303 KiB/s 00:01 [##############################################] 100%
+ community                                              5.5 MiB  2.32 MiB/s 00:02 [##############################################] 100%
+:: Starting full system upgrade...
+resolving dependencies...
+looking for conflicting packages...
+
+Package (34)                  Old Version         New Version         Net Change  Download Size
+
+core/bash                     5.1.004-1           5.1.008-1             0.01 MiB       1.65 MiB
+community/ccache              4.2.1-1             4.3-1                 0.00 MiB       0.38 MiB
+core/device-mapper            2.03.11-5           2.03.12-1             0.01 MiB       0.29 MiB
+core/elfutils                 0.183-3             0.184-1               0.05 MiB       0.64 MiB
+extra/ffmpeg                  2:4.4-2             2:4.4-3               0.02 MiB      10.44 MiB
+core/file                     5.40-2              5.40-3                0.00 MiB       0.34 MiB
+extra/firefox                 88.0-1              88.0.1-1              0.05 MiB      60.90 MiB
+extra/flac                    1.3.3-2             1.3.3-3               0.00 MiB       0.29 MiB
+core/glib2                    2.68.1-1            2.68.2-1              0.03 MiB       2.83 MiB
+extra/libass                  0.15.0-2            0.15.1-1              0.00 MiB       0.10 MiB
+core/libelf                   0.183-3             0.184-1               0.00 MiB       0.44 MiB
+extra/libnm                   1.30.4-1            1.30.4-3              0.00 MiB       1.12 MiB
+extra/libwnck3                3.36.0-1            40.0-1                0.04 MiB       0.43 MiB
+core/linux                    5.11.16.arch1-1     5.12.3.arch1-1        1.08 MiB      94.96 MiB
+core/linux-firmware           20210315.3568f96-2  20210426.fa0efef-1   17.94 MiB     167.21 MiB
+extra/md4c                    0.4.7-1             0.4.8-1               0.01 MiB       0.08 MiB
+extra/mesa                    21.0.3-3            21.1.0-1             11.02 MiB      17.71 MiB
+extra/mpg123                  1.26.5-1            1.27.2-1              0.06 MiB       0.43 MiB
+extra/network-manager-applet  1.20.0-2            1.22.0-1              0.00 MiB       0.16 MiB
+extra/networkmanager          1.30.4-1            1.30.4-3              0.01 MiB       3.39 MiB
+extra/nm-connection-editor    1.20.0-2            1.22.0-1              0.02 MiB       0.82 MiB
+core/pacman-mirrorlist        20210405-1          20210509-1            0.00 MiB       0.01 MiB
+extra/python                  3.9.4-1             3.9.5-2               0.04 MiB      31.83 MiB
+core/readline                 8.1.0-2             8.1.001-1             0.00 MiB       0.31 MiB
+core/sudo                     1.9.6.p1-1          1.9.7-1               0.18 MiB       1.54 MiB
+extra/svt-av1                                     0.8.7-1               6.01 MiB       1.59 MiB
+core/systemd                  248-5               248.2-2               0.07 MiB       6.31 MiB
+core/systemd-libs             248-5               248.2-2               0.00 MiB       0.54 MiB
+core/systemd-sysvcompat       248-5               248.2-2               0.00 MiB       0.01 MiB
+extra/thunar                  4.16.6-1            4.16.8-1              0.00 MiB       1.25 MiB
+extra/vim                     8.2.2815-1          8.2.2845-1            0.01 MiB       1.77 MiB
+extra/vim-runtime             8.2.2815-1          8.2.2845-1            0.01 MiB       6.47 MiB
+extra/xfce4-panel             4.16.2-1            4.16.3-1              0.00 MiB       0.76 MiB
+extra/xorgproto               2021.3-1            2021.4-1              0.00 MiB       0.24 MiB
+
+Total Download Size:    417.24 MiB
+Total Installed Size:  1374.11 MiB
+Net Upgrade Size:        36.68 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ readline-8.1.001-1-x86_64                            319.0 KiB  1595 KiB/s 00:00 [##############################################] 100%
+ bash-5.1.008-1-x86_64                               1693.6 KiB  1925 KiB/s 00:01 [##############################################] 100%
+ systemd-libs-248.2-2-x86_64                          555.9 KiB  1390 KiB/s 00:00 [##############################################] 100%
+ device-mapper-2.03.12-1-x86_64                       296.5 KiB  1560 KiB/s 00:00 [##############################################] 100%
+ libelf-0.184-1-x86_64                                452.5 KiB  1397 KiB/s 00:00 [##############################################] 100%
+ elfutils-0.184-1-x86_64                              660.4 KiB  1356 KiB/s 00:00 [##############################################] 100%
+ glib2-2.68.2-1-x86_64                                  2.8 MiB  1593 KiB/s 00:02 [##############################################] 100%
+ file-5.40-3-x86_64                                   345.3 KiB  1004 KiB/s 00:00 [##############################################] 100%
+ systemd-248.2-2-x86_64                                 6.3 MiB  1806 KiB/s 00:04 [##############################################] 100%
+ linux-5.12.3.arch1-1-x86_64                           95.0 MiB  2.77 MiB/s 00:34 [##############################################] 100%
+ linux-firmware-20210426.fa0efef-1-any                167.2 MiB  2.97 MiB/s 00:56 [##############################################] 100%
+ pacman-mirrorlist-20210509-1-any                       6.7 KiB  0.00   B/s 00:00 [##############################################] 100%
+ sudo-1.9.7-1-x86_64                                 1579.7 KiB  2.57 MiB/s 00:01 [##############################################] 100%
+ systemd-sysvcompat-248.2-2-x86_64                      5.7 KiB  0.00   B/s 00:00 [##############################################] 100%
+ libass-0.15.1-1-x86_64                               104.0 KiB   359 KiB/s 00:00 [##############################################] 100%
+ svt-av1-0.8.7-1-x86_64                              1628.5 KiB  2.14 MiB/s 00:01 [##############################################] 100%
+ flac-1.3.3-3-x86_64                                  294.0 KiB  3.34 MiB/s 00:00 [##############################################] 100%
+ xorgproto-2021.4-1-any                               242.3 KiB  1170 KiB/s 00:00 [##############################################] 100%
+ mesa-21.1.0-1-x86_64                                  17.7 MiB  2.61 MiB/s 00:07 [##############################################] 100%
+ ffmpeg-2:4.4-3-x86_64                                 10.4 MiB  3.09 MiB/s 00:03 [##############################################] 100%
+ firefox-88.0.1-1-x86_64                               60.9 MiB  2.95 MiB/s 00:21 [##############################################] 100%
+ libnm-1.30.4-3-x86_64                               1143.5 KiB  1707 KiB/s 00:01 [##############################################] 100%
+ libwnck3-40.0-1-x86_64                               439.5 KiB  1145 KiB/s 00:00 [##############################################] 100%
+ md4c-0.4.8-1-x86_64                                   81.4 KiB   714 KiB/s 00:00 [##############################################] 100%
+ mpg123-1.27.2-1-x86_64                               439.0 KiB  2.68 MiB/s 00:00 [##############################################] 100%
+ nm-connection-editor-1.22.0-1-x86_64                 844.3 KiB  2.05 MiB/s 00:00 [##############################################] 100%
+ networkmanager-1.30.4-3-x86_64                         3.4 MiB  2002 KiB/s 00:02 [##############################################] 100%
+ network-manager-applet-1.22.0-1-x86_64               165.2 KiB   918 KiB/s 00:00 [##############################################] 100%
+ python-3.9.5-2-x86_64                                 31.8 MiB  2.83 MiB/s 00:11 [##############################################] 100%
+ thunar-4.16.8-1-x86_64                              1279.4 KiB  2.50 MiB/s 00:01 [##############################################] 100%
+ vim-runtime-8.2.2845-1-x86_64                          6.5 MiB  3.04 MiB/s 00:02 [##############################################] 100%
+ vim-8.2.2845-1-x86_64                               1816.7 KiB  3.37 MiB/s 00:01 [##############################################] 100%
+ xfce4-panel-4.16.3-1-x86_64                          774.6 KiB  1986 KiB/s 00:00 [##############################################] 100%
+ ccache-4.3-1-x86_64                                  393.9 KiB  1690 KiB/s 00:00 [##############################################] 100%
+(34/34) checking keys in keyring                                                  [##############################################] 100%
+(34/34) checking package integrity                                                [##############################################] 100%
+(34/34) loading package files                                                     [##############################################] 100%
+(34/34) checking for file conflicts                                               [##############################################] 100%
+(34/34) checking available disk space                                             [##############################################] 100%
+:: Running pre-transaction hooks...
+(1/1) Removing linux initcpios...
+:: Processing package changes...
+( 1/34) upgrading readline                                                        [##############################################] 100%
+( 2/34) upgrading bash                                                            [##############################################] 100%
+( 3/34) upgrading ccache                                                          [##############################################] 100%
+( 4/34) upgrading systemd-libs                                                    [##############################################] 100%
+( 5/34) upgrading device-mapper                                                   [##############################################] 100%
+( 6/34) upgrading libelf                                                          [##############################################] 100%
+( 7/34) upgrading elfutils                                                        [##############################################] 100%
+( 8/34) upgrading glib2                                                           [##############################################] 100%
+( 9/34) upgrading libass                                                          [##############################################] 100%
+(10/34) installing svt-av1                                                        [##############################################] 100%
+(11/34) upgrading flac                                                            [##############################################] 100%
+(12/34) upgrading file                                                            [##############################################] 100%
+(13/34) upgrading systemd                                                         [##############################################] 100%
+(14/34) upgrading xorgproto                                                       [##############################################] 100%
+(15/34) upgrading mesa                                                            [##############################################] 100%
+(16/34) upgrading ffmpeg                                                          [##############################################] 100%
+(17/34) upgrading firefox                                                         [##############################################] 100%
+(18/34) upgrading libnm                                                           [##############################################] 100%
+(19/34) upgrading libwnck3                                                        [##############################################] 100%
+(20/34) upgrading linux                                                           [##############################################] 100%
+(21/34) upgrading linux-firmware                                                  [##############################################] 100%
+(22/34) upgrading md4c                                                            [##############################################] 100%
+(23/34) upgrading mpg123                                                          [##############################################] 100%
+(24/34) upgrading nm-connection-editor                                            [##############################################] 100%
+(25/34) upgrading networkmanager                                                  [##############################################] 100%
+New optional dependencies for networkmanager
+    dhcpcd: alternative DHCP client
+(26/34) upgrading network-manager-applet                                          [##############################################] 100%
+(27/34) upgrading pacman-mirrorlist                                               [##############################################] 100%
+warning: /etc/pacman.d/mirrorlist installed as /etc/pacman.d/mirrorlist.pacnew
+(28/34) upgrading python                                                          [##############################################] 100%
+(29/34) upgrading sudo                                                            [##############################################] 100%
+(30/34) upgrading systemd-sysvcompat                                              [##############################################] 100%
+(31/34) upgrading thunar                                                          [##############################################] 100%
+(32/34) upgrading vim-runtime                                                     [##############################################] 100%
+(33/34) upgrading vim                                                             [##############################################] 100%
+(34/34) upgrading xfce4-panel                                                     [##############################################] 100%
+:: Running post-transaction hooks...
+( 1/14) Creating system user accounts...
+( 2/14) Updating journal message catalog...
+( 3/14) Reloading system manager configuration...
+( 4/14) Updating udev hardware database...
+( 5/14) Applying kernel sysctl settings...
+( 6/14) Creating temporary files...
+( 7/14) Reloading device manager configuration...
+( 8/14) Arming ConditionNeedsUpdate...
+( 9/14) Updating module dependencies...
+(10/14) Updating linux initcpios...
+==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'default'
+  -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux.img
+==> Starting build: 5.12.3-arch1-1
+  -> Running build hook: [base]
+  -> Running build hook: [udev]
+  -> Running build hook: [autodetect]
+  -> Running build hook: [modconf]
+  -> Running build hook: [block]
+==> WARNING: Possibly missing firmware for module: xhci_pci
+  -> Running build hook: [filesystems]
+  -> Running build hook: [keyboard]
+  -> Running build hook: [fsck]
+==> Generating module dependencies
+==> Creating zstd-compressed initcpio image: /boot/initramfs-linux.img
+==> Image generation successful
+==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'fallback'
+  -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux-fallback.img -S autodetect
+==> Starting build: 5.12.3-arch1-1
+  -> Running build hook: [base]
+  -> Running build hook: [udev]
+  -> Running build hook: [modconf]
+  -> Running build hook: [block]
+==> WARNING: Possibly missing firmware for module: wd719x
+==> WARNING: Possibly missing firmware for module: aic94xx
+==> WARNING: Possibly missing firmware for module: xhci_pci
+  -> Running build hook: [filesystems]
+  -> Running build hook: [keyboard]
+  -> Running build hook: [fsck]
+==> Generating module dependencies
+==> Creating zstd-compressed initcpio image: /boot/initramfs-linux-fallback.img
+==> Image generation successful
+(11/14) Reloading system bus configuration...
+(12/14) Updating icon theme caches...
+(13/14) Updating the info directory file...
+(14/14) Updating the desktop file MIME type cache...
+[root@TTY jds]# sudo ls
+Desktop  Documents  Downloads  ex.java	IdeaProjects  intelliJ_log  Music  opt	Pictures  Public  record  Templates  usr  Videos
+[root@TTY jds]# 
