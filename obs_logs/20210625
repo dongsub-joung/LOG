@@ -1,0 +1,993 @@
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/
+Attempted path: /usr/share/obs/obs-studio/themes/
+info: ---------------------------------
+info: video settings reset:
+	base resolution:   1365x768
+	output resolution: 1364x768
+	downscale filter:  Bicubic
+	fps:               30/1
+	format:            NV12
+	YUV mode:          709/Partial
+info: NV12 texture support not available
+info: Settings changed (stream 1, video)
+info: ------------------------------------------------
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 19650, resource id: 14328184, major code: 40 (TranslateCoords), minor code: 0
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Streaming Start ===============================================
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+info: [rtmp stream: 'simple_stream'] User stopped the stream
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 2904509
+info: Output 'simple_stream': Total drawn frames: 2904396 (2904592 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 196 (0.0%)
+info: [rtmp stream: 'simple_stream'] Freeing 1 remaining packets
+info: Video stopped, number of skipped frames due to encoding lag: 3875/2904562 (0.1%)
+info: ==== Streaming Stop ================================================
+info: libfdk_aac encoder destroyed
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Streaming Start ===============================================
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+QObject::connect: No such signal QLineEdit::editingFinished(const QString &)
+QObject::connect:  (sender name:   'customServer')
+QObject::connect:  (receiver name: 'OBSBasicSettings')
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/
+Attempted path: /usr/share/obs/obs-studio/themes/
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 28556, resource id: 13928753, major code: 40 (TranslateCoords), minor code: 0
+info: [rtmp stream: 'simple_stream'] User stopped the stream
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 2258389
+info: Output 'simple_stream': Total drawn frames: 2258304 (2258456 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 152 (0.0%)
+info: Video stopped, number of skipped frames due to encoding lag: 2567/2258426 (0.1%)
+info: ==== Streaming Stop ================================================
+info: libfdk_aac encoder destroyed
+QObject::connect: No such signal QLineEdit::editingFinished(const QString &)
+QObject::connect:  (sender name:   'customServer')
+QObject::connect:  (receiver name: 'OBSBasicSettings')
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/
+Attempted path: /usr/share/obs/obs-studio/themes/
+info: Settings changed (stream 1)
+info: ------------------------------------------------
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Streaming Start ===============================================
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+info: [rtmp stream: 'simple_stream'] User stopped the stream
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 2951697
+info: Output 'simple_stream': Total drawn frames: 2951596 (2951784 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 188 (0.0%)
+info: [rtmp stream: 'simple_stream'] Freeing 1 remaining packets
+info: Video stopped, number of skipped frames due to encoding lag: 4134/2951755 (0.1%)
+info: ==== Streaming Stop ================================================
+info: libfdk_aac encoder destroyed
+QObject::connect: No such signal QLineEdit::editingFinished(const QString &)
+QObject::connect:  (sender name:   'customServer')
+QObject::connect:  (receiver name: 'OBSBasicSettings')
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/
+Attempted path: /usr/share/obs/obs-studio/themes/
+info: Settings changed (stream 1)
+info: ------------------------------------------------
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Streaming Start ===============================================
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+info: [rtmp stream: 'simple_stream'] User stopped the stream
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 3017323
+info: Output 'simple_stream': Total drawn frames: 3017323 (3017382 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 59 (0.0%)
+info: Video stopped, number of skipped frames due to encoding lag: 876/3017353 (0.0%)
+info: ==== Streaming Stop ================================================
+info: libfdk_aac encoder destroyed
+QObject::connect: No such signal QLineEdit::editingFinished(const QString &)
+QObject::connect:  (sender name:   'customServer')
+QObject::connect:  (receiver name: 'OBSBasicSettings')
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/
+Attempted path: /usr/share/obs/obs-studio/themes/
+info: Settings changed (stream 1)
+info: ------------------------------------------------
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Streaming Start ===============================================
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+info: WriteN, RTMP send error 32 (94 bytes)
+info: WriteN, RTMP send error 32 (59 bytes)
+info: WriteN, RTMP send error 9 (42 bytes)
+info: [rtmp stream: 'simple_stream'] Disconnected from rtmps://a.rtmps.youtube.com:443/live2
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 415764
+info: Output 'simple_stream': Total drawn frames: 415809 (415831 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 22 (0.0%)
+info: Output 'simple_stream':  Reconnecting in 10 seconds..
+info: Video stopped, number of skipped frames due to encoding lag: 1486/415807 (0.4%)
+info: libfdk_aac encoder destroyed
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: WriteN, RTMP send error 32 (127 bytes)
+info: WriteN, RTMP send error 32 (59 bytes)
+info: WriteN, RTMP send error 9 (42 bytes)
+info: [rtmp stream: 'simple_stream'] Disconnected from rtmps://a.rtmps.youtube.com:443/live2
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 321967
+info: Output 'simple_stream': Total drawn frames: 322008 (322015 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 7 (0.0%)
+info: Video stopped, number of skipped frames due to encoding lag: 39/321990 (0.0%)
+info: Output 'simple_stream':  Reconnecting in 10 seconds..
+info: [rtmp stream: 'simple_stream'] Freeing 1 remaining packets
+info: libfdk_aac encoder destroyed
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+info: WriteN, RTMP send error 32 (65 bytes)
+info: WriteN, RTMP send error 32 (59 bytes)
+info: WriteN, RTMP send error 9 (42 bytes)
+info: [rtmp stream: 'simple_stream'] Disconnected from rtmps://a.rtmps.youtube.com:443/live2
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 970573
+info: Output 'simple_stream': Total drawn frames: 970609 (970622 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 13 (0.0%)
+info: Output 'simple_stream':  Reconnecting in 10 seconds..
+info: Video stopped, number of skipped frames due to encoding lag: 91/970599 (0.0%)
+info: libfdk_aac encoder destroyed
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+info: [rtmp stream: 'simple_stream'] User stopped the stream
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 888792
+info: Output 'simple_stream': Total drawn frames: 888830 (888839 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 9 (0.0%)
+info: [rtmp stream: 'simple_stream'] Freeing 1 remaining packets
+info: Video stopped, number of skipped frames due to encoding lag: 45/888816 (0.0%)
+info: ==== Streaming Stop ================================================
+info: libfdk_aac encoder destroyed
+QObject::connect: No such signal QLineEdit::editingFinished(const QString &)
+QObject::connect:  (sender name:   'customServer')
+QObject::connect:  (receiver name: 'OBSBasicSettings')
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/
+Attempted path: /usr/share/obs/obs-studio/themes/
+info: Settings changed (stream 1)
+info: ------------------------------------------------
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Streaming Start ===============================================
+info: WriteN, RTMP send error 32 (434 bytes)
+info: WriteN, RTMP send error 32 (59 bytes)
+info: WriteN, RTMP send error 9 (42 bytes)
+info: [rtmp stream: 'simple_stream'] Disconnected from rtmps://a.rtmps.youtube.com:443/live2
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 34173
+info: Output 'simple_stream': Total drawn frames: 34222 (34224 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 2 (0.0%)
+info: Output 'simple_stream':  Reconnecting in 10 seconds..
+info: Video stopped, number of skipped frames due to encoding lag: 65/34200 (0.2%)
+info: libfdk_aac encoder destroyed
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+info: [rtmp stream: 'simple_stream'] User stopped the stream
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 971196
+info: Output 'simple_stream': Total drawn frames: 971226 (971316 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 90 (0.0%)
+info: [rtmp stream: 'simple_stream'] Freeing 1 remaining packets
+info: Video stopped, number of skipped frames due to encoding lag: 4041/971294 (0.4%)
+info: ==== Streaming Stop ================================================
+info: libfdk_aac encoder destroyed
+info: ==== Shutting down ==================================================
+info: v4l2-input: /dev/video0: Stopped capture after 21794037 frames
+info: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+info: pulse-input: Got 175940760 packets with 59919759078 frames
+info: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+info: pulse-input: Got 98505525 packets with 43564596072 frames
+info: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+info: pulse-input: Got 130379916 packets with 57653690240 frames
+info: All scene data cleared
+info: ------------------------------------------------
+info: Freeing OBS context data
+info: == Profiler Results =============================
+info: run_program_init: 1475.89 ms
+info:  ┣OBSApp::AppInit: 5.634 ms
+info:  ┃ ┗OBSApp::InitLocale: 2.918 ms
+info:  ┗OBSApp::OBSInit: 1294.98 ms
+info:    ┣obs_startup: 15.461 ms
+info:    ┗OBSBasic::OBSInit: 1114.58 ms
+info:      ┣OBSBasic::InitBasicConfig: 0.48 ms
+info:      ┣OBSBasic::ResetAudio: 0.2 ms
+info:      ┣OBSBasic::ResetVideo: 163.582 ms
+info:      ┣OBSBasic::InitOBSCallbacks: 0.004 ms
+info:      ┣OBSBasic::InitHotkeys: 0.516 ms
+info:      ┣obs_load_all_modules: 101.801 ms
+info:      ┃ ┣obs_init_module(decklink-captions.so): 0.046 ms
+info:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.747 ms
+info:      ┃ ┣obs_init_module(image-source.so): 0.009 ms
+info:      ┃ ┣obs_init_module(linux-alsa.so): 0.003 ms
+info:      ┃ ┣obs_init_module(linux-capture.so): 1.241 ms
+info:      ┃ ┣obs_init_module(linux-decklink.so): 0.846 ms
+info:      ┃ ┣obs_init_module(linux-jack.so): 0.003 ms
+info:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.003 ms
+info:      ┃ ┣obs_init_module(linux-v4l2.so): 10.491 ms
+info:      ┃ ┣obs_init_module(obs-ffmpeg.so): 2.021 ms
+info:      ┃ ┃ ┗nvenc_check: 1.985 ms
+info:      ┃ ┣obs_init_module(obs-filters.so): 0.035 ms
+info:      ┃ ┣obs_init_module(obs-libfdk.so): 0.003 ms
+info:      ┃ ┣obs_init_module(obs-outputs.so): 0.002 ms
+info:      ┃ ┣obs_init_module(obs-transitions.so): 0.013 ms
+info:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+info:      ┃ ┣obs_init_module(rtmp-services.so): 2.122 ms
+info:      ┃ ┗obs_init_module(text-freetype2.so): 0.024 ms
+info:      ┣OBSBasic::ResetOutputs: 0.503 ms
+info:      ┣OBSBasic::CreateHotkeys: 0.041 ms
+info:      ┣OBSBasic::InitService: 2.479 ms
+info:      ┣OBSBasic::InitPrimitives: 2.108 ms
+info:      ┗OBSBasic::Load: 597.621 ms
+info: obs_hotkey_thread(25 ms): min=0.093 ms, median=0.377 ms, max=850.868 ms, 99th percentile=5.194 ms, 99.9836% below 25 ms
+info: audio_thread(Audio): min=0 ms, median=0.694 ms, max=69.867 ms, 99th percentile=3.13 ms
+info:  ┗receive_audio: min=0.002 ms, median=0.558 ms, max=38.515 ms, 99th percentile=2.789 ms
+info:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=12.383 ms, 99th percentile=0.003 ms
+info:    ┗do_encode: min=0.119 ms, median=0.553 ms, max=38.51 ms, 99th percentile=2.775 ms
+info:      ┗encode(simple_aac): min=0.116 ms, median=0.527 ms, max=38.491 ms, 99th percentile=2.586 ms
+info: obs_graphics_thread(33.3333 ms): min=0.138 ms, median=7.474 ms, max=969.762 ms, 99th percentile=18.833 ms, 99.9397% below 33.333 ms
+info:  ┣tick_sources: min=0 ms, median=5.819 ms, max=938.822 ms, 99th percentile=9.379 ms
+info:  ┣output_frame: min=0.117 ms, median=1.47 ms, max=142.895 ms, 99th percentile=7.576 ms
+info:  ┃ ┣gs_context(video->graphics): min=0.116 ms, median=1.214 ms, max=140.541 ms, 99th percentile=2.902 ms
+info:  ┃ ┃ ┣render_video: min=0.017 ms, median=0.989 ms, max=96.094 ms, 99th percentile=2.387 ms
+info:  ┃ ┃ ┃ ┣render_main_texture: min=0.015 ms, median=0.864 ms, max=74.926 ms, 99th percentile=2.042 ms
+info:  ┃ ┃ ┃ ┣render_output_texture: min=0.033 ms, median=0.041 ms, max=72.942 ms, 99th percentile=0.148 ms
+info:  ┃ ┃ ┃ ┣render_convert_texture: min=0.04 ms, median=0.053 ms, max=25.256 ms, 99th percentile=0.172 ms
+info:  ┃ ┃ ┃ ┗stage_output_texture: min=0.021 ms, median=0.033 ms, max=30.405 ms, 99th percentile=0.106 ms
+info:  ┃ ┃ ┣gs_flush: min=0.059 ms, median=0.196 ms, max=113.756 ms, 99th percentile=0.508 ms
+info:  ┃ ┃ ┗download_frame: min=0 ms, median=0.007 ms, max=30.197 ms, 99th percentile=0.019 ms
+info:  ┃ ┗output_video_data: min=0 ms, median=0.229 ms, max=62.989 ms, 99th percentile=5.524 ms
+info:  ┗render_displays: min=0.005 ms, median=0.018 ms, max=206.319 ms, 99th percentile=8.285 ms
+info: video_thread(video): min=0 ms, median=0.923 ms, max=1074.14 ms, 99th percentile=4.001 ms
+info:  ┗receive_video: min=0.676 ms, median=0.918 ms, max=294.095 ms, 99th percentile=3.967 ms
+info:    ┗do_encode: min=0.675 ms, median=0.916 ms, max=294.093 ms, 99th percentile=3.963 ms
+info:      ┗encode(simple_h264_stream): min=0.659 ms, median=0.879 ms, max=294.049 ms, 99th percentile=3.254 ms
+info: obs_graphics_thread(33.3333 ms): min=0.177 ms, median=7.794 ms, max=574.749 ms, 99th percentile=17.841 ms, 99.9441% below 33.333 ms
+info:  ┣tick_sources: min=0 ms, median=6.041 ms, max=566.486 ms, 99th percentile=10.367 ms
+info:  ┣output_frame: min=0.123 ms, median=1.586 ms, max=237.415 ms, 99th percentile=8.416 ms
+info:  ┃ ┣gs_context(video->graphics): min=0.123 ms, median=1.211 ms, max=231.701 ms, 99th percentile=3.229 ms
+info:  ┃ ┃ ┣render_video: min=0.051 ms, median=0.983 ms, max=224.16 ms, 99th percentile=2.79 ms
+info:  ┃ ┃ ┃ ┣render_main_texture: min=0.045 ms, median=0.864 ms, max=77.009 ms, 99th percentile=2.448 ms
+info:  ┃ ┃ ┃ ┣render_output_texture: min=0.025 ms, median=0.032 ms, max=24.807 ms, 99th percentile=0.137 ms
+info:  ┃ ┃ ┃ ┣render_convert_texture: min=0.042 ms, median=0.055 ms, max=201.71 ms, 99th percentile=0.191 ms
+info:  ┃ ┃ ┃ ┗stage_output_texture: min=0.021 ms, median=0.036 ms, max=24.78 ms, 99th percentile=0.137 ms
+info:  ┃ ┃ ┣gs_flush: min=0.05 ms, median=0.195 ms, max=43.451 ms, 99th percentile=0.628 ms
+info:  ┃ ┃ ┗download_frame: min=0 ms, median=0.007 ms, max=20.84 ms, 99th percentile=0.019 ms
+info:  ┃ ┗output_video_data: min=0 ms, median=0.351 ms, max=56.897 ms, 99th percentile=6.325 ms
+info:  ┗render_displays: min=0.005 ms, median=0.021 ms, max=121.996 ms, 99th percentile=1.256 ms
+info: OBSBasic::ResetVideo: 65.746 ms
+info: video_thread(video): min=0.001 ms, median=1.398 ms, max=3294.24 ms, 99th percentile=6.735 ms
+info:  ┗receive_video: min=1.016 ms, median=1.393 ms, max=338.964 ms, 99th percentile=7.05 ms
+info:    ┗do_encode: min=1.016 ms, median=1.392 ms, max=338.963 ms, 99th percentile=7.047 ms
+info:      ┗encode(simple_h264_stream): min=1.006 ms, median=1.333 ms, max=338.908 ms, 99th percentile=6.184 ms
+info: =================================================
+info: == Profiler Time Between Calls ==================
+info: obs_hotkey_thread(25 ms): min=25.137 ms, median=25.502 ms, max=875.919 ms, 49.8048% within ±2% of 25 ms (0% lower, 50.1952% higher)
+info: obs_graphics_thread(33.3333 ms): min=6.478 ms, median=33.333 ms, max=969.771 ms, 98.8735% within ±2% of 33.333 ms (0.563297% lower, 0.563205% higher)
+info: obs_graphics_thread(33.3333 ms): min=7.831 ms, median=33.334 ms, max=574.91 ms, 98.1034% within ±2% of 33.333 ms (0.950508% lower, 0.946052% higher)
+info: =================================================
+info: Number of memory leaks: 0
+[jds@TTY bin]$ 

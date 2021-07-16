@@ -1,0 +1,611 @@
+[jds@TTY bin]$ ./firefox 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+[jds@TTY bin]$ ./firefox 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:45044): Gdk-WARNING **: 16:10:10.906: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:10.906: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:10.906: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:10.907: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:11.842: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:11.842: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:11.842: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:11.848: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:13.378: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:13.378: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:13.378: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:13.383: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:14.204: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:14.204: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:14.204: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:10:14.219: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:45044): Gdk-WARNING **: 16:12:04.497: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:04.497: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:04.497: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:04.505: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:07.866: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:07.866: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:07.866: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:07.888: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:09.123: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:09.123: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:09.123: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:12:09.132: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:45044): Gdk-WARNING **: 16:13:45.497: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:13:45.497: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:13:45.497: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:13:45.497: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:13:47.523: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:13:47.524: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:13:47.524: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:13:47.524: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:12.917: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:12.917: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:12.917: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:12.925: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.362: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.363: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.363: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.390: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.531: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.531: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.531: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.546: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.775: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.775: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.775: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:14.786: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:15.002: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:15.002: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:15.002: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:15.023: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:16.221: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:16.222: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:16.222: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:16.230: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:17.456: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:17.457: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:17.457: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:19:17.485: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.237: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.237: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.238: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.246: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.297: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.298: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.298: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.323: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.343: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.343: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.343: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.364: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.394: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.394: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.394: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.396: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.446: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.447: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.447: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.447: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.486: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.486: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.486: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.488: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.534: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.534: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.534: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.535: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.585: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.585: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.585: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.586: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.637: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.637: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.637: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.638: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.685: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.685: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.685: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.686: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.736: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.736: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.737: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 16:26:17.737: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:45044): Gdk-WARNING **: 05:20:05.525: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:05.534: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:05.535: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:05.538: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:06.216: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:06.216: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:06.217: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:06.242: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.136: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.136: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.136: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.172: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.552: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.552: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.552: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.560: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.716: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.716: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.716: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.725: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.893: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.893: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.893: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:07.905: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:08.904: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:08.904: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:08.904: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:45044): Gdk-WARNING **: 05:20:08.922: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PHttpChannel::Msg_DocumentChannelCleanup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PHttpChannel::Msg_DocumentChannelCleanup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PHttpChannel::Msg_DocumentChannelCleanup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0006,name=PHttpChannel::Msg_DocumentChannelCleanup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[jds@TTY bin]$ 

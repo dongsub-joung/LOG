@@ -1,0 +1,414 @@
+[jds@TTY bin]$ sudo pacman --sync --refresh
+[sudo] password for jds: 
+	Sorry, try again.
+[sudo] password for jds: 
+miyuki
+Sorry, try again.
+[sudo] password for jds: 
+jds is not in the sudoers file.  This incident will be reported.
+[jds@TTY bin]$ sudo pacman --sync --refresh
+[sudo] password for jds: 
+jds is not in the sudoers file.  This incident will be reported.
+[jds@TTY bin]$ su pacman --sync --refresh
+su: unrecognized option '--sync'
+Try 'su --help' for more information.
+[jds@TTY bin]$ su
+Password: 
+[root@TTY bin]# pacman --sync --refresh
+:: Synchronizing package databases...
+ core                                                 133.6 KiB  73.8 KiB/s 00:02 [##############################################] 100%
+ extra                                               1566.9 KiB  1057 KiB/s 00:01 [##############################################] 100%
+ community                                              5.6 MiB  1542 KiB/s 00:04 [##############################################] 100%
+[root@TTY bin]# sudo pacman --sync --needed archliux-keyring
+error: target not found: archliux-keyring
+[root@TTY bin]# sudo pacman --sync --needed archlinux-keyring
+resolving dependencies...
+looking for conflicting packages...
+
+Package (1)             Old Version  New Version  Net Change  Download Size
+
+core/archlinux-keyring  20210110-1   20210616-1     0.01 MiB       0.93 MiB
+
+Total Download Size:   0.93 MiB
+Total Installed Size:  1.32 MiB
+Net Upgrade Size:      0.01 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ archlinux-keyring-20210616-1-any                     956.7 KiB   510 KiB/s 00:02 [##############################################] 100%
+(1/1) checking keys in keyring                                                    [##############################################] 100%
+(1/1) checking package integrity                                                  [##############################################] 100%
+(1/1) loading package files                                                       [##############################################] 100%
+(1/1) checking for file conflicts                                                 [##############################################] 100%
+(1/1) checking available disk space                                               [##############################################] 100%
+:: Processing package changes...
+(1/1) upgrading archlinux-keyring                                                 [##############################################] 100%
+==> Appending keys from archlinux.gpg...
+==> Locally signing trusted keys in keyring...
+gpg: checking the trustdb
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 1EB2638FF56C0C53: no user ID for key signature packet of class 10
+gpg: key 1EB2638FF56C0C53: no user ID for key signature packet of class 10
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   6  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: depth: 1  valid:   6  signed:  81  trust: 1-, 0q, 0n, 5m, 0f, 0u
+gpg: depth: 2  valid:  76  signed:  25  trust: 76-, 0q, 0n, 0m, 0f, 0u
+gpg: next trustdb check due at 2021-08-02
+  -> Locally signed 1 keys.
+==> Importing owner trust values...
+gpg: setting ownertrust to 4
+==> Disabling revoked keys in keyring...
+gpg: checking the trustdb
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 1EB2638FF56C0C53: no user ID for key signature packet of class 10
+gpg: key 1EB2638FF56C0C53: no user ID for key signature packet of class 10
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   6  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: depth: 1  valid:   6  signed:  81  trust: 0-, 0q, 0n, 6m, 0f, 0u
+gpg: depth: 2  valid:  76  signed:  25  trust: 76-, 0q, 0n, 0m, 0f, 0u
+gpg: next trustdb check due at 2021-08-02
+gpg: checking the trustdb
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 1EB2638FF56C0C53: no user ID for key signature packet of class 10
+gpg: key 1EB2638FF56C0C53: no user ID for key signature packet of class 10
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   6  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: depth: 1  valid:   6  signed:  81  trust: 0-, 0q, 0n, 6m, 0f, 0u
+gpg: depth: 2  valid:  76  signed:  25  trust: 76-, 0q, 0n, 0m, 0f, 0u
+gpg: next trustdb check due at 2021-08-02
+gpg: checking the trustdb
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 786C63F330D7CB92: no user ID for key signature packet of class 10
+gpg: key 1EB2638FF56C0C53: no user ID for key signature packet of class 10
+gpg: key 1EB2638FF56C0C53: no user ID for key signature packet of class 10
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   6  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: depth: 1  valid:   6  signed:  81  trust: 0-, 0q, 0n, 6m, 0f, 0u
+gpg: depth: 2  valid:  76  signed:  25  trust: 76-, 0q, 0n, 0m, 0f, 0u
+gpg: next trustdb check due at 2021-08-02
+  -> Disabled 2 keys.
+==> Updating trust database...
+gpg: next trustdb check due at 2021-08-02
+:: Running post-transaction hooks...
+(1/1) Arming ConditionNeedsUpdate...
+[root@TTY bin]# sudo pacman --sync --sysupgrade
+:: Starting full system upgrade...
+resolving dependencies...
+looking for conflicting packages...
+
+Package (47)                  Old Version        New Version        Net Change  Download Size
+
+extra/alsa-card-profiles      1:0.3.29-2         1:0.3.30-2           0.00 MiB       0.03 MiB
+extra/alsa-lib                1.2.5-2            1.2.5.1-3            0.00 MiB       0.46 MiB
+extra/alsa-topology-conf      1.2.5-1            1.2.5.1-1            0.00 MiB       0.01 MiB
+extra/alsa-ucm-conf           1.2.5-1            1.2.5.1-1            0.00 MiB       0.04 MiB
+extra/aom                     3.1.0-1            3.1.1-1              0.21 MiB       2.45 MiB
+core/audit                    3.0.1-1            3.0.2-1             -0.01 MiB       0.37 MiB
+extra/bluez-libs              5.58-1             5.59-2               0.00 MiB       0.09 MiB
+core/ca-certificates          20210529-1         20210603-1           0.00 MiB       0.00 MiB
+core/ca-certificates-mozilla  3.66-1             3.67-1               0.00 MiB       0.32 MiB
+core/ca-certificates-utils    20210529-1         20210603-1           0.00 MiB       0.01 MiB
+extra/ffmpeg                  2:4.4-3            2:4.4-4              0.06 MiB      10.38 MiB
+extra/firefox                 89.0-1             89.0.2-1            -1.09 MiB      60.12 MiB
+core/glib2                    2.68.2-1           2.68.3-1             0.00 MiB       2.75 MiB
+core/gnupg                    2.2.27-1           2.2.28-2             0.06 MiB       2.37 MiB
+core/gnutls                   3.7.2-1            3.7.2-2              0.00 MiB       2.85 MiB
+core/groff                    1.22.4-5           1.22.4-6             0.03 MiB       2.14 MiB
+core/hwids                    20201207-1         20210613-1           0.03 MiB       0.45 MiB
+extra/intel-ucode             20210216-1         20210608-1           1.09 MiB       3.67 MiB
+extra/libcanberra             0.30+2+gc0620e4-4  0.30+2+gc0620e4-5    0.00 MiB       0.09 MiB
+core/libcap                   2.50-1             2.50-2               0.05 MiB       0.07 MiB
+core/libldap                  2.4.58-3           2.4.59-1             0.00 MiB       0.30 MiB
+extra/libnm                   1.30.4-3           1.32.0-1            -2.14 MiB       1.04 MiB
+core/libp11-kit               0.23.22-1          0.24.0-1             0.00 MiB       0.47 MiB
+core/libpcap                  1.10.0-1           1.10.1-1             0.00 MiB       0.27 MiB
+extra/libva                   2.11.0-1           2.12.0-1             0.02 MiB       0.17 MiB
+core/libxcrypt                4.4.22-4           4.4.23-1             0.00 MiB       0.09 MiB
+core/linux                    5.12.9.arch1-1     5.12.12.arch1-1      0.00 MiB      94.91 MiB
+extra/llvm-libs               12.0.0-1           12.0.0-2             0.00 MiB      24.42 MiB
+core/m4                       1.4.18-3           1.4.19-1             0.24 MiB       0.25 MiB
+core/man-db                   2.9.4-1            2.9.4-2              0.00 MiB       1.03 MiB
+core/man-pages                5.11-1             5.12-1               0.02 MiB       5.81 MiB
+extra/mesa                    21.1.2-1           21.1.3-1             0.06 MiB      17.48 MiB
+core/mkinitcpio-busybox       1.32.1-3           1.33.1-1             0.00 MiB       0.26 MiB
+extra/networkmanager          1.30.4-3           1.32.0-1             0.07 MiB       3.36 MiB
+core/nss                      3.66-1             3.67-1               0.00 MiB       1.53 MiB
+community/obs-studio          27.0.0-2           27.0.1-1             0.07 MiB       4.69 MiB
+core/p11-kit                  0.23.22-1          0.24.0-1             0.00 MiB       0.14 MiB
+core/pacman                   6.0.0-2            6.0.0-3              0.00 MiB       0.87 MiB
+extra/pipewire                1:0.3.29-2         1:0.3.30-2           0.01 MiB       1.36 MiB
+extra/qt5-base                5.15.2+kde+r196-1  5.15.2+kde+r200-1    0.00 MiB      13.00 MiB
+extra/ristretto               0.10.0-3           0.11.0-1             0.00 MiB       0.24 MiB
+core/sqlite                   3.35.5-1           3.36.0-1             0.03 MiB       1.70 MiB
+core/sudo                     1.9.7-1            1.9.7.p1-1           0.01 MiB       1.51 MiB
+extra/upower                  0.99.11-3          0.99.12-2           -0.01 MiB       0.17 MiB
+extra/vulkan-icd-loader       1.2.176-1          1.2.182-1            0.00 MiB       0.11 MiB
+extra/xf86-input-libinput     1.0.1-1            1.1.0-1              0.00 MiB       0.04 MiB
+extra/xkeyboard-config        2.32-1             2.33-1               0.04 MiB       0.72 MiB
+
+Total Download Size:   264.61 MiB
+Total Installed Size:  775.66 MiB
+Net Upgrade Size:       -1.15 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ alsa-card-profiles-1:0.3.30-2-x86_64                  26.5 KiB  35.4 KiB/s 00:01 [##############################################] 100%
+ alsa-topology-conf-1.2.5.1-1-any                      13.5 KiB  27.6 KiB/s 00:00 [##############################################] 100%
+ alsa-ucm-conf-1.2.5.1-1-any                           45.0 KiB  64.3 KiB/s 00:01 [##############################################] 100%
+ alsa-lib-1.2.5.1-3-x86_64                            471.2 KiB   431 KiB/s 00:01 [##############################################] 100%
+ aom-3.1.1-1-x86_64                                     2.5 MiB  1802 KiB/s 00:01 [##############################################] 100%
+ libldap-2.4.59-1-x86_64                              303.5 KiB   300 KiB/s 00:01 [##############################################] 100%
+ audit-3.0.2-1-x86_64                                 379.6 KiB   371 KiB/s 00:01 [##############################################] 100%
+ bluez-libs-5.59-2-x86_64                              91.7 KiB   111 KiB/s 00:01 [##############################################] 100%
+ libp11-kit-0.24.0-1-x86_64                           478.7 KiB   443 KiB/s 00:01 [##############################################] 100%
+ libxcrypt-4.4.23-1-x86_64                             88.5 KiB   116 KiB/s 00:01 [##############################################] 100%
+ libcap-2.50-2-x86_64                                  72.4 KiB  99.1 KiB/s 00:01 [##############################################] 100%
+ p11-kit-0.24.0-1-x86_64                              141.7 KiB   167 KiB/s 00:01 [##############################################] 100%
+ ca-certificates-utils-20210603-1-any                   8.2 KiB  19.3 KiB/s 00:00 [##############################################] 100%
+ ca-certificates-mozilla-3.67-1-x86_64                325.9 KiB   326 KiB/s 00:01 [##############################################] 100%
+ ca-certificates-20210603-1-any                      2028.0   B  4.21 KiB/s 00:00 [##############################################] 100%
+ gnutls-3.7.2-2-x86_64                                  2.8 MiB  1726 KiB/s 00:02 [##############################################] 100%
+ llvm-libs-12.0.0-2-x86_64                             24.4 MiB  6.18 MiB/s 00:04 [##############################################] 100%
+ vulkan-icd-loader-1.2.182-1-x86_64                   109.6 KiB   132 KiB/s 00:01 [##############################################] 100%
+ mesa-21.1.3-1-x86_64                                  17.5 MiB  3.65 MiB/s 00:05 [##############################################] 100%
+ libva-2.12.0-1-x86_64                                179.1 KiB   189 KiB/s 00:01 [##############################################] 100%
+ glib2-2.68.3-1-x86_64                                  2.7 MiB  1953 KiB/s 00:01 [##############################################] 100%
+ hwids-20210613-1-any                                 463.8 KiB   152 KiB/s 00:03 [##############################################] 100%
+ libpcap-1.10.1-1-x86_64                              276.5 KiB   260 KiB/s 00:01 [##############################################] 100%
+ ffmpeg-2:4.4-4-x86_64                                 10.4 MiB  3.30 MiB/s 00:03 [##############################################] 100%
+ sqlite-3.36.0-1-x86_64                              1741.8 KiB  1281 KiB/s 00:01 [##############################################] 100%
+ nss-3.67-1-x86_64                                   1570.9 KiB  1127 KiB/s 00:01 [##############################################] 100%
+ libcanberra-0.30+2+gc0620e4-5-x86_64                  91.6 KiB   106 KiB/s 00:01 [##############################################] 100%
+ xkeyboard-config-2.33-1-any                          732.2 KiB   608 KiB/s 00:01 [##############################################] 100%
+ firefox-89.0.2-1-x86_64                               60.1 MiB  7.99 MiB/s 00:08 [##############################################] 100%
+ gnupg-2.2.28-2-x86_64                                  2.4 MiB  1735 KiB/s 00:01 [##############################################] 100%
+ groff-1.22.4-6-x86_64                                  2.1 MiB  1504 KiB/s 00:01 [##############################################] 100%
+ intel-ucode-20210608-1-any                             3.7 MiB  2.18 MiB/s 00:02 [##############################################] 100%
+ libnm-1.32.0-1-x86_64                               1061.0 KiB   829 KiB/s 00:01 [##############################################] 100%
+ mkinitcpio-busybox-1.33.1-1-x86_64                   269.5 KiB   263 KiB/s 00:01 [##############################################] 100%
+ linux-5.12.12.arch1-1-x86_64                          94.9 MiB  6.41 MiB/s 00:15 [##############################################] 100%
+ m4-1.4.19-1-x86_64                                   258.3 KiB   241 KiB/s 00:01 [##############################################] 100%
+ man-db-2.9.4-2-x86_64                               1059.0 KiB   871 KiB/s 00:01 [##############################################] 100%
+ man-pages-5.12-1-any                                   5.8 MiB  2.77 MiB/s 00:02 [##############################################] 100%
+ networkmanager-1.32.0-1-x86_64                         3.4 MiB  2.16 MiB/s 00:02 [##############################################] 100%
+ pipewire-1:0.3.30-2-x86_64                          1388.3 KiB  1065 KiB/s 00:01 [##############################################] 100%
+ qt5-base-5.15.2+kde+r200-1-x86_64                     13.0 MiB  4.75 MiB/s 00:03 [##############################################] 100%
+ obs-studio-27.0.1-1-x86_64                             4.7 MiB  2.68 MiB/s 00:02 [##############################################] 100%
+ pacman-6.0.0-3-x86_64                                892.8 KiB   707 KiB/s 00:01 [##############################################] 100%
+ ristretto-0.11.0-1-x86_64                            243.4 KiB   243 KiB/s 00:01 [##############################################] 100%
+ sudo-1.9.7.p1-1-x86_64                              1546.7 KiB  1175 KiB/s 00:01 [##############################################] 100%
+ upower-0.99.12-2-x86_64                              173.9 KiB   193 KiB/s 00:01 [##############################################] 100%
+ xf86-input-libinput-1.1.0-1-x86_64                    37.3 KiB  51.9 KiB/s 00:01 [##############################################] 100%
+ Total (47/47)                                        264.6 MiB  2.51 MiB/s 01:45 [##############################################] 100%
+(47/47) checking keys in keyring                                                  [##############################################] 100%
+(47/47) checking package integrity                                                [##############################################] 100%
+(47/47) loading package files                                                     [##############################################] 100%
+(47/47) checking for file conflicts                                               [##############################################] 100%
+(47/47) checking available disk space                                             [##############################################] 100%
+:: Running pre-transaction hooks...
+(1/1) Removing linux initcpios...
+:: Processing package changes...
+( 1/47) upgrading alsa-card-profiles                                              [##############################################] 100%
+( 2/47) upgrading alsa-topology-conf                                              [##############################################] 100%
+( 3/47) upgrading alsa-ucm-conf                                                   [##############################################] 100%
+( 4/47) upgrading alsa-lib                                                        [##############################################] 100%
+( 5/47) upgrading aom                                                             [##############################################] 100%
+( 6/47) upgrading libldap                                                         [##############################################] 100%
+( 7/47) upgrading audit                                                           [##############################################] 100%
+( 8/47) upgrading bluez-libs                                                      [##############################################] 100%
+( 9/47) upgrading libp11-kit                                                      [##############################################] 100%
+(10/47) upgrading libxcrypt                                                       [##############################################] 100%
+(11/47) upgrading libcap                                                          [##############################################] 100%
+(12/47) upgrading p11-kit                                                         [##############################################] 100%
+  > /etc/ca-certificates/trust-source/blacklist has been renamed to
+    /etc/ca-certificates/trust-source/blocklist
+(13/47) upgrading ca-certificates-utils                                           [##############################################] 100%
+(14/47) upgrading ca-certificates-mozilla                                         [##############################################] 100%
+(15/47) upgrading ca-certificates                                                 [##############################################] 100%
+(16/47) upgrading gnutls                                                          [##############################################] 100%
+(17/47) upgrading llvm-libs                                                       [##############################################] 100%
+(18/47) upgrading vulkan-icd-loader                                               [##############################################] 100%
+(19/47) upgrading mesa                                                            [##############################################] 100%
+(20/47) upgrading libva                                                           [##############################################] 100%
+(21/47) upgrading glib2                                                           [##############################################] 100%
+(22/47) upgrading hwids                                                           [##############################################] 100%
+(23/47) upgrading libpcap                                                         [##############################################] 100%
+(24/47) upgrading ffmpeg                                                          [##############################################] 100%
+(25/47) upgrading sqlite                                                          [##############################################] 100%
+(26/47) upgrading nss                                                             [##############################################] 100%
+(27/47) upgrading libcanberra                                                     [##############################################] 100%
+(28/47) upgrading xkeyboard-config                                                [##############################################] 100%
+(29/47) upgrading firefox                                                         [##############################################] 100%
+(30/47) upgrading gnupg                                                           [##############################################] 100%
+(31/47) upgrading groff                                                           [##############################################] 100%
+(32/47) upgrading intel-ucode                                                     [##############################################] 100%
+(33/47) upgrading libnm                                                           [##############################################] 100%
+(34/47) upgrading mkinitcpio-busybox                                              [##############################################] 100%
+(35/47) upgrading linux                                                           [##############################################] 100%
+(36/47) upgrading m4                                                              [##############################################] 100%
+(37/47) upgrading man-db                                                          [##############################################] 100%
+(38/47) upgrading man-pages                                                       [##############################################] 100%
+(39/47) upgrading networkmanager                                                  [##############################################] 100%
+New optional dependencies for networkmanager
+    firewalld: firewall support
+    iptables: connection sharing [installed]
+    nftables: connection sharing
+(40/47) upgrading pipewire                                                        [##############################################] 100%
+(41/47) upgrading qt5-base                                                        [##############################################] 100%
+(42/47) upgrading obs-studio                                                      [##############################################] 100%
+(43/47) upgrading pacman                                                          [##############################################] 100%
+(44/47) upgrading ristretto                                                       [##############################################] 100%
+(45/47) upgrading sudo                                                            [##############################################] 100%
+(46/47) upgrading upower                                                          [##############################################] 100%
+(47/47) upgrading xf86-input-libinput                                             [##############################################] 100%
+:: Running post-transaction hooks...
+( 1/11) Reloading system manager configuration...
+( 2/11) Creating temporary files...
+( 3/11) Reloading device manager configuration...
+( 4/11) Arming ConditionNeedsUpdate...
+( 5/11) Rebuilding certificate stores...
+( 6/11) Updating module dependencies...
+( 7/11) Updating linux initcpios...
+==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'default'
+  -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux.img
+==> Starting build: 5.12.12-arch1-1
+  -> Running build hook: [base]
+  -> Running build hook: [udev]
+  -> Running build hook: [autodetect]
+  -> Running build hook: [modconf]
+  -> Running build hook: [block]
+==> WARNING: Possibly missing firmware for module: xhci_pci
+  -> Running build hook: [filesystems]
+  -> Running build hook: [keyboard]
+  -> Running build hook: [fsck]
+==> Generating module dependencies
+==> Creating zstd-compressed initcpio image: /boot/initramfs-linux.img
+==> Image generation successful
+==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'fallback'
+  -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux-fallback.img -S autodetect
+==> Starting build: 5.12.12-arch1-1
+  -> Running build hook: [base]
+  -> Running build hook: [udev]
+  -> Running build hook: [modconf]
+  -> Running build hook: [block]
+==> WARNING: Possibly missing firmware for module: wd719x
+==> WARNING: Possibly missing firmware for module: aic94xx
+==> WARNING: Possibly missing firmware for module: xhci_pci
+  -> Running build hook: [filesystems]
+  -> Running build hook: [keyboard]
+  -> Running build hook: [fsck]
+==> Generating module dependencies
+==> Creating zstd-compressed initcpio image: /boot/initramfs-linux-fallback.img
+==> Image generation successful
+( 8/11) Reloading system bus configuration...
+( 9/11) Updating icon theme caches...
+(10/11) Updating the info directory file...
+(11/11) Updating the desktop file MIME type cache...
+[root@TTY bin]# 

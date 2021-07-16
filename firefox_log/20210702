@@ -1,0 +1,802 @@
+[jds@TTY bin]$ ./firefox 
+-bash: ./firefox: No such file or directory
+[jds@TTY bin]$ cd ./bin
+-bash: cd: ./bin: No such file or directory
+[jds@TTY bin]$ cd bin
+-bash: cd: bin: No such file or directory
+[jds@TTY bin]$ ls
+appletviewer.policy  fsnotifier64       idea.png         idea.svg        libdbm64.so  ltedit.sh    soapui-errors.log
+format.sh            global-groovy.log  idea.properties  idea.vmoptions  logs         printenv.py  soapui.log
+fsnotifier           idea64.vmoptions   idea.sh          inspect.sh      log.xml      restart.py
+[jds@TTY bin]$ cd /bin
+[jds@TTY bin]$ ./firefox
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:726): Gdk-WARNING **: 04:14:03.209: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:03.209: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:03.209: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:03.214: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:05.771: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:05.771: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:05.771: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:05.771: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:09.575: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:09.575: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:09.575: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:726): Gdk-WARNING **: 04:14:09.575: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+[jds@TTY bin]$ ./firefox
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+[Child 140375, MediaDecoderStateMachine #1] WARNING: Decoder=7fb3069d8400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox/src/firefox-89.0.2/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 140375, MediaDecoderStateMachine #1] WARNING: Decoder=7fb3069d8400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox/src/firefox-89.0.2/dom/media/MediaDecoderStateMachine.cpp:3490
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: Opening and ending tag mismatch: famil line 0 and family
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+[286042:286042:0629/051134.982296:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5F0001,name=PIdleScheduler::Msg_IdleTime) Channel error: cannot send/recv
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:43577): Gdk-WARNING **: 07:14:28.566: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:28.566: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:28.566: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:28.568: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:28.703: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:28.703: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:28.703: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:28.705: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:29.382: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:29.386: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:29.386: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:29.388: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:35.514: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:35.514: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:35.514: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:35.515: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:38.743: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:38.743: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:38.743: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:38.744: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:39.983: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:39.983: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:39.983: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:39.983: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:42.510: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:42.510: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:42.511: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:42.511: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:50.467: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:50.467: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:50.467: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:50.468: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:56.847: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:56.847: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:56.847: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:56.847: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:57.614: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:57.615: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:57.615: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:43577): Gdk-WARNING **: 07:14:57.615: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+[jds@TTY bin]$ 

@@ -1,0 +1,764 @@
+(firefox:541046): GLib-GObject-WARNING **: 17:45:44.436: ../glib/gobject/gsignal.c:3598: signal name 'load_complete' is invalid for instance '0x7facab5ab9b0' of type 'MaiAtkType139'
+
+(firefox:541046): GLib-GObject-WARNING **: 17:45:44.442: ../glib/gobject/gsignal.c:3598: signal name 'load_complete' is invalid for instance '0x7facab5abf50' of type 'MaiAtkType139'
+
+(firefox:541046): GLib-GObject-CRITICAL **: 17:45:44.448: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:541046): GLib-GObject-CRITICAL **: 17:45:44.450: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:541046): GLib-GObject-CRITICAL **: 17:45:44.451: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:541046): GLib-GObject-CRITICAL **: 17:45:44.452: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:541046): GLib-GObject-CRITICAL **: 17:45:44.452: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:541046): GLib-GObject-CRITICAL **: 17:45:44.600: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:541046): GLib-GObject-CRITICAL **: 17:45:44.834: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:541046): GLib-GObject-CRITICAL **: 17:45:54.706: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:541046): GLib-GObject-CRITICAL **: 17:46:30.489: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:541046): Gdk-WARNING **: 12:47:30.806: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:30.807: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:30.807: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:30.817: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:30.963: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:30.963: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:30.963: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:30.964: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:32.953: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:32.954: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:32.954: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:32.966: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:35.396: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:35.396: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:35.396: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:35.404: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:46.479: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:46.479: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:46.479: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:46.484: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:46.729: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:46.729: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:46.729: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:46.738: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:47.440: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:47.440: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:47.440: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:47.444: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:48.958: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:48.960: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:48.961: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:47:48.970: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:48:05.044: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:48:05.044: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:48:05.045: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 12:48:05.053: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:541046): Gdk-WARNING **: 21:51:49.306: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 21:51:49.306: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 21:51:49.306: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 21:51:49.312: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 21:51:51.365: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 21:51:51.365: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 21:51:51.365: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 21:51:51.372: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:10:42.224: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:10:42.224: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:10:42.224: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:10:42.231: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:10:43.379: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:10:43.379: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:10:43.379: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:10:43.381: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:16:51.444: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:16:51.449: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:16:51.449: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 22:16:51.458: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:541046): Gdk-WARNING **: 11:15:45.633: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:45.642: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:45.642: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:45.645: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:49.086: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:49.086: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:49.086: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:49.107: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:50.565: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:50.565: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:50.565: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:15:50.568: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:02.405: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:02.405: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:02.405: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:02.406: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:03.570: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:03.570: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:03.570: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:03.570: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:05.492: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:05.492: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:05.506: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:05.543: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.403: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.403: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.403: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.406: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.580: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.580: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.581: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.586: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.760: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.762: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.762: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:20.781: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:21.215: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:21.216: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:21.216: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:16:21.217: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:18:33.279: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:18:33.282: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:18:33.282: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:18:33.286: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:18:37.581: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:18:37.581: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:18:37.581: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:18:37.582: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:22:14.117: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:22:14.125: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:22:14.125: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:22:14.128: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:541046): Gdk-WARNING **: 11:44:20.829: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:20.829: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:20.830: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:20.848: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:20.961: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:20.962: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:20.962: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:20.963: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:21.557: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:21.557: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:21.557: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:21.604: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.543: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.543: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.543: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.574: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.742: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.742: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.742: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.751: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.903: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.903: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.903: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 11:44:22.904: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:541046): Gdk-WARNING **: 14:51:21.290: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:21.298: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:21.299: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:21.336: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:23.806: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:23.806: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:23.806: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:23.816: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:26.595: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:26.595: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:26.595: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:26.601: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:27.410: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:27.410: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:27.410: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:51:27.425: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:541046): Gdk-WARNING **: 14:55:10.428: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:55:10.428: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:55:10.428: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:55:10.429: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.843: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.843: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.843: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.848: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.908: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.908: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.908: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.913: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.962: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.962: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:39.962: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.004: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.029: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.030: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.031: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.033: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.086: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.086: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.086: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.101: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.140: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.141: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.141: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.142: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.154: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.155: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.155: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.157: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.203: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.203: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.203: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.210: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.246: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.246: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.246: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 14:57:40.247: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:02:56.415: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:02:56.415: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:02:56.415: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:02:56.418: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:02:56.615: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:02:56.615: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:02:56.615: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:02:56.616: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:03:07.060: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:03:07.062: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:03:07.062: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:03:07.063: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:11:38.673: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:11:38.673: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:11:38.673: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:11:38.674: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:11:41.346: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:11:41.368: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:11:41.368: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:541046): Gdk-WARNING **: 15:11:41.371: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+[Child 896636, MediaDecoderStateMachine #1] WARNING: Decoder=7fd35b2c9400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()() const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /build/firefox/src/firefox-89.0/dom/media/MediaDecoderStateMachine.cpp:3490
+[Child 896636, MediaDecoderStateMachine #1] WARNING: Decoder=7fd35b2cb400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()() const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /build/firefox/src/firefox-89.0/dom/media/MediaDecoderStateMachine.cpp:3490
+[Child 896636, MediaDecoderStateMachine #1] WARNING: Decoder=7fd35b4de800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()() const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /build/firefox/src/firefox-89.0/dom/media/MediaDecoderStateMachine.cpp:3490
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+

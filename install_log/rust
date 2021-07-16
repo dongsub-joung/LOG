@@ -1,0 +1,112 @@
+[jds@TTY opt]$ su
+Password: 
+[root@TTY opt]# ls
+apache-tomcat-8.5.66  idea-IU-211.7142.45  nordvpn-bin	yay
+google-chrome	      intltool-0.51.0	   snapd
+[root@TTY opt]# pacman -S ripgrep
+resolving dependencies...
+looking for conflicting packages...
+
+Package (1)        New Version  Net Change  Download Size
+
+community/ripgrep  13.0.0-2       4.42 MiB       1.29 MiB
+
+Total Download Size:   1.29 MiB
+Total Installed Size:  4.42 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ ripgrep-13.0.0-2-x86_64   1316.7 KiB   896 KiB/s 00:01 [##############################] 100%
+(1/1) checking keys in keyring                          [##############################] 100%
+(1/1) checking package integrity                        [##############################] 100%
+(1/1) loading package files                             [##############################] 100%
+(1/1) checking for file conflicts                       [##############################] 100%
+(1/1) checking available disk space                     [##############################] 100%
+:: Processing package changes...
+(1/1) installing ripgrep                                [##############################] 100%
+:: Running post-transaction hooks...
+(1/1) Arming ConditionNeedsUpdate...
+[root@TTY opt]# curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+info: downloading installer
+
+Welcome to Rust!
+
+This will download and install the official compiler for the Rust
+programming language, and its package manager, Cargo.
+
+Rustup metadata and toolchains will be installed into the Rustup
+home directory, located at:
+
+  /root/.rustup
+
+This can be modified with the RUSTUP_HOME environment variable.
+
+The Cargo home directory located at:
+
+  /root/.cargo
+
+This can be modified with the CARGO_HOME environment variable.
+
+The cargo, rustc, rustup and other commands will be added to
+Cargo's bin directory, located at:
+
+  /root/.cargo/bin
+
+This path will then be added to your PATH environment variable by
+modifying the profile file located at:
+
+  /root/.profile
+
+You can uninstall at any time with rustup self uninstall and
+these changes will be reverted.
+
+Current installation options:
+
+
+   default host triple: x86_64-unknown-linux-gnu
+     default toolchain: stable (default)
+               profile: default
+  modify PATH variable: yes
+
+1) Proceed with installation (default)
+2) Customize installation
+3) Cancel installation
+>1
+
+info: profile set to 'default'
+info: default host triple is x86_64-unknown-linux-gnu
+info: syncing channel updates for 'stable-x86_64-unknown-linux-gnu'
+info: latest update on 2021-06-17, rust version 1.53.0 (53cb7b09b 2021-06-17)
+info: downloading component 'cargo'
+info: downloading component 'clippy'
+info: downloading component 'rust-docs'
+ 16.1 MiB /  16.1 MiB (100 %)  11.2 MiB/s in  1s ETA:  0s
+info: downloading component 'rust-std'
+ 25.3 MiB /  25.3 MiB (100 %)  11.2 MiB/s in  2s ETA:  0s
+info: downloading component 'rustc'
+ 48.4 MiB /  48.4 MiB (100 %)  11.2 MiB/s in  4s ETA:  0s
+info: downloading component 'rustfmt'
+info: installing component 'cargo'
+  6.0 MiB /   6.0 MiB (100 %)   5.3 MiB/s in  1s ETA:  0s
+info: installing component 'clippy'
+info: installing component 'rust-docs'
+ 16.1 MiB /  16.1 MiB (100 %)   1.7 MiB/s in 10s ETA:  0s
+info: installing component 'rust-std'
+ 25.3 MiB /  25.3 MiB (100 %)   5.0 MiB/s in  5s ETA:  0s
+info: installing component 'rustc'
+ 48.4 MiB /  48.4 MiB (100 %)   5.2 MiB/s in  8s ETA:  0s
+info: installing component 'rustfmt'
+info: default toolchain set to 'stable-x86_64-unknown-linux-gnu'
+
+  stable-x86_64-unknown-linux-gnu installed - rustc 1.53.0 (53cb7b09b 2021-06-17)
+
+
+Rust is installed now. Great!
+
+To get started you may need to restart your current shell.
+This would reload your PATH environment variable to include
+Cargo's bin directory ($HOME/.cargo/bin).
+
+To configure your current shell, run:
+source $HOME/.cargo/env
+[root@TTY opt]# 

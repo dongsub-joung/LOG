@@ -1,0 +1,949 @@
+	class: Navigator
+	Bit depth: 32
+	Found proper GLXFBConfig (in 24): yes
+
+QObject::connect: No such signal QLineEdit::editingFinished(const QString &)
+QObject::connect:  (sender name:   'customServer')
+QObject::connect:  (receiver name: 'OBSBasicSettings')
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/
+Attempted path: /usr/share/obs/obs-studio/themes/
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 1780, resource id: 13137381, major code: 40 (TranslateCoords), minor code: 0
+info: [rtmp stream: 'simple_stream'] User stopped the stream
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 4770954
+info: Output 'simple_stream': Total drawn frames: 4770143 (4771076 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 933 (0.0%)
+info: Video stopped, number of skipped frames due to encoding lag: 30239/4771052 (0.6%)
+info: ==== Streaming Stop ================================================
+info: libfdk_aac encoder destroyed
+QObject::connect: No such signal QLineEdit::editingFinished(const QString &)
+QObject::connect:  (sender name:   'customServer')
+QObject::connect:  (receiver name: 'OBSBasicSettings')
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/
+Attempted path: /usr/share/obs/obs-studio/themes/
+info: Settings changed (stream 1)
+info: ------------------------------------------------
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Streaming Start ===============================================
+info: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+	title: そにアニ　-SUPER SONICO THE ANIMATION- [第1話無料] - ニコニコチャンネル:アニメ — Mozilla Firefox
+	class: Navigator
+	Bit depth: 32
+	Found proper GLXFBConfig (in 24): yes
+
+info: User Removed source 'Window Capture (Xcomposite) 2' (xcomposite_input) from scene 'Scene'
+error: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 7086370
+error: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 7086371
+info: User Removed source 'Video Capture Device (V4L2)' (v4l2_input) from scene 'Scene'
+info: pulse-input: Server name: 'pulseaudio 14.2'
+info: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+info: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+info: User added source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) to scene 'Scene'
+info: User Removed source 'Audio Input Capture (PulseAudio)' (pulse_input_capture) from scene 'Scene'
+info: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+info: pulse-input: Got 3191 packets with 1407440 frames
+info: User added source 'Window Capture (Xcomposite) 2' (xcomposite_input) to scene 'Scene'
+info: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+	title: xfce4-panel
+	class: xfce4-panel
+	Bit depth: 32
+	Found proper GLXFBConfig (in 24): yes
+
+info: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+	title: xfce4-panel
+	class: xfce4-panel
+	Bit depth: 32
+	Found proper GLXFBConfig (in 24): yes
+
+info: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+	title: xfce4-panel
+	class: xfce4-panel
+	Bit depth: 32
+	Found proper GLXFBConfig (in 24): yes
+
+info: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+	title: xfce4-panel
+	class: xfce4-panel
+	Bit depth: 32
+	Found proper GLXFBConfig (in 24): yes
+
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 27596, resource id: 13029308, major code: 40 (TranslateCoords), minor code: 0
+info: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+	title: xfce4-panel
+	class: xfce4-panel
+	Bit depth: 32
+	Found proper GLXFBConfig (in 24): yes
+
+info: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+	title: xfce4-panel
+	class: xfce4-panel
+	Bit depth: 32
+	Found proper GLXFBConfig (in 24): yes
+
+info: xcompcap: [window-capture: 'Window Capture (Xcomposite) 2'] update settings:
+	title: xfce4-panel
+	class: xfce4-panel
+	Bit depth: 32
+	Found proper GLXFBConfig (in 24): yes
+
+info: User Removed source 'Window Capture (Xcomposite) 2' (xcomposite_input) from scene 'Scene'
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 31742, resource id: 13035417, major code: 40 (TranslateCoords), minor code: 0
+info: xshm-input: Geometry 1366x768 @ 249,1080
+info: User added source 'Screen Capture (XSHM) 2' (xshm_input) to scene 'Scene'
+info: xshm-input: Geometry 1920x1080 @ 0,0
+info: xshm-input: Geometry 1920x1080 @ 0,0
+info: v4l2-input: Start capture from 
+error: v4l2-input: Unable to open device
+error: v4l2-input: Initialization failed
+info: User added source 'Video Capture Device (V4L2) 2' (v4l2_input) to scene 'Scene'
+info: v4l2-input: /dev/video1 seems to not support video capture
+info: v4l2-input: Found device 'LG HD Webcam: LG HD Webcam' at /dev/video0
+info: v4l2-input: Found input 'Camera 1' (Index 0)
+info: v4l2-input: Start capture from /dev/video0
+info: v4l2-input: Input: 0
+info: v4l2-input: Resolution: 640x480
+info: v4l2-input: Pixelformat: YUYV
+info: v4l2-input: Linesize: 1280 Bytes
+info: v4l2-input: Framerate: 30.00 fps
+error: v4l2-helpers: Request for buffers failed !
+error: v4l2-input: Failed to map buffers
+error: v4l2-input: Initialization failed
+info: v4l2-controls: setting default for Power Line Frequency to 2
+info: v4l2-controls: setting default for Exposure, Auto to 3
+info: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+info: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+info: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+info: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+info: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+info: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+info: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+info: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+info: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+info: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+info: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+info: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+info: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+info: v4l2-input: Start capture from /dev/video0
+info: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+error: v4l2-input: Unable to set input 0
+error: v4l2-input: Initialization failed
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+info: v4l2-input: Start capture from /dev/video0
+error: v4l2-input: Unable to set input 0
+error: v4l2-input: Initialization failed
+info: User Removed source 'Video Capture Device (V4L2) 2' (v4l2_input) from scene 'Scene'
+info: v4l2-input: Start capture from 
+error: v4l2-input: Unable to open device
+error: v4l2-input: Initialization failed
+info: User added source 'Video Capture Device (V4L2) 2' (v4l2_input) to scene 'Scene'
+info: v4l2-input: /dev/video1 seems to not support video capture
+info: v4l2-input: Found device 'LG HD Webcam: LG HD Webcam' at /dev/video0
+info: v4l2-input: Found input 'Camera 1' (Index 0)
+info: v4l2-controls: setting default for Power Line Frequency to 2
+info: v4l2-controls: setting default for Exposure, Auto to 3
+info: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+info: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+info: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+info: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+info: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+info: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+info: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+info: v4l2-input: Start capture from /dev/video0
+info: v4l2-input: Input: 0
+info: v4l2-input: Resolution: 640x480
+info: v4l2-input: Pixelformat: YUYV
+info: v4l2-input: Linesize: 1280 Bytes
+info: v4l2-input: Framerate: 30.00 fps
+error: v4l2-helpers: Request for buffers failed !
+error: v4l2-input: Failed to map buffers
+error: v4l2-input: Initialization failed
+info: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+info: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+info: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+info: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+info: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+info: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+info: v4l2-input: Start capture from /dev/video0
+info: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+error: v4l2-input: Unable to set input 0
+error: v4l2-input: Initialization failed
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+info: v4l2-input: Start capture from /dev/video0
+error: v4l2-input: Unable to set input 0
+error: v4l2-input: Initialization failed
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+info: v4l2-input: Start capture from /dev/video0
+error: v4l2-input: Unable to set input 0
+error: v4l2-input: Initialization failed
+info: v4l2-input: /dev/video1 seems to not support video capture
+info: v4l2-input: Found device 'LG HD Webcam: LG HD Webcam' at /dev/video0
+info: v4l2-input: Found input 'Camera 1' (Index 0)
+info: v4l2-controls: setting default for Power Line Frequency to 2
+info: v4l2-controls: setting default for Exposure, Auto to 3
+info: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+info: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+info: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+info: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+info: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+info: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+info: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+info: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+info: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+info: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+info: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+info: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+info: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+info: v4l2-input: Start capture from /dev/video0
+error: v4l2-input: Unable to set input 0
+error: v4l2-input: Initialization failed
+info: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+info: v4l2-input: Start capture from /dev/video0
+error: v4l2-input: Unable to set input 0
+error: v4l2-input: Initialization failed
+info: [rtmp stream: 'simple_stream'] User stopped the stream
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 141217
+info: Output 'simple_stream': Total drawn frames: 141120 (141281 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 161 (0.1%)
+info: Video stopped, number of skipped frames due to encoding lag: 1042/141257 (0.7%)
+info: ==== Streaming Stop ================================================
+info: libfdk_aac encoder destroyed
+info: ==== Shutting down ==================================================
+info: v4l2-input: /dev/video0: Stopped capture after 5922282 frames
+error: X Error: BadWindow (invalid Window parameter), Major opcode: BadValue (integer parameter out of range for operation), Minor opcode: 0, Serial: 7087697
+error: X Error: BadWindow (invalid Window parameter), Major opcode: 142, Minor opcode: BadWindow (invalid Window parameter), Serial: 7087698
+info: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+info: pulse-input: Got 52991290 packets with 15782542508 frames
+info: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+info: pulse-input: Got 35768746 packets with 15782565440 frames
+info: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+info: pulse-input: Got 35768724 packets with 15782542400 frames
+info: All scene data cleared
+info: ------------------------------------------------
+error: Failed to fetch parent window geometry!
+error: Failed to fetch parent window geometry!
+error: Failed to fetch parent window geometry!
+error: Failed to fetch parent window geometry!
+info: Freeing OBS context data
+info: == Profiler Results =============================
+info: run_program_init: 3238.4 ms
+info:  ┣OBSApp::AppInit: 3.347 ms
+info:  ┃ ┗OBSApp::InitLocale: 1.529 ms
+info:  ┗OBSApp::OBSInit: 1093.51 ms
+info:    ┣obs_startup: 21.015 ms
+info:    ┗OBSBasic::OBSInit: 1027.72 ms
+info:      ┣OBSBasic::InitBasicConfig: 0.155 ms
+info:      ┣OBSBasic::ResetAudio: 0.466 ms
+info:      ┣OBSBasic::ResetVideo: 88.149 ms
+info:      ┣OBSBasic::InitOBSCallbacks: 0.006 ms
+info:      ┣OBSBasic::InitHotkeys: 0.044 ms
+info:      ┣obs_load_all_modules: 53.812 ms
+info:      ┃ ┣obs_init_module(decklink-captions.so): 0.03 ms
+info:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.837 ms
+info:      ┃ ┣obs_init_module(image-source.so): 0.009 ms
+info:      ┃ ┣obs_init_module(linux-alsa.so): 0.004 ms
+info:      ┃ ┣obs_init_module(linux-capture.so): 0.845 ms
+info:      ┃ ┣obs_init_module(linux-decklink.so): 0.917 ms
+info:      ┃ ┣obs_init_module(linux-jack.so): 0.003 ms
+info:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.003 ms
+info:      ┃ ┣obs_init_module(linux-v4l2.so): 6.706 ms
+info:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.369 ms
+info:      ┃ ┃ ┗nvenc_check: 0.295 ms
+info:      ┃ ┣obs_init_module(obs-filters.so): 0.032 ms
+info:      ┃ ┣obs_init_module(obs-libfdk.so): 0.002 ms
+info:      ┃ ┣obs_init_module(obs-outputs.so): 0.003 ms
+info:      ┃ ┣obs_init_module(obs-transitions.so): 0.014 ms
+info:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+info:      ┃ ┣obs_init_module(rtmp-services.so): 0.721 ms
+info:      ┃ ┗obs_init_module(text-freetype2.so): 0.014 ms
+info:      ┣OBSBasic::ResetOutputs: 0.123 ms
+info:      ┣OBSBasic::CreateHotkeys: 0.045 ms
+info:      ┣OBSBasic::InitService: 1.612 ms
+info:      ┣OBSBasic::InitPrimitives: 0.228 ms
+info:      ┗OBSBasic::Load: 575.612 ms
+info: obs_hotkey_thread(25 ms): min=0.107 ms, median=0.366 ms, max=463.926 ms, 99th percentile=9.259 ms, 99.9387% below 25 ms
+info: audio_thread(Audio): min=0 ms, median=0.794 ms, max=55.451 ms, 99th percentile=4.941 ms
+info:  ┗receive_audio: min=0.002 ms, median=0.619 ms, max=43.642 ms, 99th percentile=3.984 ms, 1.05023 calls per parent call
+info:    ┣buffer_audio: min=0 ms, median=0.001 ms, max=12.508 ms, 99th percentile=0.004 ms
+info:    ┗do_encode: min=0.096 ms, median=0.612 ms, max=43.635 ms, 99th percentile=3.964 ms
+info:      ┗encode(simple_aac): min=0.091 ms, median=0.58 ms, max=33.605 ms, 99th percentile=3.703 ms
+info: obs_graphics_thread(33.3333 ms): min=0.131 ms, median=8.2 ms, max=495.41 ms, 99th percentile=25.998 ms, 99.7168% below 33.333 ms
+info:  ┣tick_sources: min=0 ms, median=6.016 ms, max=489.47 ms, 99th percentile=15.7 ms
+info:  ┣output_frame: min=0.109 ms, median=1.616 ms, max=131.778 ms, 99th percentile=13.004 ms
+info:  ┃ ┣gs_context(video->graphics): min=0.108 ms, median=1.121 ms, max=131.28 ms, 99th percentile=5.268 ms
+info:  ┃ ┃ ┣render_video: min=0.015 ms, median=0.907 ms, max=102.875 ms, 99th percentile=4.256 ms
+info:  ┃ ┃ ┃ ┣render_main_texture: min=0.013 ms, median=0.779 ms, max=66.969 ms, 99th percentile=3.735 ms
+info:  ┃ ┃ ┃ ┣render_output_texture: min=0.026 ms, median=0.032 ms, max=57.333 ms, 99th percentile=0.194 ms
+info:  ┃ ┃ ┃ ┣render_convert_texture: min=0.042 ms, median=0.054 ms, max=61.328 ms, 99th percentile=0.327 ms
+info:  ┃ ┃ ┃ ┗stage_output_texture: min=0.021 ms, median=0.029 ms, max=33.332 ms, 99th percentile=0.165 ms
+info:  ┃ ┃ ┣gs_flush: min=0.067 ms, median=0.169 ms, max=81.074 ms, 99th percentile=1.534 ms
+info:  ┃ ┃ ┗download_frame: min=0 ms, median=0.007 ms, max=27.007 ms, 99th percentile=0.024 ms
+info:  ┃ ┗output_video_data: min=0 ms, median=0.419 ms, max=62.667 ms, 99th percentile=10.836 ms
+info:  ┗render_displays: min=0.004 ms, median=0.024 ms, max=396.87 ms, 99th percentile=8.538 ms
+info: video_thread(video): min=0 ms, median=1.687 ms, max=1874.1 ms, 99th percentile=39.076 ms
+info:  ┗receive_video: min=1.007 ms, median=1.68 ms, max=360.507 ms, 99th percentile=40.18 ms
+info:    ┗do_encode: min=1.006 ms, median=1.678 ms, max=360.506 ms, 99th percentile=40.179 ms
+info:      ┗encode(simple_h264_stream): min=0.983 ms, median=1.604 ms, max=360.47 ms, 99th percentile=40.122 ms
+info: =================================================
+info: == Profiler Time Between Calls ==================
+info: obs_hotkey_thread(25 ms): min=25.158 ms, median=25.524 ms, max=495.057 ms, 47.3349% within ±2% of 25 ms (0% lower, 52.6651% higher)
+info: obs_graphics_thread(33.3333 ms): min=6.107 ms, median=33.333 ms, max=497.498 ms, 92.2122% within ±2% of 33.333 ms (3.91347% lower, 3.87435% higher)
+info: =================================================
+info: Number of memory leaks: 0
+^C
+[jds@TTY bin]$ ./obs
+Attempted path: share/obs/obs-studio/locale/en-US.ini
+Attempted path: /usr/share/obs/obs-studio/locale/en-US.ini
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/Dark.qss
+Attempted path: /usr/share/obs/obs-studio/themes/Dark.qss
+info: CPU Name: Intel(R) Pentium(R) CPU 2020M @ 2.40GHz
+info: CPU Speed: 2217.593MHz
+info: Physical Cores: 2, Logical Cores: 2
+info: Physical Memory: 3806MB Total, 780MB Free
+info: Kernel Version: Linux 5.12.15-arch1-1
+info: Distribution: "Arch Linux" Unknown
+info: Session Type: x11
+info: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.12
+info: Portable mode: false
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Attempted path: share/obs/obs-studio/themes/Dark/no_sources.svg
+Attempted path: /usr/share/obs/obs-studio/themes/Dark/no_sources.svg
+QMetaObject::connectSlotsByName: No matching signal for on_tbar_position_valueChanged(int)
+QMetaObject::connectSlotsByName: No matching signal for on_actionShowTransitionProperties_triggered()
+QMetaObject::connectSlotsByName: No matching signal for on_actionHideTransitionProperties_triggered()
+info: OBS 27.0.1-1 (linux)
+info: ---------------------------------
+info: ---------------------------------
+info: audio settings reset:
+	samples per sec: 44100
+	speakers:        2
+info: ---------------------------------
+info: Initializing OpenGL...
+info: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 2500 (IVB GT1)
+info: OpenGL loaded successfully, version 4.2 (Core Profile) Mesa 21.1.4, shading language 4.20
+info: ---------------------------------
+info: video settings reset:
+	base resolution:   1365x768
+	output resolution: 1364x768
+	downscale filter:  Bicubic
+	fps:               30/1
+	format:            NV12
+	YUV mode:          709/Partial
+info: NV12 texture support not available
+info: Audio monitoring device:
+	name: Default
+	id: default
+info: ---------------------------------
+warning: Failed to load 'en-US' text for module: 'decklink-captions.so'
+warning: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+error: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: cannot open shared object file: No such file or directory
+
+warning: Module '/usr//lib/obs-plugins/frontend-tools.so' not loaded
+libDeckLinkAPI.so: cannot open shared object file: No such file or directory
+warning: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+info: No blackmagic support
+warning: v4l2loopback not installed, virtual camera disabled
+error: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+
+info: FFMPEG VAAPI supported
+error: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7.1: cannot open shared object file: No such file or directory
+
+warning: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+info: ---------------------------------
+info:   Loaded Modules:
+info:     text-freetype2.so
+info:     rtmp-services.so
+info:     obs-x264.so
+info:     obs-transitions.so
+info:     obs-outputs.so
+info:     obs-libfdk.so
+info:     obs-filters.so
+info:     obs-ffmpeg.so
+info:     linux-v4l2.so
+info:     linux-pulseaudio.so
+info:     linux-jack.so
+info:     linux-decklink.so
+info:     linux-capture.so
+info:     linux-alsa.so
+info:     image-source.so
+info:     decklink-ouput-ui.so
+info:     decklink-captions.so
+info: ---------------------------------
+info: ==== Startup complete ===============================================
+info: All scene data cleared
+info: ------------------------------------------------
+info: pulse-input: Server name: 'pulseaudio 14.2'
+info: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+info: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+info: [Loaded global audio device]: 'Desktop Audio'
+info: pulse-input: Server name: 'pulseaudio 14.2'
+info: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+info: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+info: [Loaded global audio device]: 'Mic/Aux'
+info: pulse-input: Server name: 'pulseaudio 14.2'
+info: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+info: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+info: [Loaded global audio device]: 'Mic/Aux 2'
+info: v4l2-input: Start capture from /dev/video0
+info: v4l2-input: Input: 0
+info: v4l2-input: Resolution: 640x480
+info: v4l2-input: Pixelformat: YUYV
+info: v4l2-input: Linesize: 1280 Bytes
+info: v4l2-input: Framerate: 30.00 fps
+info: v4l2-input: /dev/video0: select timeout set to 166666us (5x frame periods)
+info: xshm-input: Geometry 1920x1080 @ 0,0
+info: xshm-input: Geometry 1366x768 @ 249,1080
+info: xshm-input: Geometry 1366x768 @ 249,1080
+[swscaler @ 0x564b05be8280] deprecated pixel format used, make sure you did set range correctly
+error: v4l2-input: /dev/video0: select timed out                 
+error: v4l2-input: /dev/video0: failed to log status
+[swscaler @ 0x564b05d63500] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x564b06242dc0] deprecated pixel format used, make sure you did set range correctly
+info: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Mic/Aux)
+
+info: v4l2-input: Start capture from /dev/video0
+error: v4l2-input: Unable to set input 0
+error: v4l2-input: Initialization failed
+info: Switched to scene 'Scene'
+info: ------------------------------------------------
+info: Loaded scenes:
+info: - scene 'Scene':
+info:     - source: 'Image 2' (image_source)
+info:     - source: 'Image 3' (image_source)
+info:     - source: 'Image 4' (image_source)
+info:     - source: 'Image 5' (image_source)
+info:     - source: 'Image' (image_source)
+info:     - source: 'Screen Capture (XSHM)' (xshm_input)
+info:     - source: 'Image 7' (image_source)
+info:     - source: 'Image 13' (image_source)
+info:     - source: 'Image 6' (image_source)
+info:     - source: 'Image 12' (image_source)
+info:     - source: 'Image 11' (image_source)
+info:     - source: 'Screen Capture (XSHM) 2' (xshm_input)
+info:     - source: 'Video Capture Device (V4L2) 2' (v4l2_input)
+info: - scene 'Scene 2':
+info:     - source: 'Image 6' (image_source)
+info:     - source: 'Image 3' (image_source)
+info:     - source: 'Image 4' (image_source)
+info:     - source: 'Image 2' (image_source)
+info:     - source: 'Image 5' (image_source)
+info:     - source: 'Image 8' (image_source)
+info:     - source: 'Image' (image_source)
+info:     - source: 'Image 9' (image_source)
+info:     - source: 'Image Slide Show' (slideshow)
+info:     - source: 'Image 11' (image_source)
+info:     - source: 'Image 12' (image_source)
+info:     - source: 'Image 13' (image_source)
+info:     - source: 'Image 7' (image_source)
+info:     - source: 'Text (FreeType 2)' (text_ft2_source_v2)
+info:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+info:     - source: 'Screen Capture (XSHM) 3' (xshm_input)
+info:     - source: 'Window Capture (Xcomposite)' (xcomposite_input)
+info: ------------------------------------------------
+Attempted path: share/obs/obs-studio/images/overflow.png
+Attempted path: /usr/share/obs/obs-studio/images/overflow.png
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Streaming Start ===============================================
+info: [rtmp stream: 'simple_stream'] User stopped the stream
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 2300
+info: Output 'simple_stream': Total drawn frames: 2388 (2400 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 12 (0.5%)
+info: ==== Streaming Stop ================================================
+info: Video stopped, number of skipped frames due to encoding lag: 1959/2331 (84.0%)
+info: libfdk_aac encoder destroyed
+QObject::connect: No such signal QLineEdit::editingFinished(const QString &)
+QObject::connect:  (sender name:   'customServer')
+QObject::connect:  (receiver name: 'OBSBasicSettings')
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/
+Attempted path: /usr/share/obs/obs-studio/themes/
+info: Settings changed (stream 1)
+info: ------------------------------------------------
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 29445, resource id: 12812150, major code: 40 (TranslateCoords), minor code: 0
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Streaming Start ===============================================
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+		info: User Removed source 'Video Capture Device (V4L2) 2' (v4l2_input) from scene 'Scene'
+info: v4l2-input: /dev/video0: Stopped capture after 1199957 frames
+info: v4l2-input: Start capture from 
+error: v4l2-input: Unable to open device
+error: v4l2-input: Initialization failed
+info: User added source 'Video Capture Device (V4L2) 2' (v4l2_input) to scene 'Scene'
+info: v4l2-input: /dev/video1 seems to not support video capture
+info: v4l2-input: Found device 'LG HD Webcam: LG HD Webcam' at /dev/video0
+info: v4l2-input: Found input 'Camera 1' (Index 0)
+info: v4l2-controls: setting default for Power Line Frequency to 2
+info: v4l2-controls: setting default for Exposure, Auto to 3
+info: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+info: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+info: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+info: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+info: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+info: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+info: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+info: v4l2-input: Start capture from /dev/video0
+info: v4l2-input: Input: 0
+info: v4l2-input: Resolution: 640x480
+info: v4l2-input: Pixelformat: YUYV
+info: v4l2-input: Linesize: 1280 Bytes
+info: v4l2-input: Framerate: 30.00 fps
+info: v4l2-input: /dev/video0: select timeout set to 166666us (5x frame periods)
+info: v4l2-input: Pixelformat: YUYV 4:2:2 (available)
+info: v4l2-input: Pixelformat: Motion-JPEG (unavailable)
+info: v4l2-input: Pixelformat: RGB3 (Emulated) (unavailable)
+info: v4l2-input: Pixelformat: BGR3 (Emulated) (available)
+info: v4l2-input: Pixelformat: YU12 (Emulated) (available)
+info: v4l2-input: Pixelformat: YV12 (Emulated) (available)
+info: v4l2-input: Stepwise and Continuous framesizes are currently hardcoded
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+info: v4l2-input: Stepwise and Continuous framerates are currently hardcoded
+error: v4l2-input: /dev/video0: select timed out
+error: v4l2-input: /dev/video0: failed to log status
+info: WriteN, RTMP send error 104 (4097 bytes)
+info: WriteN, RTMP send error 32 (59 bytes)
+info: WriteN, RTMP send error 9 (42 bytes)
+info: [rtmp stream: 'simple_stream'] Disconnected from rtmps://a.rtmps.youtube.com:443/live2
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 2296564 (2300312 attempted)
+info: Output 'simple_stream': Total drawn frames: 2299235 (2300442 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 1207 (0.1%)
+info: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 3748 (0.2%)
+info: Output 'simple_stream':  Reconnecting in 10 seconds..
+info: Video stopped, number of skipped frames due to encoding lag: 58704/2300420 (2.6%)
+info: [rtmp stream: 'simple_stream'] Freeing 5535 remaining packets
+info: libfdk_aac encoder destroyed
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: WriteN, RTMP send error 104 (1952 bytes)
+info: WriteN, RTMP send error 32 (59 bytes)
+info: WriteN, RTMP send error 9 (42 bytes)
+info: [rtmp stream: 'simple_stream'] Disconnected from rtmps://a.rtmps.youtube.com:443/live2
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 242284 (246032 attempted)
+info: Output 'simple_stream': Total drawn frames: 246071 (246074 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 3 (0.0%)
+info: Output 'simple_stream': Number of dropped frames due to insufficient bandwidth/connection stalls: 3748 (1.5%)
+info: Output 'simple_stream':  Reconnecting in 10 seconds..
+info: [rtmp stream: 'simple_stream'] Freeing 5537 remaining packets
+info: libfdk_aac encoder destroyed
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Recording Start ===============================================
+info: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jds/record/2021-07-16 22-23-55.mkv'...
+info: Output format name and long_name: matroska, Matroska
+info: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jds/record/2021-07-16 22-23-55.mkv' stopped
+info: Output 'simple_file_output': stopping
+info: Output 'simple_file_output': Total frames output: 2157
+info: Output 'simple_file_output': Total drawn frames: 2218 (2220 attempted)
+info: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 2 (0.1%)
+info: ==== Recording Stop ================================================
+info: [rtmp stream: 'simple_stream'] User stopped the stream
+info: Output 'simple_stream': stopping
+info: Output 'simple_stream': Total frames output: 648869
+info: Output 'simple_stream': Total drawn frames: 648924 (649014 attempted)
+info: Output 'simple_stream': Number of lagged frames due to rendering lag/stalls: 90 (0.0%)
+info: [rtmp stream: 'simple_stream'] Freeing 1 remaining packets
+info: Video stopped, number of skipped frames due to encoding lag: 4345/648991 (0.7%)
+info: ==== Streaming Stop ================================================
+info: libfdk_aac encoder destroyed
+QObject::connect: No such signal QLineEdit::editingFinished(const QString &)
+QObject::connect:  (sender name:   'customServer')
+QObject::connect:  (receiver name: 'OBSBasicSettings')
+Attempted path: share/obs/obs-studio/locale.ini
+Attempted path: /usr/share/obs/obs-studio/locale.ini
+Attempted path: share/obs/obs-studio/themes/
+Attempted path: /usr/share/obs/obs-studio/themes/
+info: Settings changed (stream 1)
+info: ------------------------------------------------
+qt.qpa.xcb: QXcbConnection: XCB error: 3 (BadWindow), sequence: 42331, resource id: 12749552, major code: 40 (TranslateCoords), minor code: 0
+info: ---------------------------------
+info: [x264 encoder: 'simple_h264_stream'] preset: veryfast
+info: [x264 encoder: 'simple_h264_stream'] settings:
+	rate_control: CBR
+	bitrate:      1450
+	buffer size:  1450
+	crf:          23
+	fps_num:      30
+	fps_den:      1
+	width:        1364
+	height:       768
+	keyint:       60
+
+info: libfdk_aac encoder created
+info: libfdk_aac bitrate: 160, channels: 2
+info: [rtmp stream: 'simple_stream'] Connecting to RTMP URL rtmps://a.rtmps.youtube.com:443/live2...
+info: [rtmp stream: 'simple_stream'] Connection to rtmps://a.rtmps.youtube.com:443/live2 successful
+info: ==== Streaming Start ===============================================
+
