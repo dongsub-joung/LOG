@@ -1,0 +1,114 @@
+[jds@TTY ~]$ su
+Password: 
+[root@TTY jds]# pacman --Sync --refresh --sysupgrade
+pacman: unrecognized option '--Sync'
+[root@TTY jds]# pacman --sync --refresh --sysupgrade
+:: Synchronizing package databases...
+ core                  133.6 KiB   124 KiB/s 00:01 [######################] 100%
+ extra                1567.0 KiB  1138 KiB/s 00:01 [######################] 100%
+ community               5.6 MiB  2.93 MiB/s 00:02 [######################] 100%
+:: Starting full system upgrade...
+resolving dependencies...
+looking for conflicting packages...
+
+warning: insufficient columns available for table display
+Packages (18) ca-certificates-mozilla-3.68-1  firefox-90.0-1  js78-78.12.0-1
+              less-1:590-1  libwacom-1.11-1  mbedtls-2.27.0-1  mkinitcpio-30-2
+              mpg123-1.28.2-1  nss-3.68-1  obs-studio-27.0.1-2  pacman-6.0.0-5
+              qt5-base-5.15.2+kde+r210-1  systemd-249-3  systemd-libs-249-3
+              systemd-sysvcompat-249-3  tdb-1.4.4-1
+              vulkan-icd-loader-1.2.183-1  xorg-xwayland-21.1.2-1
+
+Total Download Size:   100.94 MiB
+Total Installed Size:  416.93 MiB
+Net Upgrade Size:        1.45 MiB
+
+:: Proceed with installation? [Y/n] y
+:: Retrieving packages...
+ systemd-libs-249...   575.1 KiB   460 KiB/s 00:01 [######################] 100%
+ ca-certificates-mozilla-3.68-1-...     0.0   B  0.00   B/s --:-- [------------------------------------]   0 ca-certificates-mozilla-3.68-1...   325.8 KiB   308 KiB/s 00:01 [####################################] 100%
+ nss-3.68-1-x86_64                  1574.0 KiB  1199 KiB/s 00:01 [####################################] 100% s sy  vulkan-icd-loader-1.2.183-1-x86_64      109.0 KiB   138 KiB/s 00:01 [######################################] 100%
+ tdb-1.4.4-1-x86_64                       73.2 KiB   100 KiB/s 00:01 [######################################] 100%
+ firefox-90.0-1-x86_64                      60.4 MiB  8.44 MiB/s 00:07 [########################################] 100%
+ js78-78.12.0-1-x86_64                      10.5 MiB  4.24 MiB/s 00:02 [########################################] 100%
+ less-1:590-1-x86_64                       115.1 KiB   133 KiB/s 00:01 [########################################] 100%
+ libwacom-1.11-1-x86_64                    101.6 KiB   126 KiB/s 00:01 [########################################] 100%
+ mbedtls-2.27.0-1-x86_64                   933.3 KiB   789 KiB/s 00:01 [########################################] 100%
+ mkinitcpio-30-2-any                        41.6 KiB  64.1 KiB/s 00:01 [########################################] 100%
+ mpg123-1.28.2-1-x86_64                    432.7 KiB   406 KiB/s 00:01 [########################################] 100%
+ qt5-base-5.15.2+kde+r210-1-x86_64          13.0 MiB  5.35 MiB/s 00:02 [########################################] 100%
+ obs-studio-27.0.1-2-x86_64                  4.7 MiB  2.69 MiB/s 00:02 [########################################] 100%
+ pacman-6.0.0-5-x86_64                     892.4 KiB   744 KiB/s 00:01 [########################################] 100%
+ systemd-sysvcompat-249-3-x86_64             5.6 KiB  13.5 KiB/s 00:00 [########################################] 100%
+ xorg-xwayland-21.1.2-1-x86_64             882.5 KiB   731 KiB/s 00:01 [########################################] 100%
+ Total (18/18)                             100.9 MiB  2.83 MiB/s 00:36 [########################################] 100%
+(18/18) checking keys in keyring                                       [########################################] 100%
+(18/18) checking package integrity                                     [########################################] 100%
+(18/18) loading package files                                          [########################################] 100%
+(18/18) checking for file conflicts                                    [########################################] 100%
+(18/18) checking available disk space                                  [########################################] 100%
+:: Processing package changes...
+( 1/18) upgrading systemd-libs                                         [########################################] 100%
+( 2/18) upgrading ca-certificates-mozilla                              [########################################] 100%
+( 3/18) upgrading nss                                                  [########################################] 100%
+( 4/18) upgrading systemd                                              [########################################] 100%
+( 5/18) upgrading vulkan-icd-loader                                    [########################################] 100%
+( 6/18) upgrading tdb                                                  [########################################] 100%
+( 7/18) upgrading firefox                                              [########################################] 100%
+( 8/18) upgrading js78                                                 [########################################] 100%
+( 9/18) upgrading less                                                 [########################################] 100%
+(10/18) upgrading libwacom                                             [########################################] 100%
+(11/18) upgrading mbedtls                                              [########################################] 100%
+(12/18) upgrading mkinitcpio                                           [########################################] 100%
+(13/18) upgrading mpg123                                               [########################################] 100%
+(14/18) upgrading qt5-base                                             [########################################] 100%
+(15/18) upgrading obs-studio                                           [########################################] 100%
+(16/18) upgrading pacman                                               [########################################] 100%
+(17/18) upgrading systemd-sysvcompat                                   [########################################] 100%
+(18/18) upgrading xorg-xwayland                                        [########################################] 100%
+:: Running post-transaction hooks...
+( 1/13) Creating system user accounts...
+( 2/13) Updating journal message catalog...
+( 3/13) Reloading system manager configuration...
+( 4/13) Updating udev hardware database...
+( 5/13) Applying kernel sysctl settings...
+( 6/13) Creating temporary files...
+( 7/13) Reloading device manager configuration...
+( 8/13) Arming ConditionNeedsUpdate...
+( 9/13) Rebuilding certificate stores...
+(10/13) Updating linux initcpios...
+==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'default'
+  -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux.img
+==> Starting build: 5.12.15-arch1-1
+  -> Running build hook: [base]
+  -> Running build hook: [udev]
+  -> Running build hook: [autodetect]
+  -> Running build hook: [modconf]
+  -> Running build hook: [block]
+==> WARNING: Possibly missing firmware for module: xhci_pci
+  -> Running build hook: [filesystems]
+  -> Running build hook: [keyboard]
+  -> Running build hook: [fsck]
+==> Generating module dependencies
+==> Creating zstd-compressed initcpio image: /boot/initramfs-linux.img
+==> Image generation successful
+==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'fallback'
+  -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux-fallback.img -S autodetect
+==> Starting build: 5.12.15-arch1-1
+  -> Running build hook: [base]
+  -> Running build hook: [udev]
+  -> Running build hook: [modconf]
+  -> Running build hook: [block]
+==> WARNING: Possibly missing firmware for module: wd719x
+==> WARNING: Possibly missing firmware for module: aic94xx
+==> WARNING: Possibly missing firmware for module: xhci_pci
+  -> Running build hook: [filesystems]
+  -> Running build hook: [keyboard]
+  -> Running build hook: [fsck]
+==> Generating module dependencies
+==> Creating zstd-compressed initcpio image: /boot/initramfs-linux-fallback.img
+==> Image generation successful
+(11/13) Reloading system bus configuration...
+(12/13) Updating icon theme caches...
+(13/13) Updating the desktop file MIME type cache...
+[root@TTY jds]# 

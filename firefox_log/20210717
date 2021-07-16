@@ -1,0 +1,370 @@
+[jds@TTY bin]$ ./bin
+-bash: ./bin: No such file or directory
+[jds@TTY bin]$ cd ./bin
+-bash: cd: ./bin: No such file or directory
+[jds@TTY bin]$ cd /bin
+[jds@TTY bin]$ ./firefox 
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:672): Gdk-WARNING **: 02:19:01.131: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:01.134: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:01.135: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:01.182: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:02.733: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:02.733: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:02.733: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:02.734: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:03.906: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:03.906: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:03.906: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:19:03.908: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+[GFX1-]: Managed to allocate after flush.
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:672): Gdk-WARNING **: 02:30:31.867: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:31.867: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:31.867: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:31.868: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:33.006: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:33.006: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:33.006: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:33.009: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:35.091: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:35.092: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:35.093: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:35.095: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:36.268: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:36.268: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:36.269: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:36.271: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:37.482: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:37.483: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:37.483: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:37.483: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:39.210: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:39.210: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:39.210: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:39.211: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:40.388: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:40.398: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:40.398: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:40.400: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:41.387: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:41.387: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:41.387: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:30:41.392: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+(firefox:672): Gdk-WARNING **: 02:32:13.477: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:32:13.478: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:32:13.478: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 02:32:13.478: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+
+(firefox:672): Gdk-WARNING **: 03:22:30.238: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:30.238: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:30.238: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:30.243: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:30.945: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:30.945: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:30.945: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:30.990: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:31.839: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:31.843: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:31.844: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:31.896: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:34.063: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:34.063: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:34.063: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:34.104: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:35.148: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:35.149: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:35.149: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+
+(firefox:672): Gdk-WARNING **: 03:22:35.164: Event with type 8 not holding a GdkDevice. It is most likely synthesized outside Gdk/GTK+
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Warning: unknown JFIF revision number 2.01
+Warning: unknown JFIF revision number 2.01
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+Fontconfig warning: "/etc/fonts/local.conf", line 5: unknown element "famil"
+Fontconfig error: "/etc/fonts/local.conf", line 5: mismatched tag
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5C0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+^CExiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+
+[jds@TTY bin]$ 
